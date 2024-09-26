@@ -1,0 +1,1000 @@
+10g: links: /; rechts: 10g
+20g: links: 10g; rechts: 30g
+30g: links: /; rechts: 30g
+40g: links: /; rechts: 10g, 30g
+50g: links: 10g, 30g; rechts: 90g
+60g: links: 30g; rechts: 90g
+70g: links: 30g; rechts: 10g, 90g
+80g: links: 10g; rechts: 90g
+90g: links: /; rechts: 90g
+100g: links: /; rechts: 10g, 90g
+110g: links: 10g; rechts: 90g, 30g
+120g: links: /; rechts: 90g, 30g
+130g: links: /; rechts: 10g, 90g, 30g
+140g: links: 10g, 90g, 30g; rechts: 270g
+150g: links: 90g, 30g; rechts: 270g
+160g: links: 90g, 30g; rechts: 10g, 270g
+170g: links: 10g, 90g; rechts: 270g
+180g: links: 90g; rechts: 270g
+190g: links: 90g; rechts: 10g, 270g
+200g: links: 10g, 90g; rechts: 30g, 270g
+210g: links: 90g; rechts: 30g, 270g
+220g: links: 90g; rechts: 10g, 30g, 270g
+230g: links: 10g, 30g; rechts: 270g
+240g: links: 30g; rechts: 270g
+250g: links: 30g; rechts: 10g, 270g
+260g: links: 10g; rechts: 270g
+270g: links: /; rechts: 270g
+280g: links: /; rechts: 10g, 270g
+290g: links: 10g; rechts: 30g, 270g
+300g: links: /; rechts: 30g, 270g
+310g: links: /; rechts: 10g, 30g, 270g
+320g: links: 10g, 30g; rechts: 90g, 270g
+330g: links: 30g; rechts: 90g, 270g
+340g: links: 30g; rechts: 10g, 90g, 270g
+350g: links: 10g; rechts: 90g, 270g
+360g: links: /; rechts: 90g, 270g
+370g: links: /; rechts: 10g, 90g, 270g
+380g: links: 10g; rechts: 90g, 30g, 270g
+390g: links: /; rechts: 90g, 30g, 270g
+400g: links: /; rechts: 10g, 90g, 30g, 270g
+410g: links: 10g, 90g, 30g, 270g; rechts: 810g
+420g: links: 90g, 30g, 270g; rechts: 810g
+430g: links: 90g, 30g, 270g; rechts: 10g, 810g
+440g: links: 10g, 90g, 270g; rechts: 810g
+450g: links: 90g, 270g; rechts: 810g
+460g: links: 90g, 270g; rechts: 10g, 810g
+470g: links: 10g, 90g, 270g; rechts: 810g, 30g
+480g: links: 90g, 270g; rechts: 810g, 30g
+490g: links: 90g, 270g; rechts: 10g, 810g, 30g
+500g: links: 10g, 30g, 270g; rechts: 810g
+510g: links: 30g, 270g; rechts: 810g
+520g: links: 30g, 270g; rechts: 10g, 810g
+530g: links: 10g, 270g; rechts: 810g
+540g: links: 270g; rechts: 810g
+550g: links: 270g; rechts: 10g, 810g
+560g: links: 10g, 270g; rechts: 810g, 30g
+570g: links: 270g; rechts: 810g, 30g
+580g: links: 270g; rechts: 10g, 810g, 30g
+590g: links: 10g, 30g, 270g; rechts: 90g, 810g
+600g: links: 30g, 270g; rechts: 90g, 810g
+610g: links: 30g, 270g; rechts: 10g, 90g, 810g
+620g: links: 10g, 270g; rechts: 90g, 810g
+630g: links: 270g; rechts: 90g, 810g
+640g: links: 270g; rechts: 10g, 90g, 810g
+650g: links: 10g, 270g; rechts: 90g, 810g, 30g
+660g: links: 270g; rechts: 90g, 810g, 30g
+670g: links: 270g; rechts: 10g, 90g, 810g, 30g
+680g: links: 10g, 90g, 30g; rechts: 810g
+690g: links: 90g, 30g; rechts: 810g
+700g: links: 90g, 30g; rechts: 10g, 810g
+710g: links: 10g, 90g; rechts: 810g
+720g: links: 90g; rechts: 810g
+730g: links: 90g; rechts: 10g, 810g
+740g: links: 10g, 90g; rechts: 810g, 30g
+750g: links: 90g; rechts: 810g, 30g
+760g: links: 90g; rechts: 10g, 810g, 30g
+770g: links: 10g, 30g; rechts: 810g
+780g: links: 30g; rechts: 810g
+790g: links: 30g; rechts: 10g, 810g
+800g: links: 10g; rechts: 810g
+810g: links: /; rechts: 810g
+820g: links: /; rechts: 10g, 810g
+830g: links: 10g; rechts: 810g, 30g
+840g: links: /; rechts: 810g, 30g
+850g: links: /; rechts: 10g, 810g, 30g
+860g: links: 10g, 30g; rechts: 90g, 810g
+870g: links: 30g; rechts: 90g, 810g
+880g: links: 30g; rechts: 10g, 90g, 810g
+890g: links: 10g; rechts: 90g, 810g
+900g: links: /; rechts: 90g, 810g
+910g: links: /; rechts: 10g, 90g, 810g
+920g: links: 10g; rechts: 90g, 810g, 30g
+930g: links: /; rechts: 90g, 810g, 30g
+940g: links: /; rechts: 10g, 90g, 810g, 30g
+950g: links: 10g, 90g, 30g; rechts: 810g, 270g
+960g: links: 90g, 30g; rechts: 810g, 270g
+970g: links: 90g, 30g; rechts: 10g, 810g, 270g
+980g: links: 10g, 90g; rechts: 810g, 270g
+990g: links: 90g; rechts: 810g, 270g
+1000g: links: 90g; rechts: 10g, 810g, 270g
+1010g: links: 10g, 90g; rechts: 810g, 30g, 270g
+1020g: links: 90g; rechts: 810g, 30g, 270g
+1030g: links: 90g; rechts: 10g, 810g, 30g, 270g
+1040g: links: 10g, 30g; rechts: 810g, 270g
+1050g: links: 30g; rechts: 810g, 270g
+1060g: links: 30g; rechts: 10g, 810g, 270g
+1070g: links: 10g; rechts: 810g, 270g
+1080g: links: /; rechts: 810g, 270g
+1090g: links: /; rechts: 10g, 810g, 270g
+1100g: links: 10g; rechts: 810g, 30g, 270g
+1110g: links: /; rechts: 810g, 30g, 270g
+1120g: links: /; rechts: 10g, 810g, 30g, 270g
+1130g: links: 10g, 30g; rechts: 90g, 810g, 270g
+1140g: links: 30g; rechts: 90g, 810g, 270g
+1150g: links: 30g; rechts: 10g, 90g, 810g, 270g
+1160g: links: 10g; rechts: 90g, 810g, 270g
+1170g: links: /; rechts: 90g, 810g, 270g
+1180g: links: /; rechts: 10g, 90g, 810g, 270g
+1190g: links: 10g; rechts: 90g, 810g, 30g, 270g
+1200g: links: /; rechts: 90g, 810g, 30g, 270g
+1210g: links: /; rechts: 10g, 90g, 810g, 30g, 270g
+1220g: links: 10g, 90g, 810g, 30g, 270g; rechts: 2430g
+1230g: links: 90g, 810g, 30g, 270g; rechts: 2430g
+1240g: links: 90g, 810g, 30g, 270g; rechts: 10g, 2430g
+1250g: links: 10g, 90g, 810g, 270g; rechts: 2430g
+1260g: links: 90g, 810g, 270g; rechts: 2430g
+1270g: links: 90g, 810g, 270g; rechts: 10g, 2430g
+1280g: links: 10g, 90g, 810g, 270g; rechts: 30g, 2430g
+1290g: links: 90g, 810g, 270g; rechts: 30g, 2430g
+1300g: links: 90g, 810g, 270g; rechts: 10g, 30g, 2430g
+1310g: links: 10g, 810g, 30g, 270g; rechts: 2430g
+1320g: links: 810g, 30g, 270g; rechts: 2430g
+1330g: links: 810g, 30g, 270g; rechts: 10g, 2430g
+1340g: links: 10g, 810g, 270g; rechts: 2430g
+1350g: links: 810g, 270g; rechts: 2430g
+1360g: links: 810g, 270g; rechts: 10g, 2430g
+1370g: links: 10g, 810g, 270g; rechts: 30g, 2430g
+1380g: links: 810g, 270g; rechts: 30g, 2430g
+1390g: links: 810g, 270g; rechts: 10g, 30g, 2430g
+1400g: links: 10g, 810g, 30g, 270g; rechts: 90g, 2430g
+1410g: links: 810g, 30g, 270g; rechts: 90g, 2430g
+1420g: links: 810g, 30g, 270g; rechts: 10g, 90g, 2430g
+1430g: links: 10g, 810g, 270g; rechts: 90g, 2430g
+1440g: links: 810g, 270g; rechts: 90g, 2430g
+1450g: links: 810g, 270g; rechts: 10g, 90g, 2430g
+1460g: links: 10g, 810g, 270g; rechts: 90g, 30g, 2430g
+1470g: links: 810g, 270g; rechts: 90g, 30g, 2430g
+1480g: links: 810g, 270g; rechts: 10g, 90g, 30g, 2430g
+1490g: links: 10g, 90g, 810g, 30g; rechts: 2430g
+1500g: links: 90g, 810g, 30g; rechts: 2430g
+1510g: links: 90g, 810g, 30g; rechts: 10g, 2430g
+1520g: links: 10g, 90g, 810g; rechts: 2430g
+1530g: links: 90g, 810g; rechts: 2430g
+1540g: links: 90g, 810g; rechts: 10g, 2430g
+1550g: links: 10g, 90g, 810g; rechts: 30g, 2430g
+1560g: links: 90g, 810g; rechts: 30g, 2430g
+1570g: links: 90g, 810g; rechts: 10g, 30g, 2430g
+1580g: links: 10g, 810g, 30g; rechts: 2430g
+1590g: links: 810g, 30g; rechts: 2430g
+1600g: links: 810g, 30g; rechts: 10g, 2430g
+1610g: links: 10g, 810g; rechts: 2430g
+1620g: links: 810g; rechts: 2430g
+1630g: links: 810g; rechts: 10g, 2430g
+1640g: links: 10g, 810g; rechts: 30g, 2430g
+1650g: links: 810g; rechts: 30g, 2430g
+1660g: links: 810g; rechts: 10g, 30g, 2430g
+1670g: links: 10g, 810g, 30g; rechts: 90g, 2430g
+1680g: links: 810g, 30g; rechts: 90g, 2430g
+1690g: links: 810g, 30g; rechts: 10g, 90g, 2430g
+1700g: links: 10g, 810g; rechts: 90g, 2430g
+1710g: links: 810g; rechts: 90g, 2430g
+1720g: links: 810g; rechts: 10g, 90g, 2430g
+1730g: links: 10g, 810g; rechts: 90g, 30g, 2430g
+1740g: links: 810g; rechts: 90g, 30g, 2430g
+1750g: links: 810g; rechts: 10g, 90g, 30g, 2430g
+1760g: links: 10g, 90g, 810g, 30g; rechts: 270g, 2430g
+1770g: links: 90g, 810g, 30g; rechts: 270g, 2430g
+1780g: links: 90g, 810g, 30g; rechts: 10g, 270g, 2430g
+1790g: links: 10g, 90g, 810g; rechts: 270g, 2430g
+1800g: links: 90g, 810g; rechts: 270g, 2430g
+1810g: links: 90g, 810g; rechts: 10g, 270g, 2430g
+1820g: links: 10g, 90g, 810g; rechts: 30g, 270g, 2430g
+1830g: links: 90g, 810g; rechts: 30g, 270g, 2430g
+1840g: links: 90g, 810g; rechts: 10g, 30g, 270g, 2430g
+1850g: links: 10g, 810g, 30g; rechts: 270g, 2430g
+1860g: links: 810g, 30g; rechts: 270g, 2430g
+1870g: links: 810g, 30g; rechts: 10g, 270g, 2430g
+1880g: links: 10g, 810g; rechts: 270g, 2430g
+1890g: links: 810g; rechts: 270g, 2430g
+1900g: links: 810g; rechts: 10g, 270g, 2430g
+1910g: links: 10g, 810g; rechts: 30g, 270g, 2430g
+1920g: links: 810g; rechts: 30g, 270g, 2430g
+1930g: links: 810g; rechts: 10g, 30g, 270g, 2430g
+1940g: links: 10g, 810g, 30g; rechts: 90g, 270g, 2430g
+1950g: links: 810g, 30g; rechts: 90g, 270g, 2430g
+1960g: links: 810g, 30g; rechts: 10g, 90g, 270g, 2430g
+1970g: links: 10g, 810g; rechts: 90g, 270g, 2430g
+1980g: links: 810g; rechts: 90g, 270g, 2430g
+1990g: links: 810g; rechts: 10g, 90g, 270g, 2430g
+2000g: links: 10g, 810g; rechts: 90g, 30g, 270g, 2430g
+2010g: links: 810g; rechts: 90g, 30g, 270g, 2430g
+2020g: links: 810g; rechts: 10g, 90g, 30g, 270g, 2430g
+2030g: links: 10g, 90g, 30g, 270g; rechts: 2430g
+2040g: links: 90g, 30g, 270g; rechts: 2430g
+2050g: links: 90g, 30g, 270g; rechts: 10g, 2430g
+2060g: links: 10g, 90g, 270g; rechts: 2430g
+2070g: links: 90g, 270g; rechts: 2430g
+2080g: links: 90g, 270g; rechts: 10g, 2430g
+2090g: links: 10g, 90g, 270g; rechts: 30g, 2430g
+2100g: links: 90g, 270g; rechts: 30g, 2430g
+2110g: links: 90g, 270g; rechts: 10g, 30g, 2430g
+2120g: links: 10g, 30g, 270g; rechts: 2430g
+2130g: links: 30g, 270g; rechts: 2430g
+2140g: links: 30g, 270g; rechts: 10g, 2430g
+2150g: links: 10g, 270g; rechts: 2430g
+2160g: links: 270g; rechts: 2430g
+2170g: links: 270g; rechts: 10g, 2430g
+2180g: links: 10g, 270g; rechts: 30g, 2430g
+2190g: links: 270g; rechts: 30g, 2430g
+2200g: links: 270g; rechts: 10g, 30g, 2430g
+2210g: links: 10g, 30g, 270g; rechts: 90g, 2430g
+2220g: links: 30g, 270g; rechts: 90g, 2430g
+2230g: links: 30g, 270g; rechts: 10g, 90g, 2430g
+2240g: links: 10g, 270g; rechts: 90g, 2430g
+2250g: links: 270g; rechts: 90g, 2430g
+2260g: links: 270g; rechts: 10g, 90g, 2430g
+2270g: links: 10g, 270g; rechts: 90g, 30g, 2430g
+2280g: links: 270g; rechts: 90g, 30g, 2430g
+2290g: links: 270g; rechts: 10g, 90g, 30g, 2430g
+2300g: links: 10g, 90g, 30g; rechts: 2430g
+2310g: links: 90g, 30g; rechts: 2430g
+2320g: links: 90g, 30g; rechts: 10g, 2430g
+2330g: links: 10g, 90g; rechts: 2430g
+2340g: links: 90g; rechts: 2430g
+2350g: links: 90g; rechts: 10g, 2430g
+2360g: links: 10g, 90g; rechts: 30g, 2430g
+2370g: links: 90g; rechts: 30g, 2430g
+2380g: links: 90g; rechts: 10g, 30g, 2430g
+2390g: links: 10g, 30g; rechts: 2430g
+2400g: links: 30g; rechts: 2430g
+2410g: links: 30g; rechts: 10g, 2430g
+2420g: links: 10g; rechts: 2430g
+2430g: links: /; rechts: 2430g
+2440g: links: /; rechts: 10g, 2430g
+2450g: links: 10g; rechts: 30g, 2430g
+2460g: links: /; rechts: 30g, 2430g
+2470g: links: /; rechts: 10g, 30g, 2430g
+2480g: links: 10g, 30g; rechts: 90g, 2430g
+2490g: links: 30g; rechts: 90g, 2430g
+2500g: links: 30g; rechts: 10g, 90g, 2430g
+2510g: links: 10g; rechts: 90g, 2430g
+2520g: links: /; rechts: 90g, 2430g
+2530g: links: /; rechts: 10g, 90g, 2430g
+2540g: links: 10g; rechts: 90g, 30g, 2430g
+2550g: links: /; rechts: 90g, 30g, 2430g
+2560g: links: /; rechts: 10g, 90g, 30g, 2430g
+2570g: links: 10g, 90g, 30g; rechts: 270g, 2430g
+2580g: links: 90g, 30g; rechts: 270g, 2430g
+2590g: links: 90g, 30g; rechts: 10g, 270g, 2430g
+2600g: links: 10g, 90g; rechts: 270g, 2430g
+2610g: links: 90g; rechts: 270g, 2430g
+2620g: links: 90g; rechts: 10g, 270g, 2430g
+2630g: links: 10g, 90g; rechts: 30g, 270g, 2430g
+2640g: links: 90g; rechts: 30g, 270g, 2430g
+2650g: links: 90g; rechts: 10g, 30g, 270g, 2430g
+2660g: links: 10g, 30g; rechts: 270g, 2430g
+2670g: links: 30g; rechts: 270g, 2430g
+2680g: links: 30g; rechts: 10g, 270g, 2430g
+2690g: links: 10g; rechts: 270g, 2430g
+2700g: links: /; rechts: 270g, 2430g
+2710g: links: /; rechts: 10g, 270g, 2430g
+2720g: links: 10g; rechts: 30g, 270g, 2430g
+2730g: links: /; rechts: 30g, 270g, 2430g
+2740g: links: /; rechts: 10g, 30g, 270g, 2430g
+2750g: links: 10g, 30g; rechts: 90g, 270g, 2430g
+2760g: links: 30g; rechts: 90g, 270g, 2430g
+2770g: links: 30g; rechts: 10g, 90g, 270g, 2430g
+2780g: links: 10g; rechts: 90g, 270g, 2430g
+2790g: links: /; rechts: 90g, 270g, 2430g
+2800g: links: /; rechts: 10g, 90g, 270g, 2430g
+2810g: links: 10g; rechts: 90g, 30g, 270g, 2430g
+2820g: links: /; rechts: 90g, 30g, 270g, 2430g
+2830g: links: /; rechts: 10g, 90g, 30g, 270g, 2430g
+2840g: links: 10g, 90g, 30g, 270g; rechts: 810g, 2430g
+2850g: links: 90g, 30g, 270g; rechts: 810g, 2430g
+2860g: links: 90g, 30g, 270g; rechts: 10g, 810g, 2430g
+2870g: links: 10g, 90g, 270g; rechts: 810g, 2430g
+2880g: links: 90g, 270g; rechts: 810g, 2430g
+2890g: links: 90g, 270g; rechts: 10g, 810g, 2430g
+2900g: links: 10g, 90g, 270g; rechts: 810g, 30g, 2430g
+2910g: links: 90g, 270g; rechts: 810g, 30g, 2430g
+2920g: links: 90g, 270g; rechts: 10g, 810g, 30g, 2430g
+2930g: links: 10g, 30g, 270g; rechts: 810g, 2430g
+2940g: links: 30g, 270g; rechts: 810g, 2430g
+2950g: links: 30g, 270g; rechts: 10g, 810g, 2430g
+2960g: links: 10g, 270g; rechts: 810g, 2430g
+2970g: links: 270g; rechts: 810g, 2430g
+2980g: links: 270g; rechts: 10g, 810g, 2430g
+2990g: links: 10g, 270g; rechts: 810g, 30g, 2430g
+3000g: links: 270g; rechts: 810g, 30g, 2430g
+3010g: links: 270g; rechts: 10g, 810g, 30g, 2430g
+3020g: links: 10g, 30g, 270g; rechts: 90g, 810g, 2430g
+3030g: links: 30g, 270g; rechts: 90g, 810g, 2430g
+3040g: links: 30g, 270g; rechts: 10g, 90g, 810g, 2430g
+3050g: links: 10g, 270g; rechts: 90g, 810g, 2430g
+3060g: links: 270g; rechts: 90g, 810g, 2430g
+3070g: links: 270g; rechts: 10g, 90g, 810g, 2430g
+3080g: links: 10g, 270g; rechts: 90g, 810g, 30g, 2430g
+3090g: links: 270g; rechts: 90g, 810g, 30g, 2430g
+3100g: links: 270g; rechts: 10g, 90g, 810g, 30g, 2430g
+3110g: links: 10g, 90g, 30g; rechts: 810g, 2430g
+3120g: links: 90g, 30g; rechts: 810g, 2430g
+3130g: links: 90g, 30g; rechts: 10g, 810g, 2430g
+3140g: links: 10g, 90g; rechts: 810g, 2430g
+3150g: links: 90g; rechts: 810g, 2430g
+3160g: links: 90g; rechts: 10g, 810g, 2430g
+3170g: links: 10g, 90g; rechts: 810g, 30g, 2430g
+3180g: links: 90g; rechts: 810g, 30g, 2430g
+3190g: links: 90g; rechts: 10g, 810g, 30g, 2430g
+3200g: links: 10g, 30g; rechts: 810g, 2430g
+3210g: links: 30g; rechts: 810g, 2430g
+3220g: links: 30g; rechts: 10g, 810g, 2430g
+3230g: links: 10g; rechts: 810g, 2430g
+3240g: links: /; rechts: 810g, 2430g
+3250g: links: /; rechts: 10g, 810g, 2430g
+3260g: links: 10g; rechts: 810g, 30g, 2430g
+3270g: links: /; rechts: 810g, 30g, 2430g
+3280g: links: /; rechts: 10g, 810g, 30g, 2430g
+3290g: links: 10g, 30g; rechts: 90g, 810g, 2430g
+3300g: links: 30g; rechts: 90g, 810g, 2430g
+3310g: links: 30g; rechts: 10g, 90g, 810g, 2430g
+3320g: links: 10g; rechts: 90g, 810g, 2430g
+3330g: links: /; rechts: 90g, 810g, 2430g
+3340g: links: /; rechts: 10g, 90g, 810g, 2430g
+3350g: links: 10g; rechts: 90g, 810g, 30g, 2430g
+3360g: links: /; rechts: 90g, 810g, 30g, 2430g
+3370g: links: /; rechts: 10g, 90g, 810g, 30g, 2430g
+3380g: links: 10g, 90g, 30g; rechts: 810g, 270g, 2430g
+3390g: links: 90g, 30g; rechts: 810g, 270g, 2430g
+3400g: links: 90g, 30g; rechts: 10g, 810g, 270g, 2430g
+3410g: links: 10g, 90g; rechts: 810g, 270g, 2430g
+3420g: links: 90g; rechts: 810g, 270g, 2430g
+3430g: links: 90g; rechts: 10g, 810g, 270g, 2430g
+3440g: links: 10g, 90g; rechts: 810g, 30g, 270g, 2430g
+3450g: links: 90g; rechts: 810g, 30g, 270g, 2430g
+3460g: links: 90g; rechts: 10g, 810g, 30g, 270g, 2430g
+3470g: links: 10g, 30g; rechts: 810g, 270g, 2430g
+3480g: links: 30g; rechts: 810g, 270g, 2430g
+3490g: links: 30g; rechts: 10g, 810g, 270g, 2430g
+3500g: links: 10g; rechts: 810g, 270g, 2430g
+3510g: links: /; rechts: 810g, 270g, 2430g
+3520g: links: /; rechts: 10g, 810g, 270g, 2430g
+3530g: links: 10g; rechts: 810g, 30g, 270g, 2430g
+3540g: links: /; rechts: 810g, 30g, 270g, 2430g
+3550g: links: /; rechts: 10g, 810g, 30g, 270g, 2430g
+3560g: links: 10g, 30g; rechts: 90g, 810g, 270g, 2430g
+3570g: links: 30g; rechts: 90g, 810g, 270g, 2430g
+3580g: links: 30g; rechts: 10g, 90g, 810g, 270g, 2430g
+3590g: links: 10g; rechts: 90g, 810g, 270g, 2430g
+3600g: links: /; rechts: 90g, 810g, 270g, 2430g
+3610g: links: /; rechts: 10g, 90g, 810g, 270g, 2430g
+3620g: links: 10g; rechts: 90g, 810g, 30g, 270g, 2430g
+3630g: links: /; rechts: 90g, 810g, 30g, 270g, 2430g
+3640g: links: /; rechts: 10g, 90g, 810g, 30g, 270g, 2430g
+3650g: links: 10g, 90g, 810g, 30g, 270g, 2430g; rechts: 7290g
+3660g: links: 90g, 810g, 30g, 270g, 2430g; rechts: 7290g
+3670g: links: 90g, 810g, 30g, 270g, 2430g; rechts: 10g, 7290g
+3680g: links: 10g, 90g, 810g, 270g, 2430g; rechts: 7290g
+3690g: links: 90g, 810g, 270g, 2430g; rechts: 7290g
+3700g: links: 90g, 810g, 270g, 2430g; rechts: 10g, 7290g
+3710g: links: 10g, 90g, 810g, 270g, 2430g; rechts: 7290g, 30g
+3720g: links: 90g, 810g, 270g, 2430g; rechts: 7290g, 30g
+3730g: links: 90g, 810g, 270g, 2430g; rechts: 10g, 7290g, 30g
+3740g: links: 10g, 810g, 30g, 270g, 2430g; rechts: 7290g
+3750g: links: 810g, 30g, 270g, 2430g; rechts: 7290g
+3760g: links: 810g, 30g, 270g, 2430g; rechts: 10g, 7290g
+3770g: links: 10g, 810g, 270g, 2430g; rechts: 7290g
+3780g: links: 810g, 270g, 2430g; rechts: 7290g
+3790g: links: 810g, 270g, 2430g; rechts: 10g, 7290g
+3800g: links: 10g, 810g, 270g, 2430g; rechts: 7290g, 30g
+3810g: links: 810g, 270g, 2430g; rechts: 7290g, 30g
+3820g: links: 810g, 270g, 2430g; rechts: 10g, 7290g, 30g
+3830g: links: 10g, 810g, 30g, 270g, 2430g; rechts: 90g, 7290g
+3840g: links: 810g, 30g, 270g, 2430g; rechts: 90g, 7290g
+3850g: links: 810g, 30g, 270g, 2430g; rechts: 10g, 90g, 7290g
+3860g: links: 10g, 810g, 270g, 2430g; rechts: 90g, 7290g
+3870g: links: 810g, 270g, 2430g; rechts: 90g, 7290g
+3880g: links: 810g, 270g, 2430g; rechts: 10g, 90g, 7290g
+3890g: links: 10g, 810g, 270g, 2430g; rechts: 90g, 7290g, 30g
+3900g: links: 810g, 270g, 2430g; rechts: 90g, 7290g, 30g
+3910g: links: 810g, 270g, 2430g; rechts: 10g, 90g, 7290g, 30g
+3920g: links: 10g, 90g, 810g, 30g, 2430g; rechts: 7290g
+3930g: links: 90g, 810g, 30g, 2430g; rechts: 7290g
+3940g: links: 90g, 810g, 30g, 2430g; rechts: 10g, 7290g
+3950g: links: 10g, 90g, 810g, 2430g; rechts: 7290g
+3960g: links: 90g, 810g, 2430g; rechts: 7290g
+3970g: links: 90g, 810g, 2430g; rechts: 10g, 7290g
+3980g: links: 10g, 90g, 810g, 2430g; rechts: 7290g, 30g
+3990g: links: 90g, 810g, 2430g; rechts: 7290g, 30g
+4000g: links: 90g, 810g, 2430g; rechts: 10g, 7290g, 30g
+4010g: links: 10g, 810g, 30g, 2430g; rechts: 7290g
+4020g: links: 810g, 30g, 2430g; rechts: 7290g
+4030g: links: 810g, 30g, 2430g; rechts: 10g, 7290g
+4040g: links: 10g, 810g, 2430g; rechts: 7290g
+4050g: links: 810g, 2430g; rechts: 7290g
+4060g: links: 810g, 2430g; rechts: 10g, 7290g
+4070g: links: 10g, 810g, 2430g; rechts: 7290g, 30g
+4080g: links: 810g, 2430g; rechts: 7290g, 30g
+4090g: links: 810g, 2430g; rechts: 10g, 7290g, 30g
+4100g: links: 10g, 810g, 30g, 2430g; rechts: 90g, 7290g
+4110g: links: 810g, 30g, 2430g; rechts: 90g, 7290g
+4120g: links: 810g, 30g, 2430g; rechts: 10g, 90g, 7290g
+4130g: links: 10g, 810g, 2430g; rechts: 90g, 7290g
+4140g: links: 810g, 2430g; rechts: 90g, 7290g
+4150g: links: 810g, 2430g; rechts: 10g, 90g, 7290g
+4160g: links: 10g, 810g, 2430g; rechts: 90g, 7290g, 30g
+4170g: links: 810g, 2430g; rechts: 90g, 7290g, 30g
+4180g: links: 810g, 2430g; rechts: 10g, 90g, 7290g, 30g
+4190g: links: 10g, 90g, 810g, 30g, 2430g; rechts: 7290g, 270g
+4200g: links: 90g, 810g, 30g, 2430g; rechts: 7290g, 270g
+4210g: links: 90g, 810g, 30g, 2430g; rechts: 10g, 7290g, 270g
+4220g: links: 10g, 90g, 810g, 2430g; rechts: 7290g, 270g
+4230g: links: 90g, 810g, 2430g; rechts: 7290g, 270g
+4240g: links: 90g, 810g, 2430g; rechts: 10g, 7290g, 270g
+4250g: links: 10g, 90g, 810g, 2430g; rechts: 7290g, 30g, 270g
+4260g: links: 90g, 810g, 2430g; rechts: 7290g, 30g, 270g
+4270g: links: 90g, 810g, 2430g; rechts: 10g, 7290g, 30g, 270g
+4280g: links: 10g, 810g, 30g, 2430g; rechts: 7290g, 270g
+4290g: links: 810g, 30g, 2430g; rechts: 7290g, 270g
+4300g: links: 810g, 30g, 2430g; rechts: 10g, 7290g, 270g
+4310g: links: 10g, 810g, 2430g; rechts: 7290g, 270g
+4320g: links: 810g, 2430g; rechts: 7290g, 270g
+4330g: links: 810g, 2430g; rechts: 10g, 7290g, 270g
+4340g: links: 10g, 810g, 2430g; rechts: 7290g, 30g, 270g
+4350g: links: 810g, 2430g; rechts: 7290g, 30g, 270g
+4360g: links: 810g, 2430g; rechts: 10g, 7290g, 30g, 270g
+4370g: links: 10g, 810g, 30g, 2430g; rechts: 90g, 7290g, 270g
+4380g: links: 810g, 30g, 2430g; rechts: 90g, 7290g, 270g
+4390g: links: 810g, 30g, 2430g; rechts: 10g, 90g, 7290g, 270g
+4400g: links: 10g, 810g, 2430g; rechts: 90g, 7290g, 270g
+4410g: links: 810g, 2430g; rechts: 90g, 7290g, 270g
+4420g: links: 810g, 2430g; rechts: 10g, 90g, 7290g, 270g
+4430g: links: 10g, 810g, 2430g; rechts: 90g, 7290g, 30g, 270g
+4440g: links: 810g, 2430g; rechts: 90g, 7290g, 30g, 270g
+4450g: links: 810g, 2430g; rechts: 10g, 90g, 7290g, 30g, 270g
+4460g: links: 10g, 90g, 30g, 270g, 2430g; rechts: 7290g
+4470g: links: 90g, 30g, 270g, 2430g; rechts: 7290g
+4480g: links: 90g, 30g, 270g, 2430g; rechts: 10g, 7290g
+4490g: links: 10g, 90g, 270g, 2430g; rechts: 7290g
+4500g: links: 90g, 270g, 2430g; rechts: 7290g
+4510g: links: 90g, 270g, 2430g; rechts: 10g, 7290g
+4520g: links: 10g, 90g, 270g, 2430g; rechts: 7290g, 30g
+4530g: links: 90g, 270g, 2430g; rechts: 7290g, 30g
+4540g: links: 90g, 270g, 2430g; rechts: 10g, 7290g, 30g
+4550g: links: 10g, 30g, 270g, 2430g; rechts: 7290g
+4560g: links: 30g, 270g, 2430g; rechts: 7290g
+4570g: links: 30g, 270g, 2430g; rechts: 10g, 7290g
+4580g: links: 10g, 270g, 2430g; rechts: 7290g
+4590g: links: 270g, 2430g; rechts: 7290g
+4600g: links: 270g, 2430g; rechts: 10g, 7290g
+4610g: links: 10g, 270g, 2430g; rechts: 7290g, 30g
+4620g: links: 270g, 2430g; rechts: 7290g, 30g
+4630g: links: 270g, 2430g; rechts: 10g, 7290g, 30g
+4640g: links: 10g, 30g, 270g, 2430g; rechts: 90g, 7290g
+4650g: links: 30g, 270g, 2430g; rechts: 90g, 7290g
+4660g: links: 30g, 270g, 2430g; rechts: 10g, 90g, 7290g
+4670g: links: 10g, 270g, 2430g; rechts: 90g, 7290g
+4680g: links: 270g, 2430g; rechts: 90g, 7290g
+4690g: links: 270g, 2430g; rechts: 10g, 90g, 7290g
+4700g: links: 10g, 270g, 2430g; rechts: 90g, 7290g, 30g
+4710g: links: 270g, 2430g; rechts: 90g, 7290g, 30g
+4720g: links: 270g, 2430g; rechts: 10g, 90g, 7290g, 30g
+4730g: links: 10g, 90g, 30g, 2430g; rechts: 7290g
+4740g: links: 90g, 30g, 2430g; rechts: 7290g
+4750g: links: 90g, 30g, 2430g; rechts: 10g, 7290g
+4760g: links: 10g, 90g, 2430g; rechts: 7290g
+4770g: links: 90g, 2430g; rechts: 7290g
+4780g: links: 90g, 2430g; rechts: 10g, 7290g
+4790g: links: 10g, 90g, 2430g; rechts: 7290g, 30g
+4800g: links: 90g, 2430g; rechts: 7290g, 30g
+4810g: links: 90g, 2430g; rechts: 10g, 7290g, 30g
+4820g: links: 10g, 30g, 2430g; rechts: 7290g
+4830g: links: 30g, 2430g; rechts: 7290g
+4840g: links: 30g, 2430g; rechts: 10g, 7290g
+4850g: links: 10g, 2430g; rechts: 7290g
+4860g: links: 2430g; rechts: 7290g
+4870g: links: 2430g; rechts: 10g, 7290g
+4880g: links: 10g, 2430g; rechts: 7290g, 30g
+4890g: links: 2430g; rechts: 7290g, 30g
+4900g: links: 2430g; rechts: 10g, 7290g, 30g
+4910g: links: 10g, 30g, 2430g; rechts: 90g, 7290g
+4920g: links: 30g, 2430g; rechts: 90g, 7290g
+4930g: links: 30g, 2430g; rechts: 10g, 90g, 7290g
+4940g: links: 10g, 2430g; rechts: 90g, 7290g
+4950g: links: 2430g; rechts: 90g, 7290g
+4960g: links: 2430g; rechts: 10g, 90g, 7290g
+4970g: links: 10g, 2430g; rechts: 90g, 7290g, 30g
+4980g: links: 2430g; rechts: 90g, 7290g, 30g
+4990g: links: 2430g; rechts: 10g, 90g, 7290g, 30g
+5000g: links: 10g, 90g, 30g, 2430g; rechts: 7290g, 270g
+5010g: links: 90g, 30g, 2430g; rechts: 7290g, 270g
+5020g: links: 90g, 30g, 2430g; rechts: 10g, 7290g, 270g
+5030g: links: 10g, 90g, 2430g; rechts: 7290g, 270g
+5040g: links: 90g, 2430g; rechts: 7290g, 270g
+5050g: links: 90g, 2430g; rechts: 10g, 7290g, 270g
+5060g: links: 10g, 90g, 2430g; rechts: 7290g, 30g, 270g
+5070g: links: 90g, 2430g; rechts: 7290g, 30g, 270g
+5080g: links: 90g, 2430g; rechts: 10g, 7290g, 30g, 270g
+5090g: links: 10g, 30g, 2430g; rechts: 7290g, 270g
+5100g: links: 30g, 2430g; rechts: 7290g, 270g
+5110g: links: 30g, 2430g; rechts: 10g, 7290g, 270g
+5120g: links: 10g, 2430g; rechts: 7290g, 270g
+5130g: links: 2430g; rechts: 7290g, 270g
+5140g: links: 2430g; rechts: 10g, 7290g, 270g
+5150g: links: 10g, 2430g; rechts: 7290g, 30g, 270g
+5160g: links: 2430g; rechts: 7290g, 30g, 270g
+5170g: links: 2430g; rechts: 10g, 7290g, 30g, 270g
+5180g: links: 10g, 30g, 2430g; rechts: 90g, 7290g, 270g
+5190g: links: 30g, 2430g; rechts: 90g, 7290g, 270g
+5200g: links: 30g, 2430g; rechts: 10g, 90g, 7290g, 270g
+5210g: links: 10g, 2430g; rechts: 90g, 7290g, 270g
+5220g: links: 2430g; rechts: 90g, 7290g, 270g
+5230g: links: 2430g; rechts: 10g, 90g, 7290g, 270g
+5240g: links: 10g, 2430g; rechts: 90g, 7290g, 30g, 270g
+5250g: links: 2430g; rechts: 90g, 7290g, 30g, 270g
+5260g: links: 2430g; rechts: 10g, 90g, 7290g, 30g, 270g
+5270g: links: 10g, 90g, 30g, 270g, 2430g; rechts: 810g, 7290g
+5280g: links: 90g, 30g, 270g, 2430g; rechts: 810g, 7290g
+5290g: links: 90g, 30g, 270g, 2430g; rechts: 10g, 810g, 7290g
+5300g: links: 10g, 90g, 270g, 2430g; rechts: 810g, 7290g
+5310g: links: 90g, 270g, 2430g; rechts: 810g, 7290g
+5320g: links: 90g, 270g, 2430g; rechts: 10g, 810g, 7290g
+5330g: links: 10g, 90g, 270g, 2430g; rechts: 810g, 7290g, 30g
+5340g: links: 90g, 270g, 2430g; rechts: 810g, 7290g, 30g
+5350g: links: 90g, 270g, 2430g; rechts: 10g, 810g, 7290g, 30g
+5360g: links: 10g, 30g, 270g, 2430g; rechts: 810g, 7290g
+5370g: links: 30g, 270g, 2430g; rechts: 810g, 7290g
+5380g: links: 30g, 270g, 2430g; rechts: 10g, 810g, 7290g
+5390g: links: 10g, 270g, 2430g; rechts: 810g, 7290g
+5400g: links: 270g, 2430g; rechts: 810g, 7290g
+5410g: links: 270g, 2430g; rechts: 10g, 810g, 7290g
+5420g: links: 10g, 270g, 2430g; rechts: 810g, 7290g, 30g
+5430g: links: 270g, 2430g; rechts: 810g, 7290g, 30g
+5440g: links: 270g, 2430g; rechts: 10g, 810g, 7290g, 30g
+5450g: links: 10g, 30g, 270g, 2430g; rechts: 90g, 810g, 7290g
+5460g: links: 30g, 270g, 2430g; rechts: 90g, 810g, 7290g
+5470g: links: 30g, 270g, 2430g; rechts: 10g, 90g, 810g, 7290g
+5480g: links: 10g, 270g, 2430g; rechts: 90g, 810g, 7290g
+5490g: links: 270g, 2430g; rechts: 90g, 810g, 7290g
+5500g: links: 270g, 2430g; rechts: 10g, 90g, 810g, 7290g
+5510g: links: 10g, 270g, 2430g; rechts: 90g, 810g, 7290g, 30g
+5520g: links: 270g, 2430g; rechts: 90g, 810g, 7290g, 30g
+5530g: links: 270g, 2430g; rechts: 10g, 90g, 810g, 7290g, 30g
+5540g: links: 10g, 90g, 30g, 2430g; rechts: 810g, 7290g
+5550g: links: 90g, 30g, 2430g; rechts: 810g, 7290g
+5560g: links: 90g, 30g, 2430g; rechts: 10g, 810g, 7290g
+5570g: links: 10g, 90g, 2430g; rechts: 810g, 7290g
+5580g: links: 90g, 2430g; rechts: 810g, 7290g
+5590g: links: 90g, 2430g; rechts: 10g, 810g, 7290g
+5600g: links: 10g, 90g, 2430g; rechts: 810g, 7290g, 30g
+5610g: links: 90g, 2430g; rechts: 810g, 7290g, 30g
+5620g: links: 90g, 2430g; rechts: 10g, 810g, 7290g, 30g
+5630g: links: 10g, 30g, 2430g; rechts: 810g, 7290g
+5640g: links: 30g, 2430g; rechts: 810g, 7290g
+5650g: links: 30g, 2430g; rechts: 10g, 810g, 7290g
+5660g: links: 10g, 2430g; rechts: 810g, 7290g
+5670g: links: 2430g; rechts: 810g, 7290g
+5680g: links: 2430g; rechts: 10g, 810g, 7290g
+5690g: links: 10g, 2430g; rechts: 810g, 7290g, 30g
+5700g: links: 2430g; rechts: 810g, 7290g, 30g
+5710g: links: 2430g; rechts: 10g, 810g, 7290g, 30g
+5720g: links: 10g, 30g, 2430g; rechts: 90g, 810g, 7290g
+5730g: links: 30g, 2430g; rechts: 90g, 810g, 7290g
+5740g: links: 30g, 2430g; rechts: 10g, 90g, 810g, 7290g
+5750g: links: 10g, 2430g; rechts: 90g, 810g, 7290g
+5760g: links: 2430g; rechts: 90g, 810g, 7290g
+5770g: links: 2430g; rechts: 10g, 90g, 810g, 7290g
+5780g: links: 10g, 2430g; rechts: 90g, 810g, 7290g, 30g
+5790g: links: 2430g; rechts: 90g, 810g, 7290g, 30g
+5800g: links: 2430g; rechts: 10g, 90g, 810g, 7290g, 30g
+5810g: links: 10g, 90g, 30g, 2430g; rechts: 810g, 7290g, 270g
+5820g: links: 90g, 30g, 2430g; rechts: 810g, 7290g, 270g
+5830g: links: 90g, 30g, 2430g; rechts: 10g, 810g, 7290g, 270g
+5840g: links: 10g, 90g, 2430g; rechts: 810g, 7290g, 270g
+5850g: links: 90g, 2430g; rechts: 810g, 7290g, 270g
+5860g: links: 90g, 2430g; rechts: 10g, 810g, 7290g, 270g
+5870g: links: 10g, 90g, 2430g; rechts: 810g, 7290g, 30g, 270g
+5880g: links: 90g, 2430g; rechts: 810g, 7290g, 30g, 270g
+5890g: links: 90g, 2430g; rechts: 10g, 810g, 7290g, 30g, 270g
+5900g: links: 10g, 30g, 2430g; rechts: 810g, 7290g, 270g
+5910g: links: 30g, 2430g; rechts: 810g, 7290g, 270g
+5920g: links: 30g, 2430g; rechts: 10g, 810g, 7290g, 270g
+5930g: links: 10g, 2430g; rechts: 810g, 7290g, 270g
+5940g: links: 2430g; rechts: 810g, 7290g, 270g
+5950g: links: 2430g; rechts: 10g, 810g, 7290g, 270g
+5960g: links: 10g, 2430g; rechts: 810g, 7290g, 30g, 270g
+5970g: links: 2430g; rechts: 810g, 7290g, 30g, 270g
+5980g: links: 2430g; rechts: 10g, 810g, 7290g, 30g, 270g
+5990g: links: 10g, 30g, 2430g; rechts: 90g, 810g, 7290g, 270g
+6000g: links: 30g, 2430g; rechts: 90g, 810g, 7290g, 270g
+6010g: links: 30g, 2430g; rechts: 10g, 90g, 810g, 7290g, 270g
+6020g: links: 10g, 2430g; rechts: 90g, 810g, 7290g, 270g
+6030g: links: 2430g; rechts: 90g, 810g, 7290g, 270g
+6040g: links: 2430g; rechts: 10g, 90g, 810g, 7290g, 270g
+6050g: links: 10g, 2430g; rechts: 90g, 810g, 7290g, 30g, 270g
+6060g: links: 2430g; rechts: 90g, 810g, 7290g, 30g, 270g
+6070g: links: 2430g; rechts: 10g, 90g, 810g, 7290g, 30g, 270g
+6080g: links: 10g, 90g, 810g, 30g, 270g; rechts: 7290g
+6090g: links: 90g, 810g, 30g, 270g; rechts: 7290g
+6100g: links: 90g, 810g, 30g, 270g; rechts: 10g, 7290g
+6110g: links: 10g, 90g, 810g, 270g; rechts: 7290g
+6120g: links: 90g, 810g, 270g; rechts: 7290g
+6130g: links: 90g, 810g, 270g; rechts: 10g, 7290g
+6140g: links: 10g, 90g, 810g, 270g; rechts: 7290g, 30g
+6150g: links: 90g, 810g, 270g; rechts: 7290g, 30g
+6160g: links: 90g, 810g, 270g; rechts: 10g, 7290g, 30g
+6170g: links: 10g, 810g, 30g, 270g; rechts: 7290g
+6180g: links: 810g, 30g, 270g; rechts: 7290g
+6190g: links: 810g, 30g, 270g; rechts: 10g, 7290g
+6200g: links: 10g, 810g, 270g; rechts: 7290g
+6210g: links: 810g, 270g; rechts: 7290g
+6220g: links: 810g, 270g; rechts: 10g, 7290g
+6230g: links: 10g, 810g, 270g; rechts: 7290g, 30g
+6240g: links: 810g, 270g; rechts: 7290g, 30g
+6250g: links: 810g, 270g; rechts: 10g, 7290g, 30g
+6260g: links: 10g, 810g, 30g, 270g; rechts: 90g, 7290g
+6270g: links: 810g, 30g, 270g; rechts: 90g, 7290g
+6280g: links: 810g, 30g, 270g; rechts: 10g, 90g, 7290g
+6290g: links: 10g, 810g, 270g; rechts: 90g, 7290g
+6300g: links: 810g, 270g; rechts: 90g, 7290g
+6310g: links: 810g, 270g; rechts: 10g, 90g, 7290g
+6320g: links: 10g, 810g, 270g; rechts: 90g, 7290g, 30g
+6330g: links: 810g, 270g; rechts: 90g, 7290g, 30g
+6340g: links: 810g, 270g; rechts: 10g, 90g, 7290g, 30g
+6350g: links: 10g, 90g, 810g, 30g; rechts: 7290g
+6360g: links: 90g, 810g, 30g; rechts: 7290g
+6370g: links: 90g, 810g, 30g; rechts: 10g, 7290g
+6380g: links: 10g, 90g, 810g; rechts: 7290g
+6390g: links: 90g, 810g; rechts: 7290g
+6400g: links: 90g, 810g; rechts: 10g, 7290g
+6410g: links: 10g, 90g, 810g; rechts: 7290g, 30g
+6420g: links: 90g, 810g; rechts: 7290g, 30g
+6430g: links: 90g, 810g; rechts: 10g, 7290g, 30g
+6440g: links: 10g, 810g, 30g; rechts: 7290g
+6450g: links: 810g, 30g; rechts: 7290g
+6460g: links: 810g, 30g; rechts: 10g, 7290g
+6470g: links: 10g, 810g; rechts: 7290g
+6480g: links: 810g; rechts: 7290g
+6490g: links: 810g; rechts: 10g, 7290g
+6500g: links: 10g, 810g; rechts: 7290g, 30g
+6510g: links: 810g; rechts: 7290g, 30g
+6520g: links: 810g; rechts: 10g, 7290g, 30g
+6530g: links: 10g, 810g, 30g; rechts: 90g, 7290g
+6540g: links: 810g, 30g; rechts: 90g, 7290g
+6550g: links: 810g, 30g; rechts: 10g, 90g, 7290g
+6560g: links: 10g, 810g; rechts: 90g, 7290g
+6570g: links: 810g; rechts: 90g, 7290g
+6580g: links: 810g; rechts: 10g, 90g, 7290g
+6590g: links: 10g, 810g; rechts: 90g, 7290g, 30g
+6600g: links: 810g; rechts: 90g, 7290g, 30g
+6610g: links: 810g; rechts: 10g, 90g, 7290g, 30g
+6620g: links: 10g, 90g, 810g, 30g; rechts: 7290g, 270g
+6630g: links: 90g, 810g, 30g; rechts: 7290g, 270g
+6640g: links: 90g, 810g, 30g; rechts: 10g, 7290g, 270g
+6650g: links: 10g, 90g, 810g; rechts: 7290g, 270g
+6660g: links: 90g, 810g; rechts: 7290g, 270g
+6670g: links: 90g, 810g; rechts: 10g, 7290g, 270g
+6680g: links: 10g, 90g, 810g; rechts: 7290g, 30g, 270g
+6690g: links: 90g, 810g; rechts: 7290g, 30g, 270g
+6700g: links: 90g, 810g; rechts: 10g, 7290g, 30g, 270g
+6710g: links: 10g, 810g, 30g; rechts: 7290g, 270g
+6720g: links: 810g, 30g; rechts: 7290g, 270g
+6730g: links: 810g, 30g; rechts: 10g, 7290g, 270g
+6740g: links: 10g, 810g; rechts: 7290g, 270g
+6750g: links: 810g; rechts: 7290g, 270g
+6760g: links: 810g; rechts: 10g, 7290g, 270g
+6770g: links: 10g, 810g; rechts: 7290g, 30g, 270g
+6780g: links: 810g; rechts: 7290g, 30g, 270g
+6790g: links: 810g; rechts: 10g, 7290g, 30g, 270g
+6800g: links: 10g, 810g, 30g; rechts: 90g, 7290g, 270g
+6810g: links: 810g, 30g; rechts: 90g, 7290g, 270g
+6820g: links: 810g, 30g; rechts: 10g, 90g, 7290g, 270g
+6830g: links: 10g, 810g; rechts: 90g, 7290g, 270g
+6840g: links: 810g; rechts: 90g, 7290g, 270g
+6850g: links: 810g; rechts: 10g, 90g, 7290g, 270g
+6860g: links: 10g, 810g; rechts: 90g, 7290g, 30g, 270g
+6870g: links: 810g; rechts: 90g, 7290g, 30g, 270g
+6880g: links: 810g; rechts: 10g, 90g, 7290g, 30g, 270g
+6890g: links: 10g, 90g, 30g, 270g; rechts: 7290g
+6900g: links: 90g, 30g, 270g; rechts: 7290g
+6910g: links: 90g, 30g, 270g; rechts: 10g, 7290g
+6920g: links: 10g, 90g, 270g; rechts: 7290g
+6930g: links: 90g, 270g; rechts: 7290g
+6940g: links: 90g, 270g; rechts: 10g, 7290g
+6950g: links: 10g, 90g, 270g; rechts: 7290g, 30g
+6960g: links: 90g, 270g; rechts: 7290g, 30g
+6970g: links: 90g, 270g; rechts: 10g, 7290g, 30g
+6980g: links: 10g, 30g, 270g; rechts: 7290g
+6990g: links: 30g, 270g; rechts: 7290g
+7000g: links: 30g, 270g; rechts: 10g, 7290g
+7010g: links: 10g, 270g; rechts: 7290g
+7020g: links: 270g; rechts: 7290g
+7030g: links: 270g; rechts: 10g, 7290g
+7040g: links: 10g, 270g; rechts: 7290g, 30g
+7050g: links: 270g; rechts: 7290g, 30g
+7060g: links: 270g; rechts: 10g, 7290g, 30g
+7070g: links: 10g, 30g, 270g; rechts: 90g, 7290g
+7080g: links: 30g, 270g; rechts: 90g, 7290g
+7090g: links: 30g, 270g; rechts: 10g, 90g, 7290g
+7100g: links: 10g, 270g; rechts: 90g, 7290g
+7110g: links: 270g; rechts: 90g, 7290g
+7120g: links: 270g; rechts: 10g, 90g, 7290g
+7130g: links: 10g, 270g; rechts: 90g, 7290g, 30g
+7140g: links: 270g; rechts: 90g, 7290g, 30g
+7150g: links: 270g; rechts: 10g, 90g, 7290g, 30g
+7160g: links: 10g, 90g, 30g; rechts: 7290g
+7170g: links: 90g, 30g; rechts: 7290g
+7180g: links: 90g, 30g; rechts: 10g, 7290g
+7190g: links: 10g, 90g; rechts: 7290g
+7200g: links: 90g; rechts: 7290g
+7210g: links: 90g; rechts: 10g, 7290g
+7220g: links: 10g, 90g; rechts: 7290g, 30g
+7230g: links: 90g; rechts: 7290g, 30g
+7240g: links: 90g; rechts: 10g, 7290g, 30g
+7250g: links: 10g, 30g; rechts: 7290g
+7260g: links: 30g; rechts: 7290g
+7270g: links: 30g; rechts: 10g, 7290g
+7280g: links: 10g; rechts: 7290g
+7290g: links: /; rechts: 7290g
+7300g: links: /; rechts: 10g, 7290g
+7310g: links: 10g; rechts: 7290g, 30g
+7320g: links: /; rechts: 7290g, 30g
+7330g: links: /; rechts: 10g, 7290g, 30g
+7340g: links: 10g, 30g; rechts: 90g, 7290g
+7350g: links: 30g; rechts: 90g, 7290g
+7360g: links: 30g; rechts: 10g, 90g, 7290g
+7370g: links: 10g; rechts: 90g, 7290g
+7380g: links: /; rechts: 90g, 7290g
+7390g: links: /; rechts: 10g, 90g, 7290g
+7400g: links: 10g; rechts: 90g, 7290g, 30g
+7410g: links: /; rechts: 90g, 7290g, 30g
+7420g: links: /; rechts: 10g, 90g, 7290g, 30g
+7430g: links: 10g, 90g, 30g; rechts: 7290g, 270g
+7440g: links: 90g, 30g; rechts: 7290g, 270g
+7450g: links: 90g, 30g; rechts: 10g, 7290g, 270g
+7460g: links: 10g, 90g; rechts: 7290g, 270g
+7470g: links: 90g; rechts: 7290g, 270g
+7480g: links: 90g; rechts: 10g, 7290g, 270g
+7490g: links: 10g, 90g; rechts: 7290g, 30g, 270g
+7500g: links: 90g; rechts: 7290g, 30g, 270g
+7510g: links: 90g; rechts: 10g, 7290g, 30g, 270g
+7520g: links: 10g, 30g; rechts: 7290g, 270g
+7530g: links: 30g; rechts: 7290g, 270g
+7540g: links: 30g; rechts: 10g, 7290g, 270g
+7550g: links: 10g; rechts: 7290g, 270g
+7560g: links: /; rechts: 7290g, 270g
+7570g: links: /; rechts: 10g, 7290g, 270g
+7580g: links: 10g; rechts: 7290g, 30g, 270g
+7590g: links: /; rechts: 7290g, 30g, 270g
+7600g: links: /; rechts: 10g, 7290g, 30g, 270g
+7610g: links: 10g, 30g; rechts: 90g, 7290g, 270g
+7620g: links: 30g; rechts: 90g, 7290g, 270g
+7630g: links: 30g; rechts: 10g, 90g, 7290g, 270g
+7640g: links: 10g; rechts: 90g, 7290g, 270g
+7650g: links: /; rechts: 90g, 7290g, 270g
+7660g: links: /; rechts: 10g, 90g, 7290g, 270g
+7670g: links: 10g; rechts: 90g, 7290g, 30g, 270g
+7680g: links: /; rechts: 90g, 7290g, 30g, 270g
+7690g: links: /; rechts: 10g, 90g, 7290g, 30g, 270g
+7700g: links: 10g, 90g, 30g, 270g; rechts: 810g, 7290g
+7710g: links: 90g, 30g, 270g; rechts: 810g, 7290g
+7720g: links: 90g, 30g, 270g; rechts: 10g, 810g, 7290g
+7730g: links: 10g, 90g, 270g; rechts: 810g, 7290g
+7740g: links: 90g, 270g; rechts: 810g, 7290g
+7750g: links: 90g, 270g; rechts: 10g, 810g, 7290g
+7760g: links: 10g, 90g, 270g; rechts: 810g, 7290g, 30g
+7770g: links: 90g, 270g; rechts: 810g, 7290g, 30g
+7780g: links: 90g, 270g; rechts: 10g, 810g, 7290g, 30g
+7790g: links: 10g, 30g, 270g; rechts: 810g, 7290g
+7800g: links: 30g, 270g; rechts: 810g, 7290g
+7810g: links: 30g, 270g; rechts: 10g, 810g, 7290g
+7820g: links: 10g, 270g; rechts: 810g, 7290g
+7830g: links: 270g; rechts: 810g, 7290g
+7840g: links: 270g; rechts: 10g, 810g, 7290g
+7850g: links: 10g, 270g; rechts: 810g, 7290g, 30g
+7860g: links: 270g; rechts: 810g, 7290g, 30g
+7870g: links: 270g; rechts: 10g, 810g, 7290g, 30g
+7880g: links: 10g, 30g, 270g; rechts: 90g, 810g, 7290g
+7890g: links: 30g, 270g; rechts: 90g, 810g, 7290g
+7900g: links: 30g, 270g; rechts: 10g, 90g, 810g, 7290g
+7910g: links: 10g, 270g; rechts: 90g, 810g, 7290g
+7920g: links: 270g; rechts: 90g, 810g, 7290g
+7930g: links: 270g; rechts: 10g, 90g, 810g, 7290g
+7940g: links: 10g, 270g; rechts: 90g, 810g, 7290g, 30g
+7950g: links: 270g; rechts: 90g, 810g, 7290g, 30g
+7960g: links: 270g; rechts: 10g, 90g, 810g, 7290g, 30g
+7970g: links: 10g, 90g, 30g; rechts: 810g, 7290g
+7980g: links: 90g, 30g; rechts: 810g, 7290g
+7990g: links: 90g, 30g; rechts: 10g, 810g, 7290g
+8000g: links: 10g, 90g; rechts: 810g, 7290g
+8010g: links: 90g; rechts: 810g, 7290g
+8020g: links: 90g; rechts: 10g, 810g, 7290g
+8030g: links: 10g, 90g; rechts: 810g, 7290g, 30g
+8040g: links: 90g; rechts: 810g, 7290g, 30g
+8050g: links: 90g; rechts: 10g, 810g, 7290g, 30g
+8060g: links: 10g, 30g; rechts: 810g, 7290g
+8070g: links: 30g; rechts: 810g, 7290g
+8080g: links: 30g; rechts: 10g, 810g, 7290g
+8090g: links: 10g; rechts: 810g, 7290g
+8100g: links: /; rechts: 810g, 7290g
+8110g: links: /; rechts: 10g, 810g, 7290g
+8120g: links: 10g; rechts: 810g, 7290g, 30g
+8130g: links: /; rechts: 810g, 7290g, 30g
+8140g: links: /; rechts: 10g, 810g, 7290g, 30g
+8150g: links: 10g, 30g; rechts: 90g, 810g, 7290g
+8160g: links: 30g; rechts: 90g, 810g, 7290g
+8170g: links: 30g; rechts: 10g, 90g, 810g, 7290g
+8180g: links: 10g; rechts: 90g, 810g, 7290g
+8190g: links: /; rechts: 90g, 810g, 7290g
+8200g: links: /; rechts: 10g, 90g, 810g, 7290g
+8210g: links: 10g; rechts: 90g, 810g, 7290g, 30g
+8220g: links: /; rechts: 90g, 810g, 7290g, 30g
+8230g: links: /; rechts: 10g, 90g, 810g, 7290g, 30g
+8240g: links: 10g, 90g, 30g; rechts: 810g, 7290g, 270g
+8250g: links: 90g, 30g; rechts: 810g, 7290g, 270g
+8260g: links: 90g, 30g; rechts: 10g, 810g, 7290g, 270g
+8270g: links: 10g, 90g; rechts: 810g, 7290g, 270g
+8280g: links: 90g; rechts: 810g, 7290g, 270g
+8290g: links: 90g; rechts: 10g, 810g, 7290g, 270g
+8300g: links: 10g, 90g; rechts: 810g, 7290g, 30g, 270g
+8310g: links: 90g; rechts: 810g, 7290g, 30g, 270g
+8320g: links: 90g; rechts: 10g, 810g, 7290g, 30g, 270g
+8330g: links: 10g, 30g; rechts: 810g, 7290g, 270g
+8340g: links: 30g; rechts: 810g, 7290g, 270g
+8350g: links: 30g; rechts: 10g, 810g, 7290g, 270g
+8360g: links: 10g; rechts: 810g, 7290g, 270g
+8370g: links: /; rechts: 810g, 7290g, 270g
+8380g: links: /; rechts: 10g, 810g, 7290g, 270g
+8390g: links: 10g; rechts: 810g, 7290g, 30g, 270g
+8400g: links: /; rechts: 810g, 7290g, 30g, 270g
+8410g: links: /; rechts: 10g, 810g, 7290g, 30g, 270g
+8420g: links: 10g, 30g; rechts: 90g, 810g, 7290g, 270g
+8430g: links: 30g; rechts: 90g, 810g, 7290g, 270g
+8440g: links: 30g; rechts: 10g, 90g, 810g, 7290g, 270g
+8450g: links: 10g; rechts: 90g, 810g, 7290g, 270g
+8460g: links: /; rechts: 90g, 810g, 7290g, 270g
+8470g: links: /; rechts: 10g, 90g, 810g, 7290g, 270g
+8480g: links: 10g; rechts: 90g, 810g, 7290g, 30g, 270g
+8490g: links: /; rechts: 90g, 810g, 7290g, 30g, 270g
+8500g: links: /; rechts: 10g, 90g, 810g, 7290g, 30g, 270g
+8510g: links: 10g, 90g, 810g, 30g, 270g; rechts: 7290g, 2430g
+8520g: links: 90g, 810g, 30g, 270g; rechts: 7290g, 2430g
+8530g: links: 90g, 810g, 30g, 270g; rechts: 10g, 7290g, 2430g
+8540g: links: 10g, 90g, 810g, 270g; rechts: 7290g, 2430g
+8550g: links: 90g, 810g, 270g; rechts: 7290g, 2430g
+8560g: links: 90g, 810g, 270g; rechts: 10g, 7290g, 2430g
+8570g: links: 10g, 90g, 810g, 270g; rechts: 7290g, 30g, 2430g
+8580g: links: 90g, 810g, 270g; rechts: 7290g, 30g, 2430g
+8590g: links: 90g, 810g, 270g; rechts: 10g, 7290g, 30g, 2430g
+8600g: links: 10g, 810g, 30g, 270g; rechts: 7290g, 2430g
+8610g: links: 810g, 30g, 270g; rechts: 7290g, 2430g
+8620g: links: 810g, 30g, 270g; rechts: 10g, 7290g, 2430g
+8630g: links: 10g, 810g, 270g; rechts: 7290g, 2430g
+8640g: links: 810g, 270g; rechts: 7290g, 2430g
+8650g: links: 810g, 270g; rechts: 10g, 7290g, 2430g
+8660g: links: 10g, 810g, 270g; rechts: 7290g, 30g, 2430g
+8670g: links: 810g, 270g; rechts: 7290g, 30g, 2430g
+8680g: links: 810g, 270g; rechts: 10g, 7290g, 30g, 2430g
+8690g: links: 10g, 810g, 30g, 270g; rechts: 90g, 7290g, 2430g
+8700g: links: 810g, 30g, 270g; rechts: 90g, 7290g, 2430g
+8710g: links: 810g, 30g, 270g; rechts: 10g, 90g, 7290g, 2430g
+8720g: links: 10g, 810g, 270g; rechts: 90g, 7290g, 2430g
+8730g: links: 810g, 270g; rechts: 90g, 7290g, 2430g
+8740g: links: 810g, 270g; rechts: 10g, 90g, 7290g, 2430g
+8750g: links: 10g, 810g, 270g; rechts: 90g, 7290g, 30g, 2430g
+8760g: links: 810g, 270g; rechts: 90g, 7290g, 30g, 2430g
+8770g: links: 810g, 270g; rechts: 10g, 90g, 7290g, 30g, 2430g
+8780g: links: 10g, 90g, 810g, 30g; rechts: 7290g, 2430g
+8790g: links: 90g, 810g, 30g; rechts: 7290g, 2430g
+8800g: links: 90g, 810g, 30g; rechts: 10g, 7290g, 2430g
+8810g: links: 10g, 90g, 810g; rechts: 7290g, 2430g
+8820g: links: 90g, 810g; rechts: 7290g, 2430g
+8830g: links: 90g, 810g; rechts: 10g, 7290g, 2430g
+8840g: links: 10g, 90g, 810g; rechts: 7290g, 30g, 2430g
+8850g: links: 90g, 810g; rechts: 7290g, 30g, 2430g
+8860g: links: 90g, 810g; rechts: 10g, 7290g, 30g, 2430g
+8870g: links: 10g, 810g, 30g; rechts: 7290g, 2430g
+8880g: links: 810g, 30g; rechts: 7290g, 2430g
+8890g: links: 810g, 30g; rechts: 10g, 7290g, 2430g
+8900g: links: 10g, 810g; rechts: 7290g, 2430g
+8910g: links: 810g; rechts: 7290g, 2430g
+8920g: links: 810g; rechts: 10g, 7290g, 2430g
+8930g: links: 10g, 810g; rechts: 7290g, 30g, 2430g
+8940g: links: 810g; rechts: 7290g, 30g, 2430g
+8950g: links: 810g; rechts: 10g, 7290g, 30g, 2430g
+8960g: links: 10g, 810g, 30g; rechts: 90g, 7290g, 2430g
+8970g: links: 810g, 30g; rechts: 90g, 7290g, 2430g
+8980g: links: 810g, 30g; rechts: 10g, 90g, 7290g, 2430g
+8990g: links: 10g, 810g; rechts: 90g, 7290g, 2430g
+9000g: links: 810g; rechts: 90g, 7290g, 2430g
+9010g: links: 810g; rechts: 10g, 90g, 7290g, 2430g
+9020g: links: 10g, 810g; rechts: 90g, 7290g, 30g, 2430g
+9030g: links: 810g; rechts: 90g, 7290g, 30g, 2430g
+9040g: links: 810g; rechts: 10g, 90g, 7290g, 30g, 2430g
+9050g: links: 10g, 90g, 810g, 30g; rechts: 7290g, 270g, 2430g
+9060g: links: 90g, 810g, 30g; rechts: 7290g, 270g, 2430g
+9070g: links: 90g, 810g, 30g; rechts: 10g, 7290g, 270g, 2430g
+9080g: links: 10g, 90g, 810g; rechts: 7290g, 270g, 2430g
+9090g: links: 90g, 810g; rechts: 7290g, 270g, 2430g
+9100g: links: 90g, 810g; rechts: 10g, 7290g, 270g, 2430g
+9110g: links: 10g, 90g, 810g; rechts: 7290g, 30g, 270g, 2430g
+9120g: links: 90g, 810g; rechts: 7290g, 30g, 270g, 2430g
+9130g: links: 90g, 810g; rechts: 10g, 7290g, 30g, 270g, 2430g
+9140g: links: 10g, 810g, 30g; rechts: 7290g, 270g, 2430g
+9150g: links: 810g, 30g; rechts: 7290g, 270g, 2430g
+9160g: links: 810g, 30g; rechts: 10g, 7290g, 270g, 2430g
+9170g: links: 10g, 810g; rechts: 7290g, 270g, 2430g
+9180g: links: 810g; rechts: 7290g, 270g, 2430g
+9190g: links: 810g; rechts: 10g, 7290g, 270g, 2430g
+9200g: links: 10g, 810g; rechts: 7290g, 30g, 270g, 2430g
+9210g: links: 810g; rechts: 7290g, 30g, 270g, 2430g
+9220g: links: 810g; rechts: 10g, 7290g, 30g, 270g, 2430g
+9230g: links: 10g, 810g, 30g; rechts: 90g, 7290g, 270g, 2430g
+9240g: links: 810g, 30g; rechts: 90g, 7290g, 270g, 2430g
+9250g: links: 810g, 30g; rechts: 10g, 90g, 7290g, 270g, 2430g
+9260g: links: 10g, 810g; rechts: 90g, 7290g, 270g, 2430g
+9270g: links: 810g; rechts: 90g, 7290g, 270g, 2430g
+9280g: links: 810g; rechts: 10g, 90g, 7290g, 270g, 2430g
+9290g: links: 10g, 810g; rechts: 90g, 7290g, 30g, 270g, 2430g
+9300g: links: 810g; rechts: 90g, 7290g, 30g, 270g, 2430g
+9310g: links: 810g; rechts: 10g, 90g, 7290g, 30g, 270g, 2430g
+9320g: links: 10g, 90g, 30g, 270g; rechts: 7290g, 2430g
+9330g: links: 90g, 30g, 270g; rechts: 7290g, 2430g
+9340g: links: 90g, 30g, 270g; rechts: 10g, 7290g, 2430g
+9350g: links: 10g, 90g, 270g; rechts: 7290g, 2430g
+9360g: links: 90g, 270g; rechts: 7290g, 2430g
+9370g: links: 90g, 270g; rechts: 10g, 7290g, 2430g
+9380g: links: 10g, 90g, 270g; rechts: 7290g, 30g, 2430g
+9390g: links: 90g, 270g; rechts: 7290g, 30g, 2430g
+9400g: links: 90g, 270g; rechts: 10g, 7290g, 30g, 2430g
+9410g: links: 10g, 30g, 270g; rechts: 7290g, 2430g
+9420g: links: 30g, 270g; rechts: 7290g, 2430g
+9430g: links: 30g, 270g; rechts: 10g, 7290g, 2430g
+9440g: links: 10g, 270g; rechts: 7290g, 2430g
+9450g: links: 270g; rechts: 7290g, 2430g
+9460g: links: 270g; rechts: 10g, 7290g, 2430g
+9470g: links: 10g, 270g; rechts: 7290g, 30g, 2430g
+9480g: links: 270g; rechts: 7290g, 30g, 2430g
+9490g: links: 270g; rechts: 10g, 7290g, 30g, 2430g
+9500g: links: 10g, 30g, 270g; rechts: 90g, 7290g, 2430g
+9510g: links: 30g, 270g; rechts: 90g, 7290g, 2430g
+9520g: links: 30g, 270g; rechts: 10g, 90g, 7290g, 2430g
+9530g: links: 10g, 270g; rechts: 90g, 7290g, 2430g
+9540g: links: 270g; rechts: 90g, 7290g, 2430g
+9550g: links: 270g; rechts: 10g, 90g, 7290g, 2430g
+9560g: links: 10g, 270g; rechts: 90g, 7290g, 30g, 2430g
+9570g: links: 270g; rechts: 90g, 7290g, 30g, 2430g
+9580g: links: 270g; rechts: 10g, 90g, 7290g, 30g, 2430g
+9590g: links: 10g, 90g, 30g; rechts: 7290g, 2430g
+9600g: links: 90g, 30g; rechts: 7290g, 2430g
+9610g: links: 90g, 30g; rechts: 10g, 7290g, 2430g
+9620g: links: 10g, 90g; rechts: 7290g, 2430g
+9630g: links: 90g; rechts: 7290g, 2430g
+9640g: links: 90g; rechts: 10g, 7290g, 2430g
+9650g: links: 10g, 90g; rechts: 7290g, 30g, 2430g
+9660g: links: 90g; rechts: 7290g, 30g, 2430g
+9670g: links: 90g; rechts: 10g, 7290g, 30g, 2430g
+9680g: links: 10g, 30g; rechts: 7290g, 2430g
+9690g: links: 30g; rechts: 7290g, 2430g
+9700g: links: 30g; rechts: 10g, 7290g, 2430g
+9710g: links: 10g; rechts: 7290g, 2430g
+9720g: links: /; rechts: 7290g, 2430g
+9730g: links: /; rechts: 10g, 7290g, 2430g
+9740g: links: 10g; rechts: 7290g, 30g, 2430g
+9750g: links: /; rechts: 7290g, 30g, 2430g
+9760g: links: /; rechts: 10g, 7290g, 30g, 2430g
+9770g: links: 10g, 30g; rechts: 90g, 7290g, 2430g
+9780g: links: 30g; rechts: 90g, 7290g, 2430g
+9790g: links: 30g; rechts: 10g, 90g, 7290g, 2430g
+9800g: links: 10g; rechts: 90g, 7290g, 2430g
+9810g: links: /; rechts: 90g, 7290g, 2430g
+9820g: links: /; rechts: 10g, 90g, 7290g, 2430g
+9830g: links: 10g; rechts: 90g, 7290g, 30g, 2430g
+9840g: links: /; rechts: 90g, 7290g, 30g, 2430g
+9850g: links: /; rechts: 10g, 90g, 7290g, 30g, 2430g
+9860g: links: 10g, 90g, 30g; rechts: 7290g, 270g, 2430g
+9870g: links: 90g, 30g; rechts: 7290g, 270g, 2430g
+9880g: links: 90g, 30g; rechts: 10g, 7290g, 270g, 2430g
+9890g: links: 10g, 90g; rechts: 7290g, 270g, 2430g
+9900g: links: 90g; rechts: 7290g, 270g, 2430g
+9910g: links: 90g; rechts: 10g, 7290g, 270g, 2430g
+9920g: links: 10g, 90g; rechts: 7290g, 30g, 270g, 2430g
+9930g: links: 90g; rechts: 7290g, 30g, 270g, 2430g
+9940g: links: 90g; rechts: 10g, 7290g, 30g, 270g, 2430g
+9950g: links: 10g, 30g; rechts: 7290g, 270g, 2430g
+9960g: links: 30g; rechts: 7290g, 270g, 2430g
+9970g: links: 30g; rechts: 10g, 7290g, 270g, 2430g
+9980g: links: 10g; rechts: 7290g, 270g, 2430g
+9990g: links: /; rechts: 7290g, 270g, 2430g
+10000g: links: /; rechts: 10g, 7290g, 270g, 2430g

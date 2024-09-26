@@ -1,0 +1,13 @@
+Parkplatz:
+[ A | B | C | D | E | F | G ]
+[   |   | H | H |   | I | I ]
+
+
+Loesungen:
+A:
+B:
+C: H 1 rechts
+D: H 1 links
+E:
+F: H 1 links, I 2 links
+G: I 1 links

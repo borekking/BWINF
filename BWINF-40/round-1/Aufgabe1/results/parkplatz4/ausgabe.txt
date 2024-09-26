@@ -1,0 +1,22 @@
+Parkplatz:
+[ A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P ]
+[ Q | Q | R | R |   |   | S | S |   |   | T | T |   | U | U |   ]
+
+
+Loesungen:
+A: R 1 rechts, Q 1 rechts
+B: R 2 rechts, Q 2 rechts
+C: R 1 rechts
+D: R 2 rechts
+E:
+F:
+G: S 1 rechts
+H: S 1 links
+I:
+J:
+K: T 1 rechts
+L: T 1 links
+M:
+N: U 1 rechts
+O: U 1 links
+P:

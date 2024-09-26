@@ -1,0 +1,1000 @@
+10g: links: /; rechts: 10g
+20g: links: /; rechts: 10g, 10g
+30g: links: /; rechts: 10g, 10g, 10g
+40g: links: 10g; rechts: 50g
+50g: links: /; rechts: 50g
+60g: links: /; rechts: 50g, 10g
+70g: links: /; rechts: 50g, 10g, 10g
+80g: links: /; rechts: 50g, 10g, 10g, 10g
+90g: links: 10g; rechts: 50g, 50g
+100g: links: /; rechts: 50g, 50g
+110g: links: /; rechts: 50g, 50g, 10g
+120g: links: /; rechts: 50g, 50g, 10g, 10g
+130g: links: /; rechts: 50g, 50g, 10g, 10g, 10g
+140g: links: 10g; rechts: 50g, 100g
+150g: links: /; rechts: 50g, 100g
+160g: links: /; rechts: 50g, 100g, 10g
+170g: links: /; rechts: 50g, 100g, 10g, 10g
+180g: links: /; rechts: 50g, 100g, 10g, 10g, 10g
+190g: links: 10g; rechts: 50g, 50g, 100g
+200g: links: /; rechts: 50g, 50g, 100g
+210g: links: /; rechts: 50g, 50g, 100g, 10g
+220g: links: /; rechts: 50g, 50g, 100g, 10g, 10g
+230g: links: /; rechts: 50g, 50g, 100g, 10g, 10g, 10g
+240g: links: 10g; rechts: 50g, 100g, 100g
+250g: links: /; rechts: 50g, 100g, 100g
+260g: links: /; rechts: 50g, 100g, 100g, 10g
+270g: links: /; rechts: 50g, 100g, 100g, 10g, 10g
+280g: links: /; rechts: 50g, 100g, 100g, 10g, 10g, 10g
+290g: links: 10g; rechts: 50g, 50g, 100g, 100g
+300g: links: /; rechts: 50g, 50g, 100g, 100g
+310g: links: /; rechts: 50g, 50g, 100g, 100g, 10g
+320g: links: /; rechts: 50g, 50g, 100g, 100g, 10g, 10g
+330g: links: /; rechts: 50g, 50g, 100g, 100g, 10g, 10g, 10g
+340g: links: 10g; rechts: 50g, 100g, 100g, 100g
+350g: links: /; rechts: 50g, 100g, 100g, 100g
+360g: links: /; rechts: 50g, 100g, 100g, 100g, 10g
+370g: links: /; rechts: 50g, 100g, 100g, 100g, 10g, 10g
+380g: links: /; rechts: 50g, 100g, 100g, 100g, 10g, 10g, 10g
+390g: links: 10g; rechts: 50g, 50g, 100g, 100g, 100g
+400g: links: /; rechts: 50g, 50g, 100g, 100g, 100g
+410g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 10g
+420g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 10g, 10g
+430g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 10g, 10g, 10g
+440g: links: 50g, 10g; rechts: 500g
+450g: links: 50g; rechts: 500g
+460g: links: 50g; rechts: 500g, 10g
+470g: links: 10g, 10g, 10g; rechts: 500g
+480g: links: 10g, 10g; rechts: 500g
+490g: links: 10g; rechts: 500g
+500g: links: /; rechts: 500g
+510g: links: /; rechts: 500g, 10g
+520g: links: /; rechts: 500g, 10g, 10g
+530g: links: /; rechts: 500g, 10g, 10g, 10g
+540g: links: 10g; rechts: 50g, 500g
+550g: links: /; rechts: 50g, 500g
+560g: links: /; rechts: 50g, 500g, 10g
+570g: links: /; rechts: 50g, 500g, 10g, 10g
+580g: links: /; rechts: 50g, 500g, 10g, 10g, 10g
+590g: links: 10g; rechts: 50g, 50g, 500g
+600g: links: /; rechts: 50g, 50g, 500g
+610g: links: /; rechts: 50g, 50g, 500g, 10g
+620g: links: /; rechts: 50g, 50g, 500g, 10g, 10g
+630g: links: /; rechts: 50g, 50g, 500g, 10g, 10g, 10g
+640g: links: 10g; rechts: 50g, 100g, 500g
+650g: links: /; rechts: 50g, 100g, 500g
+660g: links: /; rechts: 50g, 100g, 500g, 10g
+670g: links: /; rechts: 50g, 100g, 500g, 10g, 10g
+680g: links: /; rechts: 50g, 100g, 500g, 10g, 10g, 10g
+690g: links: 10g; rechts: 50g, 50g, 100g, 500g
+700g: links: /; rechts: 50g, 50g, 100g, 500g
+710g: links: /; rechts: 50g, 50g, 100g, 500g, 10g
+720g: links: /; rechts: 50g, 50g, 100g, 500g, 10g, 10g
+730g: links: /; rechts: 50g, 50g, 100g, 500g, 10g, 10g, 10g
+740g: links: 10g; rechts: 50g, 100g, 100g, 500g
+750g: links: /; rechts: 50g, 100g, 100g, 500g
+760g: links: /; rechts: 50g, 100g, 100g, 500g, 10g
+770g: links: /; rechts: 50g, 100g, 100g, 500g, 10g, 10g
+780g: links: /; rechts: 50g, 100g, 100g, 500g, 10g, 10g, 10g
+790g: links: 10g; rechts: 50g, 50g, 100g, 100g, 500g
+800g: links: /; rechts: 50g, 50g, 100g, 100g, 500g
+810g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 10g
+820g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 10g, 10g
+830g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 10g, 10g, 10g
+840g: links: 10g; rechts: 50g, 100g, 100g, 100g, 500g
+850g: links: /; rechts: 50g, 100g, 100g, 100g, 500g
+860g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 10g
+870g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 10g, 10g
+880g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 10g, 10g, 10g
+890g: links: 10g; rechts: 50g, 50g, 100g, 100g, 100g, 500g
+900g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g
+910g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 10g
+920g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 10g, 10g
+930g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 10g, 10g, 10g
+940g: links: 50g, 10g; rechts: 500g, 500g
+950g: links: 50g; rechts: 500g, 500g
+960g: links: 50g; rechts: 500g, 500g, 10g
+970g: links: 10g, 10g, 10g; rechts: 500g, 500g
+980g: links: 10g, 10g; rechts: 500g, 500g
+990g: links: 10g; rechts: 500g, 500g
+1000g: links: /; rechts: 500g, 500g
+1010g: links: /; rechts: 500g, 500g, 10g
+1020g: links: /; rechts: 500g, 500g, 10g, 10g
+1030g: links: /; rechts: 500g, 500g, 10g, 10g, 10g
+1040g: links: 10g; rechts: 50g, 500g, 500g
+1050g: links: /; rechts: 50g, 500g, 500g
+1060g: links: /; rechts: 50g, 500g, 500g, 10g
+1070g: links: /; rechts: 50g, 500g, 500g, 10g, 10g
+1080g: links: /; rechts: 50g, 500g, 500g, 10g, 10g, 10g
+1090g: links: 10g; rechts: 50g, 50g, 500g, 500g
+1100g: links: /; rechts: 50g, 50g, 500g, 500g
+1110g: links: /; rechts: 50g, 50g, 500g, 500g, 10g
+1120g: links: /; rechts: 50g, 50g, 500g, 500g, 10g, 10g
+1130g: links: /; rechts: 50g, 50g, 500g, 500g, 10g, 10g, 10g
+1140g: links: 10g; rechts: 50g, 100g, 500g, 500g
+1150g: links: /; rechts: 50g, 100g, 500g, 500g
+1160g: links: /; rechts: 50g, 100g, 500g, 500g, 10g
+1170g: links: /; rechts: 50g, 100g, 500g, 500g, 10g, 10g
+1180g: links: /; rechts: 50g, 100g, 500g, 500g, 10g, 10g, 10g
+1190g: links: 10g; rechts: 50g, 50g, 100g, 500g, 500g
+1200g: links: /; rechts: 50g, 50g, 100g, 500g, 500g
+1210g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 10g
+1220g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 10g, 10g
+1230g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 10g, 10g, 10g
+1240g: links: 10g; rechts: 50g, 100g, 100g, 500g, 500g
+1250g: links: /; rechts: 50g, 100g, 100g, 500g, 500g
+1260g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 10g
+1270g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 10g, 10g
+1280g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 10g, 10g, 10g
+1290g: links: 10g; rechts: 50g, 50g, 100g, 100g, 500g, 500g
+1300g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g
+1310g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 10g
+1320g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 10g, 10g
+1330g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 10g, 10g, 10g
+1340g: links: 10g; rechts: 50g, 100g, 100g, 100g, 500g, 500g
+1350g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g
+1360g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 10g
+1370g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 10g, 10g
+1380g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 10g, 10g, 10g
+1390g: links: 10g; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g
+1400g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g
+1410g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 10g
+1420g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 10g, 10g
+1430g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 10g, 10g, 10g
+1440g: links: 50g, 10g; rechts: 500g, 500g, 500g
+1450g: links: 50g; rechts: 500g, 500g, 500g
+1460g: links: 50g; rechts: 500g, 500g, 500g, 10g
+1470g: links: 10g, 10g, 10g; rechts: 500g, 500g, 500g
+1480g: links: 10g, 10g; rechts: 500g, 500g, 500g
+1490g: links: 10g; rechts: 500g, 500g, 500g
+1500g: links: /; rechts: 500g, 500g, 500g
+1510g: links: /; rechts: 500g, 500g, 500g, 10g
+1520g: links: /; rechts: 500g, 500g, 500g, 10g, 10g
+1530g: links: /; rechts: 500g, 500g, 500g, 10g, 10g, 10g
+1540g: links: 10g; rechts: 50g, 500g, 500g, 500g
+1550g: links: /; rechts: 50g, 500g, 500g, 500g
+1560g: links: /; rechts: 50g, 500g, 500g, 500g, 10g
+1570g: links: /; rechts: 50g, 500g, 500g, 500g, 10g, 10g
+1580g: links: /; rechts: 50g, 500g, 500g, 500g, 10g, 10g, 10g
+1590g: links: 10g; rechts: 50g, 50g, 500g, 500g, 500g
+1600g: links: /; rechts: 50g, 50g, 500g, 500g, 500g
+1610g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 10g
+1620g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 10g, 10g
+1630g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 10g, 10g, 10g
+1640g: links: 10g; rechts: 50g, 100g, 500g, 500g, 500g
+1650g: links: /; rechts: 50g, 100g, 500g, 500g, 500g
+1660g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 10g
+1670g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 10g, 10g
+1680g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 10g, 10g, 10g
+1690g: links: 10g; rechts: 50g, 50g, 100g, 500g, 500g, 500g
+1700g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g
+1710g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 10g
+1720g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 10g, 10g
+1730g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 10g, 10g, 10g
+1740g: links: 10g; rechts: 50g, 100g, 100g, 500g, 500g, 500g
+1750g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g
+1760g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 10g
+1770g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 10g, 10g
+1780g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 10g, 10g, 10g
+1790g: links: 10g; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g
+1800g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g
+1810g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 10g
+1820g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 10g, 10g
+1830g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 10g, 10g, 10g
+1840g: links: 10g; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g
+1850g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g
+1860g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 10g
+1870g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 10g, 10g
+1880g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 10g, 10g, 10g
+1890g: links: 10g; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g
+1900g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g
+1910g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 10g
+1920g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 10g, 10g
+1930g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 10g, 10g, 10g
+1940g: links: 50g, 10g; rechts: 500g, 500g, 1000g
+1950g: links: 50g; rechts: 500g, 500g, 1000g
+1960g: links: 50g; rechts: 500g, 500g, 1000g, 10g
+1970g: links: 10g, 10g, 10g; rechts: 500g, 500g, 1000g
+1980g: links: 10g, 10g; rechts: 500g, 500g, 1000g
+1990g: links: 10g; rechts: 500g, 500g, 1000g
+2000g: links: /; rechts: 500g, 500g, 1000g
+2010g: links: /; rechts: 500g, 500g, 1000g, 10g
+2020g: links: /; rechts: 500g, 500g, 1000g, 10g, 10g
+2030g: links: /; rechts: 500g, 500g, 1000g, 10g, 10g, 10g
+2040g: links: 10g; rechts: 50g, 500g, 500g, 1000g
+2050g: links: /; rechts: 50g, 500g, 500g, 1000g
+2060g: links: /; rechts: 50g, 500g, 500g, 1000g, 10g
+2070g: links: /; rechts: 50g, 500g, 500g, 1000g, 10g, 10g
+2080g: links: /; rechts: 50g, 500g, 500g, 1000g, 10g, 10g, 10g
+2090g: links: 10g; rechts: 50g, 50g, 500g, 500g, 1000g
+2100g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g
+2110g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 10g
+2120g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 10g, 10g
+2130g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 10g, 10g, 10g
+2140g: links: 10g; rechts: 50g, 100g, 500g, 500g, 1000g
+2150g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g
+2160g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 10g
+2170g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 10g, 10g
+2180g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 10g, 10g, 10g
+2190g: links: 10g; rechts: 50g, 50g, 100g, 500g, 500g, 1000g
+2200g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g
+2210g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 10g
+2220g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 10g, 10g
+2230g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 10g, 10g, 10g
+2240g: links: 10g; rechts: 50g, 100g, 100g, 500g, 500g, 1000g
+2250g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g
+2260g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 10g
+2270g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 10g, 10g
+2280g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 10g, 10g, 10g
+2290g: links: 10g; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g
+2300g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g
+2310g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 10g
+2320g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 10g, 10g
+2330g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 10g, 10g, 10g
+2340g: links: 10g; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g
+2350g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g
+2360g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 10g
+2370g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 10g, 10g
+2380g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 10g, 10g, 10g
+2390g: links: 10g; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g
+2400g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g
+2410g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 10g
+2420g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 10g, 10g
+2430g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 10g, 10g, 10g
+2440g: links: 50g, 10g; rechts: 500g, 500g, 500g, 1000g
+2450g: links: 50g; rechts: 500g, 500g, 500g, 1000g
+2460g: links: 50g; rechts: 500g, 500g, 500g, 1000g, 10g
+2470g: links: 10g, 10g, 10g; rechts: 500g, 500g, 500g, 1000g
+2480g: links: 10g, 10g; rechts: 500g, 500g, 500g, 1000g
+2490g: links: 10g; rechts: 500g, 500g, 500g, 1000g
+2500g: links: /; rechts: 500g, 500g, 500g, 1000g
+2510g: links: /; rechts: 500g, 500g, 500g, 1000g, 10g
+2520g: links: /; rechts: 500g, 500g, 500g, 1000g, 10g, 10g
+2530g: links: /; rechts: 500g, 500g, 500g, 1000g, 10g, 10g, 10g
+2540g: links: 10g; rechts: 50g, 500g, 500g, 500g, 1000g
+2550g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g
+2560g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 10g
+2570g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 10g, 10g
+2580g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 10g, 10g, 10g
+2590g: links: 10g; rechts: 50g, 50g, 500g, 500g, 500g, 1000g
+2600g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g
+2610g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 10g
+2620g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 10g, 10g
+2630g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 10g, 10g, 10g
+2640g: links: 10g; rechts: 50g, 100g, 500g, 500g, 500g, 1000g
+2650g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g
+2660g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 10g
+2670g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 10g, 10g
+2680g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 10g, 10g, 10g
+2690g: links: 10g; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g
+2700g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g
+2710g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 10g
+2720g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 10g, 10g
+2730g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 10g, 10g, 10g
+2740g: links: 10g; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g
+2750g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g
+2760g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 10g
+2770g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 10g, 10g
+2780g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 10g, 10g, 10g
+2790g: links: 10g; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g
+2800g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g
+2810g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 10g
+2820g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 10g, 10g
+2830g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 10g, 10g, 10g
+2840g: links: 10g; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g
+2850g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g
+2860g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 10g
+2870g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 10g, 10g
+2880g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 10g, 10g, 10g
+2890g: links: 10g; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g
+2900g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g
+2910g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 10g
+2920g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 10g, 10g
+2930g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 10g, 10g, 10g
+2940g: links: 50g, 10g; rechts: 500g, 500g, 1000g, 1000g
+2950g: links: 50g; rechts: 500g, 500g, 1000g, 1000g
+2960g: links: 50g; rechts: 500g, 500g, 1000g, 1000g, 10g
+2970g: links: 10g, 10g, 10g; rechts: 500g, 500g, 1000g, 1000g
+2980g: links: 10g, 10g; rechts: 500g, 500g, 1000g, 1000g
+2990g: links: 10g; rechts: 500g, 500g, 1000g, 1000g
+3000g: links: /; rechts: 500g, 500g, 1000g, 1000g
+3010g: links: /; rechts: 500g, 500g, 1000g, 1000g, 10g
+3020g: links: /; rechts: 500g, 500g, 1000g, 1000g, 10g, 10g
+3030g: links: /; rechts: 500g, 500g, 1000g, 1000g, 10g, 10g, 10g
+3040g: links: 10g; rechts: 50g, 500g, 500g, 1000g, 1000g
+3050g: links: /; rechts: 50g, 500g, 500g, 1000g, 1000g
+3060g: links: /; rechts: 50g, 500g, 500g, 1000g, 1000g, 10g
+3070g: links: /; rechts: 50g, 500g, 500g, 1000g, 1000g, 10g, 10g
+3080g: links: /; rechts: 50g, 500g, 500g, 1000g, 1000g, 10g, 10g, 10g
+3090g: links: 10g; rechts: 50g, 50g, 500g, 500g, 1000g, 1000g
+3100g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 1000g
+3110g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 1000g, 10g
+3120g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 1000g, 10g, 10g
+3130g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 1000g, 10g, 10g, 10g
+3140g: links: 10g; rechts: 50g, 100g, 500g, 500g, 1000g, 1000g
+3150g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 1000g
+3160g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 1000g, 10g
+3170g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 1000g, 10g, 10g
+3180g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 1000g, 10g, 10g, 10g
+3190g: links: 10g; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 1000g
+3200g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 1000g
+3210g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 1000g, 10g
+3220g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 1000g, 10g, 10g
+3230g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 1000g, 10g, 10g, 10g
+3240g: links: 10g; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 1000g
+3250g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 1000g
+3260g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 10g
+3270g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 10g, 10g
+3280g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 10g, 10g, 10g
+3290g: links: 10g; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 1000g
+3300g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 1000g
+3310g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 10g
+3320g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 10g, 10g
+3330g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 10g, 10g, 10g
+3340g: links: 10g; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g
+3350g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g
+3360g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 10g
+3370g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 10g, 10g
+3380g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 10g, 10g, 10g
+3390g: links: 10g; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g
+3400g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g
+3410g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 10g
+3420g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 10g, 10g
+3430g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 10g, 10g, 10g
+3440g: links: 50g, 10g; rechts: 500g, 500g, 500g, 1000g, 1000g
+3450g: links: 50g; rechts: 500g, 500g, 500g, 1000g, 1000g
+3460g: links: 50g; rechts: 500g, 500g, 500g, 1000g, 1000g, 10g
+3470g: links: 10g, 10g, 10g; rechts: 500g, 500g, 500g, 1000g, 1000g
+3480g: links: 10g, 10g; rechts: 500g, 500g, 500g, 1000g, 1000g
+3490g: links: 10g; rechts: 500g, 500g, 500g, 1000g, 1000g
+3500g: links: /; rechts: 500g, 500g, 500g, 1000g, 1000g
+3510g: links: /; rechts: 500g, 500g, 500g, 1000g, 1000g, 10g
+3520g: links: /; rechts: 500g, 500g, 500g, 1000g, 1000g, 10g, 10g
+3530g: links: /; rechts: 500g, 500g, 500g, 1000g, 1000g, 10g, 10g, 10g
+3540g: links: 10g; rechts: 50g, 500g, 500g, 500g, 1000g, 1000g
+3550g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 1000g
+3560g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 1000g, 10g
+3570g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 1000g, 10g, 10g
+3580g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 1000g, 10g, 10g, 10g
+3590g: links: 10g; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 1000g
+3600g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 1000g
+3610g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 1000g, 10g
+3620g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 1000g, 10g, 10g
+3630g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 1000g, 10g, 10g, 10g
+3640g: links: 10g; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 1000g
+3650g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 1000g
+3660g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 10g
+3670g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 10g, 10g
+3680g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 10g, 10g, 10g
+3690g: links: 10g; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 1000g
+3700g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 1000g
+3710g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 10g
+3720g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 10g, 10g
+3730g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 10g, 10g, 10g
+3740g: links: 10g; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g
+3750g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g
+3760g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 10g
+3770g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 10g, 10g
+3780g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 10g, 10g, 10g
+3790g: links: 10g; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g
+3800g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g
+3810g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 10g
+3820g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 10g, 10g
+3830g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 10g, 10g, 10g
+3840g: links: 10g; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g
+3850g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g
+3860g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 10g
+3870g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 10g, 10g
+3880g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 10g, 10g, 10g
+3890g: links: 10g; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g
+3900g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g
+3910g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 10g
+3920g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 10g, 10g
+3930g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 10g, 10g, 10g
+3940g: links: 50g, 10g; rechts: 500g, 500g, 1000g, 1000g, 1000g
+3950g: links: 50g; rechts: 500g, 500g, 1000g, 1000g, 1000g
+3960g: links: 50g; rechts: 500g, 500g, 1000g, 1000g, 1000g, 10g
+3970g: links: 10g, 10g, 10g; rechts: 500g, 500g, 1000g, 1000g, 1000g
+3980g: links: 10g, 10g; rechts: 500g, 500g, 1000g, 1000g, 1000g
+3990g: links: 10g; rechts: 500g, 500g, 1000g, 1000g, 1000g
+4000g: links: /; rechts: 500g, 500g, 1000g, 1000g, 1000g
+4010g: links: /; rechts: 500g, 500g, 1000g, 1000g, 1000g, 10g
+4020g: links: /; rechts: 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g
+4030g: links: /; rechts: 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g, 10g
+4040g: links: 10g; rechts: 50g, 500g, 500g, 1000g, 1000g, 1000g
+4050g: links: /; rechts: 50g, 500g, 500g, 1000g, 1000g, 1000g
+4060g: links: /; rechts: 50g, 500g, 500g, 1000g, 1000g, 1000g, 10g
+4070g: links: /; rechts: 50g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g
+4080g: links: /; rechts: 50g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g, 10g
+4090g: links: 10g; rechts: 50g, 50g, 500g, 500g, 1000g, 1000g, 1000g
+4100g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 1000g, 1000g
+4110g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 1000g, 1000g, 10g
+4120g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g
+4130g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g, 10g
+4140g: links: 10g; rechts: 50g, 100g, 500g, 500g, 1000g, 1000g, 1000g
+4150g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 1000g, 1000g
+4160g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 10g
+4170g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g
+4180g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g, 10g
+4190g: links: 10g; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 1000g, 1000g
+4200g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 1000g, 1000g
+4210g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 10g
+4220g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g
+4230g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g, 10g
+4240g: links: 10g; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g
+4250g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g
+4260g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 10g
+4270g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g
+4280g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g, 10g
+4290g: links: 10g; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g
+4300g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g
+4310g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 10g
+4320g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g
+4330g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g, 10g
+4340g: links: 10g; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g
+4350g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g
+4360g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 10g
+4370g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g
+4380g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g, 10g
+4390g: links: 10g; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g
+4400g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g
+4410g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 10g
+4420g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g
+4430g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g, 10g
+4440g: links: 50g, 10g; rechts: 500g, 500g, 500g, 1000g, 1000g, 1000g
+4450g: links: 50g; rechts: 500g, 500g, 500g, 1000g, 1000g, 1000g
+4460g: links: 50g; rechts: 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g
+4470g: links: 10g, 10g, 10g; rechts: 500g, 500g, 500g, 1000g, 1000g, 1000g
+4480g: links: 10g, 10g; rechts: 500g, 500g, 500g, 1000g, 1000g, 1000g
+4490g: links: 10g; rechts: 500g, 500g, 500g, 1000g, 1000g, 1000g
+4500g: links: /; rechts: 500g, 500g, 500g, 1000g, 1000g, 1000g
+4510g: links: /; rechts: 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g
+4520g: links: /; rechts: 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g
+4530g: links: /; rechts: 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g, 10g
+4540g: links: 10g; rechts: 50g, 500g, 500g, 500g, 1000g, 1000g, 1000g
+4550g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 1000g, 1000g
+4560g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g
+4570g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g
+4580g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g, 10g
+4590g: links: 10g; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 1000g, 1000g
+4600g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 1000g, 1000g
+4610g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g
+4620g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g
+4630g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g, 10g
+4640g: links: 10g; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g
+4650g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g
+4660g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g
+4670g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g
+4680g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g, 10g
+4690g: links: 10g; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g
+4700g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g
+4710g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g
+4720g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g
+4730g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g, 10g
+4740g: links: 10g; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g
+4750g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g
+4760g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g
+4770g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g
+4780g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g, 10g
+4790g: links: 10g; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g
+4800g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g
+4810g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g
+4820g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g
+4830g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g, 10g
+4840g: links: 10g; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g
+4850g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g
+4860g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g
+4870g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g
+4880g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g, 10g
+4890g: links: 10g; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g
+4900g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g
+4910g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g
+4920g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g
+4930g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 10g, 10g, 10g
+4940g: links: 50g, 10g; rechts: 5000g
+4950g: links: 50g; rechts: 5000g
+4960g: links: 50g; rechts: 5000g, 10g
+4970g: links: 10g, 10g, 10g; rechts: 5000g
+4980g: links: 10g, 10g; rechts: 5000g
+4990g: links: 10g; rechts: 5000g
+5000g: links: /; rechts: 5000g
+5010g: links: /; rechts: 5000g, 10g
+5020g: links: /; rechts: 5000g, 10g, 10g
+5030g: links: /; rechts: 5000g, 10g, 10g, 10g
+5040g: links: 10g; rechts: 50g, 5000g
+5050g: links: /; rechts: 50g, 5000g
+5060g: links: /; rechts: 50g, 5000g, 10g
+5070g: links: /; rechts: 50g, 5000g, 10g, 10g
+5080g: links: /; rechts: 50g, 5000g, 10g, 10g, 10g
+5090g: links: 10g; rechts: 50g, 50g, 5000g
+5100g: links: /; rechts: 50g, 50g, 5000g
+5110g: links: /; rechts: 50g, 50g, 5000g, 10g
+5120g: links: /; rechts: 50g, 50g, 5000g, 10g, 10g
+5130g: links: /; rechts: 50g, 50g, 5000g, 10g, 10g, 10g
+5140g: links: 10g; rechts: 50g, 100g, 5000g
+5150g: links: /; rechts: 50g, 100g, 5000g
+5160g: links: /; rechts: 50g, 100g, 5000g, 10g
+5170g: links: /; rechts: 50g, 100g, 5000g, 10g, 10g
+5180g: links: /; rechts: 50g, 100g, 5000g, 10g, 10g, 10g
+5190g: links: 10g; rechts: 50g, 50g, 100g, 5000g
+5200g: links: /; rechts: 50g, 50g, 100g, 5000g
+5210g: links: /; rechts: 50g, 50g, 100g, 5000g, 10g
+5220g: links: /; rechts: 50g, 50g, 100g, 5000g, 10g, 10g
+5230g: links: /; rechts: 50g, 50g, 100g, 5000g, 10g, 10g, 10g
+5240g: links: 10g; rechts: 50g, 100g, 100g, 5000g
+5250g: links: /; rechts: 50g, 100g, 100g, 5000g
+5260g: links: /; rechts: 50g, 100g, 100g, 5000g, 10g
+5270g: links: /; rechts: 50g, 100g, 100g, 5000g, 10g, 10g
+5280g: links: /; rechts: 50g, 100g, 100g, 5000g, 10g, 10g, 10g
+5290g: links: 10g; rechts: 50g, 50g, 100g, 100g, 5000g
+5300g: links: /; rechts: 50g, 50g, 100g, 100g, 5000g
+5310g: links: /; rechts: 50g, 50g, 100g, 100g, 5000g, 10g
+5320g: links: /; rechts: 50g, 50g, 100g, 100g, 5000g, 10g, 10g
+5330g: links: /; rechts: 50g, 50g, 100g, 100g, 5000g, 10g, 10g, 10g
+5340g: links: 10g; rechts: 50g, 100g, 100g, 100g, 5000g
+5350g: links: /; rechts: 50g, 100g, 100g, 100g, 5000g
+5360g: links: /; rechts: 50g, 100g, 100g, 100g, 5000g, 10g
+5370g: links: /; rechts: 50g, 100g, 100g, 100g, 5000g, 10g, 10g
+5380g: links: /; rechts: 50g, 100g, 100g, 100g, 5000g, 10g, 10g, 10g
+5390g: links: 10g; rechts: 50g, 50g, 100g, 100g, 100g, 5000g
+5400g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 5000g
+5410g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 5000g, 10g
+5420g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 5000g, 10g, 10g
+5430g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 5000g, 10g, 10g, 10g
+5440g: links: 50g, 10g; rechts: 500g, 5000g
+5450g: links: 50g; rechts: 500g, 5000g
+5460g: links: 50g; rechts: 500g, 5000g, 10g
+5470g: links: 10g, 10g, 10g; rechts: 500g, 5000g
+5480g: links: 10g, 10g; rechts: 500g, 5000g
+5490g: links: 10g; rechts: 500g, 5000g
+5500g: links: /; rechts: 500g, 5000g
+5510g: links: /; rechts: 500g, 5000g, 10g
+5520g: links: /; rechts: 500g, 5000g, 10g, 10g
+5530g: links: /; rechts: 500g, 5000g, 10g, 10g, 10g
+5540g: links: 10g; rechts: 50g, 500g, 5000g
+5550g: links: /; rechts: 50g, 500g, 5000g
+5560g: links: /; rechts: 50g, 500g, 5000g, 10g
+5570g: links: /; rechts: 50g, 500g, 5000g, 10g, 10g
+5580g: links: /; rechts: 50g, 500g, 5000g, 10g, 10g, 10g
+5590g: links: 10g; rechts: 50g, 50g, 500g, 5000g
+5600g: links: /; rechts: 50g, 50g, 500g, 5000g
+5610g: links: /; rechts: 50g, 50g, 500g, 5000g, 10g
+5620g: links: /; rechts: 50g, 50g, 500g, 5000g, 10g, 10g
+5630g: links: /; rechts: 50g, 50g, 500g, 5000g, 10g, 10g, 10g
+5640g: links: 10g; rechts: 50g, 100g, 500g, 5000g
+5650g: links: /; rechts: 50g, 100g, 500g, 5000g
+5660g: links: /; rechts: 50g, 100g, 500g, 5000g, 10g
+5670g: links: /; rechts: 50g, 100g, 500g, 5000g, 10g, 10g
+5680g: links: /; rechts: 50g, 100g, 500g, 5000g, 10g, 10g, 10g
+5690g: links: 10g; rechts: 50g, 50g, 100g, 500g, 5000g
+5700g: links: /; rechts: 50g, 50g, 100g, 500g, 5000g
+5710g: links: /; rechts: 50g, 50g, 100g, 500g, 5000g, 10g
+5720g: links: /; rechts: 50g, 50g, 100g, 500g, 5000g, 10g, 10g
+5730g: links: /; rechts: 50g, 50g, 100g, 500g, 5000g, 10g, 10g, 10g
+5740g: links: 10g; rechts: 50g, 100g, 100g, 500g, 5000g
+5750g: links: /; rechts: 50g, 100g, 100g, 500g, 5000g
+5760g: links: /; rechts: 50g, 100g, 100g, 500g, 5000g, 10g
+5770g: links: /; rechts: 50g, 100g, 100g, 500g, 5000g, 10g, 10g
+5780g: links: /; rechts: 50g, 100g, 100g, 500g, 5000g, 10g, 10g, 10g
+5790g: links: 10g; rechts: 50g, 50g, 100g, 100g, 500g, 5000g
+5800g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 5000g
+5810g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 5000g, 10g
+5820g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 5000g, 10g, 10g
+5830g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 5000g, 10g, 10g, 10g
+5840g: links: 10g; rechts: 50g, 100g, 100g, 100g, 500g, 5000g
+5850g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 5000g
+5860g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 5000g, 10g
+5870g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 5000g, 10g, 10g
+5880g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 5000g, 10g, 10g, 10g
+5890g: links: 10g; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 5000g
+5900g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 5000g
+5910g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 5000g, 10g
+5920g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 5000g, 10g, 10g
+5930g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 5000g, 10g, 10g, 10g
+5940g: links: 50g, 10g; rechts: 500g, 500g, 5000g
+5950g: links: 50g; rechts: 500g, 500g, 5000g
+5960g: links: 50g; rechts: 500g, 500g, 5000g, 10g
+5970g: links: 10g, 10g, 10g; rechts: 500g, 500g, 5000g
+5980g: links: 10g, 10g; rechts: 500g, 500g, 5000g
+5990g: links: 10g; rechts: 500g, 500g, 5000g
+6000g: links: /; rechts: 500g, 500g, 5000g
+6010g: links: /; rechts: 500g, 500g, 5000g, 10g
+6020g: links: /; rechts: 500g, 500g, 5000g, 10g, 10g
+6030g: links: /; rechts: 500g, 500g, 5000g, 10g, 10g, 10g
+6040g: links: 10g; rechts: 50g, 500g, 500g, 5000g
+6050g: links: /; rechts: 50g, 500g, 500g, 5000g
+6060g: links: /; rechts: 50g, 500g, 500g, 5000g, 10g
+6070g: links: /; rechts: 50g, 500g, 500g, 5000g, 10g, 10g
+6080g: links: /; rechts: 50g, 500g, 500g, 5000g, 10g, 10g, 10g
+6090g: links: 10g; rechts: 50g, 50g, 500g, 500g, 5000g
+6100g: links: /; rechts: 50g, 50g, 500g, 500g, 5000g
+6110g: links: /; rechts: 50g, 50g, 500g, 500g, 5000g, 10g
+6120g: links: /; rechts: 50g, 50g, 500g, 500g, 5000g, 10g, 10g
+6130g: links: /; rechts: 50g, 50g, 500g, 500g, 5000g, 10g, 10g, 10g
+6140g: links: 10g; rechts: 50g, 100g, 500g, 500g, 5000g
+6150g: links: /; rechts: 50g, 100g, 500g, 500g, 5000g
+6160g: links: /; rechts: 50g, 100g, 500g, 500g, 5000g, 10g
+6170g: links: /; rechts: 50g, 100g, 500g, 500g, 5000g, 10g, 10g
+6180g: links: /; rechts: 50g, 100g, 500g, 500g, 5000g, 10g, 10g, 10g
+6190g: links: 10g; rechts: 50g, 50g, 100g, 500g, 500g, 5000g
+6200g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 5000g
+6210g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 5000g, 10g
+6220g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 5000g, 10g, 10g
+6230g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 5000g, 10g, 10g, 10g
+6240g: links: 10g; rechts: 50g, 100g, 100g, 500g, 500g, 5000g
+6250g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 5000g
+6260g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 5000g, 10g
+6270g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 5000g, 10g, 10g
+6280g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 5000g, 10g, 10g, 10g
+6290g: links: 10g; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 5000g
+6300g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 5000g
+6310g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 5000g, 10g
+6320g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 5000g, 10g, 10g
+6330g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 5000g, 10g, 10g, 10g
+6340g: links: 10g; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 5000g
+6350g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 5000g
+6360g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 5000g, 10g
+6370g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 5000g, 10g, 10g
+6380g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 5000g, 10g, 10g, 10g
+6390g: links: 10g; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 5000g
+6400g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 5000g
+6410g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 5000g, 10g
+6420g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 5000g, 10g, 10g
+6430g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 5000g, 10g, 10g, 10g
+6440g: links: 50g, 10g; rechts: 500g, 500g, 500g, 5000g
+6450g: links: 50g; rechts: 500g, 500g, 500g, 5000g
+6460g: links: 50g; rechts: 500g, 500g, 500g, 5000g, 10g
+6470g: links: 10g, 10g, 10g; rechts: 500g, 500g, 500g, 5000g
+6480g: links: 10g, 10g; rechts: 500g, 500g, 500g, 5000g
+6490g: links: 10g; rechts: 500g, 500g, 500g, 5000g
+6500g: links: /; rechts: 500g, 500g, 500g, 5000g
+6510g: links: /; rechts: 500g, 500g, 500g, 5000g, 10g
+6520g: links: /; rechts: 500g, 500g, 500g, 5000g, 10g, 10g
+6530g: links: /; rechts: 500g, 500g, 500g, 5000g, 10g, 10g, 10g
+6540g: links: 10g; rechts: 50g, 500g, 500g, 500g, 5000g
+6550g: links: /; rechts: 50g, 500g, 500g, 500g, 5000g
+6560g: links: /; rechts: 50g, 500g, 500g, 500g, 5000g, 10g
+6570g: links: /; rechts: 50g, 500g, 500g, 500g, 5000g, 10g, 10g
+6580g: links: /; rechts: 50g, 500g, 500g, 500g, 5000g, 10g, 10g, 10g
+6590g: links: 10g; rechts: 50g, 50g, 500g, 500g, 500g, 5000g
+6600g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 5000g
+6610g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 5000g, 10g
+6620g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 5000g, 10g, 10g
+6630g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 5000g, 10g, 10g, 10g
+6640g: links: 10g; rechts: 50g, 100g, 500g, 500g, 500g, 5000g
+6650g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 5000g
+6660g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 5000g, 10g
+6670g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 5000g, 10g, 10g
+6680g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 5000g, 10g, 10g, 10g
+6690g: links: 10g; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 5000g
+6700g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 5000g
+6710g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 5000g, 10g
+6720g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 5000g, 10g, 10g
+6730g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 5000g, 10g, 10g, 10g
+6740g: links: 10g; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 5000g
+6750g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 5000g
+6760g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 5000g, 10g
+6770g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 5000g, 10g, 10g
+6780g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 5000g, 10g, 10g, 10g
+6790g: links: 10g; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 5000g
+6800g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 5000g
+6810g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 5000g, 10g
+6820g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 5000g, 10g, 10g
+6830g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 5000g, 10g, 10g, 10g
+6840g: links: 10g; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 5000g
+6850g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 5000g
+6860g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 5000g, 10g
+6870g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 5000g, 10g, 10g
+6880g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 5000g, 10g, 10g, 10g
+6890g: links: 10g; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 5000g
+6900g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 5000g
+6910g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 5000g, 10g
+6920g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 5000g, 10g, 10g
+6930g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 5000g, 10g, 10g, 10g
+6940g: links: 50g, 10g; rechts: 500g, 500g, 1000g, 5000g
+6950g: links: 50g; rechts: 500g, 500g, 1000g, 5000g
+6960g: links: 50g; rechts: 500g, 500g, 1000g, 5000g, 10g
+6970g: links: 10g, 10g, 10g; rechts: 500g, 500g, 1000g, 5000g
+6980g: links: 10g, 10g; rechts: 500g, 500g, 1000g, 5000g
+6990g: links: 10g; rechts: 500g, 500g, 1000g, 5000g
+7000g: links: /; rechts: 500g, 500g, 1000g, 5000g
+7010g: links: /; rechts: 500g, 500g, 1000g, 5000g, 10g
+7020g: links: /; rechts: 500g, 500g, 1000g, 5000g, 10g, 10g
+7030g: links: /; rechts: 500g, 500g, 1000g, 5000g, 10g, 10g, 10g
+7040g: links: 10g; rechts: 50g, 500g, 500g, 1000g, 5000g
+7050g: links: /; rechts: 50g, 500g, 500g, 1000g, 5000g
+7060g: links: /; rechts: 50g, 500g, 500g, 1000g, 5000g, 10g
+7070g: links: /; rechts: 50g, 500g, 500g, 1000g, 5000g, 10g, 10g
+7080g: links: /; rechts: 50g, 500g, 500g, 1000g, 5000g, 10g, 10g, 10g
+7090g: links: 10g; rechts: 50g, 50g, 500g, 500g, 1000g, 5000g
+7100g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 5000g
+7110g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 5000g, 10g
+7120g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 5000g, 10g, 10g
+7130g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 5000g, 10g, 10g, 10g
+7140g: links: 10g; rechts: 50g, 100g, 500g, 500g, 1000g, 5000g
+7150g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 5000g
+7160g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 5000g, 10g
+7170g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 5000g, 10g, 10g
+7180g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 5000g, 10g, 10g, 10g
+7190g: links: 10g; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 5000g
+7200g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 5000g
+7210g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 5000g, 10g
+7220g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 5000g, 10g, 10g
+7230g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 5000g, 10g, 10g, 10g
+7240g: links: 10g; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 5000g
+7250g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 5000g
+7260g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 5000g, 10g
+7270g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 5000g, 10g, 10g
+7280g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 5000g, 10g, 10g, 10g
+7290g: links: 10g; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 5000g
+7300g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 5000g
+7310g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 5000g, 10g
+7320g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 5000g, 10g, 10g
+7330g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 5000g, 10g, 10g, 10g
+7340g: links: 10g; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 5000g
+7350g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 5000g
+7360g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 5000g, 10g
+7370g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 5000g, 10g, 10g
+7380g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 5000g, 10g, 10g, 10g
+7390g: links: 10g; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 5000g
+7400g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 5000g
+7410g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 5000g, 10g
+7420g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 5000g, 10g, 10g
+7430g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 5000g, 10g, 10g, 10g
+7440g: links: 50g, 10g; rechts: 500g, 500g, 500g, 1000g, 5000g
+7450g: links: 50g; rechts: 500g, 500g, 500g, 1000g, 5000g
+7460g: links: 50g; rechts: 500g, 500g, 500g, 1000g, 5000g, 10g
+7470g: links: 10g, 10g, 10g; rechts: 500g, 500g, 500g, 1000g, 5000g
+7480g: links: 10g, 10g; rechts: 500g, 500g, 500g, 1000g, 5000g
+7490g: links: 10g; rechts: 500g, 500g, 500g, 1000g, 5000g
+7500g: links: /; rechts: 500g, 500g, 500g, 1000g, 5000g
+7510g: links: /; rechts: 500g, 500g, 500g, 1000g, 5000g, 10g
+7520g: links: /; rechts: 500g, 500g, 500g, 1000g, 5000g, 10g, 10g
+7530g: links: /; rechts: 500g, 500g, 500g, 1000g, 5000g, 10g, 10g, 10g
+7540g: links: 10g; rechts: 50g, 500g, 500g, 500g, 1000g, 5000g
+7550g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 5000g
+7560g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 5000g, 10g
+7570g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 5000g, 10g, 10g
+7580g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 5000g, 10g, 10g, 10g
+7590g: links: 10g; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 5000g
+7600g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 5000g
+7610g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 5000g, 10g
+7620g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 5000g, 10g, 10g
+7630g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 5000g, 10g, 10g, 10g
+7640g: links: 10g; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 5000g
+7650g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 5000g
+7660g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 5000g, 10g
+7670g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 5000g, 10g, 10g
+7680g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 5000g, 10g, 10g, 10g
+7690g: links: 10g; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 5000g
+7700g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 5000g
+7710g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 5000g, 10g
+7720g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 5000g, 10g, 10g
+7730g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 5000g, 10g, 10g, 10g
+7740g: links: 10g; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 5000g
+7750g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 5000g
+7760g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 5000g, 10g
+7770g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 5000g, 10g, 10g
+7780g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 5000g, 10g, 10g, 10g
+7790g: links: 10g; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 5000g
+7800g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 5000g
+7810g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 5000g, 10g
+7820g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 5000g, 10g, 10g
+7830g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 5000g, 10g, 10g, 10g
+7840g: links: 10g; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 5000g
+7850g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 5000g
+7860g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 5000g, 10g
+7870g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 5000g, 10g, 10g
+7880g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 5000g, 10g, 10g, 10g
+7890g: links: 10g; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 5000g
+7900g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 5000g
+7910g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 5000g, 10g
+7920g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 5000g, 10g, 10g
+7930g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 5000g, 10g, 10g, 10g
+7940g: links: 50g, 10g; rechts: 500g, 500g, 1000g, 1000g, 5000g
+7950g: links: 50g; rechts: 500g, 500g, 1000g, 1000g, 5000g
+7960g: links: 50g; rechts: 500g, 500g, 1000g, 1000g, 5000g, 10g
+7970g: links: 10g, 10g, 10g; rechts: 500g, 500g, 1000g, 1000g, 5000g
+7980g: links: 10g, 10g; rechts: 500g, 500g, 1000g, 1000g, 5000g
+7990g: links: 10g; rechts: 500g, 500g, 1000g, 1000g, 5000g
+8000g: links: /; rechts: 500g, 500g, 1000g, 1000g, 5000g
+8010g: links: /; rechts: 500g, 500g, 1000g, 1000g, 5000g, 10g
+8020g: links: /; rechts: 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g
+8030g: links: /; rechts: 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+8040g: links: 10g; rechts: 50g, 500g, 500g, 1000g, 1000g, 5000g
+8050g: links: /; rechts: 50g, 500g, 500g, 1000g, 1000g, 5000g
+8060g: links: /; rechts: 50g, 500g, 500g, 1000g, 1000g, 5000g, 10g
+8070g: links: /; rechts: 50g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g
+8080g: links: /; rechts: 50g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+8090g: links: 10g; rechts: 50g, 50g, 500g, 500g, 1000g, 1000g, 5000g
+8100g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 1000g, 5000g
+8110g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 1000g, 5000g, 10g
+8120g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g
+8130g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+8140g: links: 10g; rechts: 50g, 100g, 500g, 500g, 1000g, 1000g, 5000g
+8150g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 1000g, 5000g
+8160g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 1000g, 5000g, 10g
+8170g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g
+8180g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+8190g: links: 10g; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 1000g, 5000g
+8200g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 1000g, 5000g
+8210g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 1000g, 5000g, 10g
+8220g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g
+8230g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+8240g: links: 10g; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 5000g
+8250g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 5000g
+8260g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 5000g, 10g
+8270g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g
+8280g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+8290g: links: 10g; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 5000g
+8300g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 5000g
+8310g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 5000g, 10g
+8320g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g
+8330g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+8340g: links: 10g; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 5000g
+8350g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 5000g
+8360g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 5000g, 10g
+8370g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g
+8380g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+8390g: links: 10g; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 5000g
+8400g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 5000g
+8410g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 5000g, 10g
+8420g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g
+8430g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+8440g: links: 50g, 10g; rechts: 500g, 500g, 500g, 1000g, 1000g, 5000g
+8450g: links: 50g; rechts: 500g, 500g, 500g, 1000g, 1000g, 5000g
+8460g: links: 50g; rechts: 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g
+8470g: links: 10g, 10g, 10g; rechts: 500g, 500g, 500g, 1000g, 1000g, 5000g
+8480g: links: 10g, 10g; rechts: 500g, 500g, 500g, 1000g, 1000g, 5000g
+8490g: links: 10g; rechts: 500g, 500g, 500g, 1000g, 1000g, 5000g
+8500g: links: /; rechts: 500g, 500g, 500g, 1000g, 1000g, 5000g
+8510g: links: /; rechts: 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g
+8520g: links: /; rechts: 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g
+8530g: links: /; rechts: 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+8540g: links: 10g; rechts: 50g, 500g, 500g, 500g, 1000g, 1000g, 5000g
+8550g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 1000g, 5000g
+8560g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g
+8570g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g
+8580g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+8590g: links: 10g; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 1000g, 5000g
+8600g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 1000g, 5000g
+8610g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g
+8620g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g
+8630g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+8640g: links: 10g; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g
+8650g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g
+8660g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g
+8670g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g
+8680g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+8690g: links: 10g; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g
+8700g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g
+8710g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g
+8720g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g
+8730g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+8740g: links: 10g; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g
+8750g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g
+8760g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g
+8770g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g
+8780g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+8790g: links: 10g; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g
+8800g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g
+8810g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g
+8820g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g
+8830g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+8840g: links: 10g; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g
+8850g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g
+8860g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g
+8870g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g
+8880g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+8890g: links: 10g; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g
+8900g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g
+8910g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g
+8920g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g
+8930g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+8940g: links: 50g, 10g; rechts: 500g, 500g, 1000g, 1000g, 1000g, 5000g
+8950g: links: 50g; rechts: 500g, 500g, 1000g, 1000g, 1000g, 5000g
+8960g: links: 50g; rechts: 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g
+8970g: links: 10g, 10g, 10g; rechts: 500g, 500g, 1000g, 1000g, 1000g, 5000g
+8980g: links: 10g, 10g; rechts: 500g, 500g, 1000g, 1000g, 1000g, 5000g
+8990g: links: 10g; rechts: 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9000g: links: /; rechts: 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9010g: links: /; rechts: 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g
+9020g: links: /; rechts: 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g
+9030g: links: /; rechts: 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9040g: links: 10g; rechts: 50g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9050g: links: /; rechts: 50g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9060g: links: /; rechts: 50g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g
+9070g: links: /; rechts: 50g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g
+9080g: links: /; rechts: 50g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9090g: links: 10g; rechts: 50g, 50g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9100g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9110g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g
+9120g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g
+9130g: links: /; rechts: 50g, 50g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9140g: links: 10g; rechts: 50g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9150g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9160g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g
+9170g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g
+9180g: links: /; rechts: 50g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9190g: links: 10g; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9200g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9210g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g
+9220g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g
+9230g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9240g: links: 10g; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9250g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9260g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g
+9270g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g
+9280g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9290g: links: 10g; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9300g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9310g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g
+9320g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g
+9330g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9340g: links: 10g; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9350g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9360g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g
+9370g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g
+9380g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9390g: links: 10g; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9400g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9410g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g
+9420g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g
+9430g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9440g: links: 50g, 10g; rechts: 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9450g: links: 50g; rechts: 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9460g: links: 50g; rechts: 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g
+9470g: links: 10g, 10g, 10g; rechts: 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9480g: links: 10g, 10g; rechts: 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9490g: links: 10g; rechts: 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9500g: links: /; rechts: 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9510g: links: /; rechts: 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g
+9520g: links: /; rechts: 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g
+9530g: links: /; rechts: 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9540g: links: 10g; rechts: 50g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9550g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9560g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g
+9570g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g
+9580g: links: /; rechts: 50g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9590g: links: 10g; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9600g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9610g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g
+9620g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g
+9630g: links: /; rechts: 50g, 50g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9640g: links: 10g; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9650g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9660g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g
+9670g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g
+9680g: links: /; rechts: 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9690g: links: 10g; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9700g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9710g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g
+9720g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g
+9730g: links: /; rechts: 50g, 50g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9740g: links: 10g; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9750g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9760g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g
+9770g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g
+9780g: links: /; rechts: 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9790g: links: 10g; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9800g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9810g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g
+9820g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g
+9830g: links: /; rechts: 50g, 50g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9840g: links: 10g; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9850g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9860g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g
+9870g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g
+9880g: links: /; rechts: 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9890g: links: 10g; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9900g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g
+9910g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g
+9920g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g
+9930g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9940g: naechtes Ergebnis: 9930g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9950g: naechtes Ergebnis: 9930g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9960g: naechtes Ergebnis: 9930g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9970g: naechtes Ergebnis: 9930g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9980g: naechtes Ergebnis: 9930g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+9990g: naechtes Ergebnis: 9930g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g
+10000g: naechtes Ergebnis: 9930g: links: /; rechts: 50g, 50g, 100g, 100g, 100g, 500g, 500g, 500g, 1000g, 1000g, 1000g, 5000g, 10g, 10g, 10g

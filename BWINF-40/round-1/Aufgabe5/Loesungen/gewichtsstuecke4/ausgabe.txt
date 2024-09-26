@@ -1,0 +1,1000 @@
+10g: links: 29g, 29g; rechts: 5g, 21g, 21g, 21g
+20g: links: 259g, 29g; rechts: 21g, 287g
+30g: links: 287g; rechts: 259g, 29g, 29g
+40g: links: 5g, 21g, 21g; rechts: 29g, 29g, 29g
+50g: links: /; rechts: 21g, 29g
+60g: links: 259g, 5g, 21g; rechts: 29g, 29g, 287g
+70g: links: 259g; rechts: 21g, 21g, 287g
+80g: links: 287g; rechts: 259g, 21g, 29g, 29g, 29g
+90g: links: 259g, 21g, 29g; rechts: 399g
+100g: links: /; rechts: 21g, 21g, 29g, 29g
+110g: links: 259g, 5g; rechts: 29g, 29g, 29g, 287g
+120g: links: 259g; rechts: 5g, 29g, 29g, 29g, 287g
+130g: links: 21g, 21g, 29g, 29g, 29g; rechts: 259g
+140g: links: 259g; rechts: 399g
+150g: links: /; rechts: 21g, 21g, 21g, 29g, 29g, 29g
+160g: links: 21g, 399g; rechts: 259g, 5g, 29g, 287g
+170g: links: 287g; rechts: 29g, 29g, 399g
+180g: links: 21g, 29g, 29g; rechts: 259g
+190g: links: 5g, 21g, 21g, 21g, 29g; rechts: 287g
+200g: links: 29g, 29g, 29g; rechts: 287g
+210g: links: 399g; rechts: 259g, 5g, 29g, 29g, 287g
+220g: links: 5g, 21g, 21g, 21g; rechts: 259g, 29g
+230g: links: 29g; rechts: 259g
+240g: links: 5g, 21g, 21g; rechts: 287g
+250g: links: 21g, 21g; rechts: 5g, 287g
+260g: links: 399g; rechts: 259g, 5g, 21g, 29g, 29g, 29g, 287g
+270g: links: 5g, 21g, 21g; rechts: 259g, 29g, 29g
+280g: links: /; rechts: 259g, 21g
+290g: links: 5g, 21g; rechts: 29g, 287g
+300g: links: 21g; rechts: 5g, 29g, 287g
+310g: links: 29g, 29g, 29g, 287g; rechts: 259g, 5g, 21g, 399g
+320g: links: 5g, 21g; rechts: 259g, 29g, 29g, 29g
+330g: links: /; rechts: 259g, 21g, 21g, 29g
+340g: links: 5g; rechts: 29g, 29g, 287g
+350g: links: /; rechts: 5g, 29g, 29g, 287g
+360g: links: 5g, 21g, 21g, 21g; rechts: 29g, 399g
+370g: links: 29g; rechts: 399g
+380g: links: /; rechts: 259g, 21g, 21g, 21g, 29g, 29g
+390g: links: 5g; rechts: 21g, 29g, 29g, 29g, 287g
+400g: links: /; rechts: 5g, 21g, 29g, 29g, 29g, 287g
+410g: links: 5g, 21g, 21g; rechts: 29g, 29g, 399g
+420g: links: /; rechts: 21g, 399g
+430g: links: 21g, 21g, 21g, 29g, 29g; rechts: 259g, 5g, 287g
+440g: links: 259g, 21g; rechts: 5g, 29g, 287g, 399g
+450g: links: 287g; rechts: 259g, 21g, 29g, 29g, 399g
+460g: links: 5g, 21g; rechts: 29g, 29g, 29g, 399g
+470g: links: /; rechts: 21g, 21g, 29g, 399g
+480g: links: 21g, 21g, 29g; rechts: 259g, 5g, 287g
+490g: links: 259g; rechts: 5g, 29g, 29g, 287g, 399g
+500g: links: 287g; rechts: 259g, 21g, 21g, 29g, 29g, 29g, 399g
+510g: naechtes Ergebnis: 509g: links: 21g, 21g; rechts: 259g, 5g, 287g
+520g: links: /; rechts: 21g, 21g, 21g, 29g, 29g, 399g
+530g: links: 21g; rechts: 259g, 5g, 287g
+540g: links: 259g; rechts: 5g, 21g, 29g, 29g, 29g, 287g, 399g
+550g: links: 21g, 29g, 29g, 29g; rechts: 259g, 399g
+560g: links: 5g, 21g, 21g, 21g, 29g, 29g; rechts: 287g, 399g
+570g: links: 5g; rechts: 259g, 29g, 287g
+580g: links: /; rechts: 259g, 5g, 29g, 287g
+590g: links: 5g, 21g, 21g, 21g; rechts: 259g, 399g
+600g: links: 29g, 29g; rechts: 259g, 399g
+610g: links: 5g, 21g, 21g, 29g; rechts: 287g, 399g
+620g: links: 5g; rechts: 259g, 21g, 29g, 29g, 287g
+630g: links: /; rechts: 259g, 5g, 21g, 29g, 29g, 287g
+640g: links: 5g, 21g, 21g; rechts: 259g, 29g, 399g
+650g: links: 29g; rechts: 259g, 21g, 399g
+660g: links: 5g, 21g; rechts: 287g, 399g
+670g: links: 5g; rechts: 259g, 21g, 21g, 29g, 29g, 29g, 287g
+680g: links: /; rechts: 259g, 5g, 21g, 21g, 29g, 29g, 29g, 287g
+690g: links: 5g, 21g; rechts: 259g, 29g, 29g, 399g
+700g: links: /; rechts: 259g, 21g, 21g, 399g
+710g: links: 5g; rechts: 29g, 287g, 399g
+720g: links: /; rechts: 5g, 29g, 287g, 399g
+730g: naechtes Ergebnis: 729g: links: /; rechts: 259g, 21g, 21g, 29g, 399g
+740g: links: 5g; rechts: 259g, 29g, 29g, 29g, 399g
+750g: links: /; rechts: 259g, 5g, 29g, 29g, 29g, 399g
+760g: links: 5g; rechts: 21g, 29g, 29g, 287g, 399g
+770g: links: /; rechts: 5g, 21g, 29g, 29g, 287g, 399g
+780g: naechtes Ergebnis: 779g: links: /; rechts: 259g, 21g, 21g, 21g, 29g, 29g, 399g
+790g: links: 5g, 21g, 21g, 21g, 29g, 29g, 29g; rechts: 259g, 287g, 399g
+800g: links: 21g, 21g, 21g, 29g, 29g, 29g; rechts: 259g, 5g, 287g, 399g
+810g: links: 5g; rechts: 21g, 21g, 29g, 29g, 29g, 287g, 399g
+820g: links: /; rechts: 5g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+830g: naechtes Ergebnis: 829g: links: 21g, 21g, 21g, 29g, 29g; rechts: 259g, 5g, 287g, 399g
+840g: links: 5g, 21g, 21g, 29g, 29g; rechts: 259g, 287g, 399g
+850g: links: 21g, 21g, 29g, 29g; rechts: 259g, 5g, 287g, 399g
+860g: naechtes Ergebnis: 861g: links: 5g, 21g, 29g, 29g; rechts: 259g, 287g, 399g
+870g: naechtes Ergebnis: 869g: links: 5g, 21g, 21g, 29g; rechts: 259g, 287g, 399g
+880g: naechtes Ergebnis: 879g: links: 21g, 21g, 29g; rechts: 259g, 5g, 287g, 399g
+890g: links: 5g, 21g, 29g; rechts: 259g, 287g, 399g
+900g: links: 21g, 29g; rechts: 259g, 5g, 287g, 399g
+910g: naechtes Ergebnis: 911g: links: 5g, 29g; rechts: 259g, 287g, 399g
+920g: naechtes Ergebnis: 919g: links: 5g, 21g; rechts: 259g, 287g, 399g
+930g: naechtes Ergebnis: 929g: links: 21g; rechts: 259g, 5g, 287g, 399g
+940g: links: 5g; rechts: 259g, 287g, 399g
+950g: links: /; rechts: 259g, 5g, 287g, 399g
+960g: naechtes Ergebnis: 961g: links: 5g; rechts: 259g, 21g, 287g, 399g
+970g: naechtes Ergebnis: 969g: links: 5g; rechts: 259g, 29g, 287g, 399g
+980g: naechtes Ergebnis: 979g: links: /; rechts: 259g, 5g, 29g, 287g, 399g
+990g: links: 5g; rechts: 259g, 21g, 29g, 287g, 399g
+1000g: links: /; rechts: 259g, 5g, 21g, 29g, 287g, 399g
+1010g: naechtes Ergebnis: 1011g: links: 5g; rechts: 259g, 21g, 21g, 29g, 287g, 399g
+1020g: naechtes Ergebnis: 1019g: links: 5g; rechts: 259g, 21g, 29g, 29g, 287g, 399g
+1030g: naechtes Ergebnis: 1029g: links: /; rechts: 259g, 5g, 21g, 29g, 29g, 287g, 399g
+1040g: links: 5g; rechts: 259g, 21g, 21g, 29g, 29g, 287g, 399g
+1050g: links: /; rechts: 259g, 5g, 21g, 21g, 29g, 29g, 287g, 399g
+1060g: naechtes Ergebnis: 1061g: links: 5g; rechts: 259g, 21g, 21g, 21g, 29g, 29g, 287g, 399g
+1070g: naechtes Ergebnis: 1069g: links: 5g; rechts: 259g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1080g: naechtes Ergebnis: 1079g: links: /; rechts: 259g, 5g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1090g: links: 5g; rechts: 259g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1110g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1120g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1130g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1140g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1150g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1160g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1170g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1180g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1190g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1200g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1210g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1220g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1230g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1240g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1250g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1260g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1270g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1280g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1290g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1300g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1310g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1320g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1330g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1340g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1350g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1360g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1370g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1380g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1390g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1400g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1410g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1420g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1430g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1440g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1450g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1460g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1470g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1480g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1490g: naechtes Ergebnis: 1100g: links: /; rechts: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+1500g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1510g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1520g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1530g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1540g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1550g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1560g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1570g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1580g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1590g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1600g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1610g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1620g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1630g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1640g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1650g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1660g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1670g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1680g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1690g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1700g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1710g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1720g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1730g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1740g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1750g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1760g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1770g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1780g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1790g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1800g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1810g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1820g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1830g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1840g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1850g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1860g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1870g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1880g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1890g: naechtes Ergebnis: 1893g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1900g: naechtes Ergebnis: 1898g: links: 259g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1910g: naechtes Ergebnis: 1914g: links: 259g, 5g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1920g: naechtes Ergebnis: 1919g: links: 259g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1930g: naechtes Ergebnis: 1932g: links: 259g, 21g, 21g, 21g, 29g, 29g, 287g, 399g; rechts: 2993g, 5g
+1940g: links: 259g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1950g: naechtes Ergebnis: 1951g: links: 259g, 5g, 21g, 21g, 21g, 29g, 287g, 399g; rechts: 2993g
+1960g: naechtes Ergebnis: 1961g: links: 259g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+1970g: naechtes Ergebnis: 1969g: links: 259g, 21g, 29g, 29g, 287g, 399g; rechts: 2993g
+1980g: links: 259g, 5g, 21g, 21g, 21g, 287g, 399g; rechts: 2993g
+1990g: links: 259g, 29g, 29g, 287g, 399g; rechts: 2993g
+2000g: naechtes Ergebnis: 2001g: links: 259g, 5g, 21g, 21g, 287g, 399g; rechts: 2993g
+2010g: naechtes Ergebnis: 2009g: links: 259g, 5g, 21g, 21g, 21g, 287g, 399g; rechts: 2993g, 29g
+2020g: naechtes Ergebnis: 2019g: links: 259g, 29g, 287g, 399g; rechts: 2993g
+2030g: links: 259g, 5g, 21g, 21g, 287g, 399g; rechts: 2993g, 29g
+2040g: links: 259g, 29g, 287g, 399g; rechts: 2993g, 21g
+2050g: naechtes Ergebnis: 2051g: links: 259g, 5g, 21g, 287g, 399g; rechts: 2993g, 29g
+2060g: naechtes Ergebnis: 2059g: links: 259g, 5g, 21g, 21g, 287g, 399g; rechts: 2993g, 29g, 29g
+2070g: naechtes Ergebnis: 2069g: links: 259g, 287g, 399g; rechts: 2993g, 21g
+2080g: links: 259g, 5g, 21g, 287g, 399g; rechts: 2993g, 29g, 29g
+2090g: links: 259g, 287g, 399g; rechts: 2993g, 21g, 21g
+2100g: naechtes Ergebnis: 2101g: links: 259g, 5g, 287g, 399g; rechts: 2993g, 29g, 29g
+2110g: naechtes Ergebnis: 2109g: links: 259g, 5g, 21g, 287g, 399g; rechts: 2993g, 29g, 29g, 29g
+2120g: naechtes Ergebnis: 2119g: links: 259g, 287g, 399g; rechts: 2993g, 21g, 21g, 29g
+2130g: links: 259g, 5g, 287g, 399g; rechts: 2993g, 29g, 29g, 29g
+2140g: links: 259g, 287g, 399g; rechts: 2993g, 5g, 29g, 29g, 29g
+2150g: naechtes Ergebnis: 2151g: links: 259g, 5g, 287g, 399g; rechts: 2993g, 21g, 29g, 29g, 29g
+2160g: naechtes Ergebnis: 2161g: links: 259g, 287g, 399g; rechts: 2993g, 5g, 21g, 29g, 29g, 29g
+2170g: naechtes Ergebnis: 2169g: links: 259g, 287g, 399g; rechts: 2993g, 21g, 21g, 21g, 29g, 29g
+2180g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 399g; rechts: 2993g
+2190g: links: 259g, 21g, 21g, 21g, 29g, 29g, 29g, 399g; rechts: 2993g, 5g
+2200g: naechtes Ergebnis: 2199g: links: 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+2210g: links: 5g, 21g, 21g, 21g, 29g, 287g, 399g; rechts: 2993g
+2220g: links: 29g, 29g, 29g, 287g, 399g; rechts: 2993g
+2230g: links: 259g, 5g, 21g, 21g, 29g, 29g, 399g; rechts: 2993g
+2240g: links: 259g, 21g, 21g, 29g, 29g, 399g; rechts: 2993g, 5g
+2250g: naechtes Ergebnis: 2249g: links: 29g, 29g, 287g, 399g; rechts: 2993g
+2260g: links: 5g, 21g, 21g, 287g, 399g; rechts: 2993g
+2270g: links: 21g, 21g, 287g, 399g; rechts: 2993g, 5g
+2280g: links: 259g, 5g, 21g, 29g, 399g; rechts: 2993g
+2290g: links: 259g, 21g, 29g, 399g; rechts: 2993g, 5g
+2300g: naechtes Ergebnis: 2299g: links: 29g, 287g, 399g; rechts: 2993g, 21g
+2310g: links: 5g, 21g, 287g, 399g; rechts: 2993g, 29g
+2320g: links: 21g, 287g, 399g; rechts: 2993g, 5g, 29g
+2330g: links: 259g, 5g, 399g; rechts: 2993g
+2340g: links: 259g, 399g; rechts: 2993g, 5g
+2350g: links: 259g, 5g, 21g, 21g, 21g, 29g, 287g; rechts: 2993g
+2360g: links: 259g, 29g, 29g, 29g, 287g; rechts: 2993g
+2370g: links: 287g, 399g; rechts: 2993g, 5g, 29g, 29g
+2380g: links: 259g, 5g, 399g; rechts: 2993g, 21g, 29g
+2390g: links: 259g, 399g; rechts: 2993g, 5g, 21g, 29g
+2400g: links: 259g, 5g, 21g, 21g, 287g; rechts: 2993g
+2410g: links: 259g, 21g, 21g, 287g; rechts: 2993g, 5g
+2420g: links: 287g, 399g; rechts: 2993g, 5g, 21g, 29g, 29g, 29g
+2430g: links: 259g, 5g, 399g; rechts: 2993g, 21g, 21g, 29g, 29g
+2440g: links: 259g, 399g; rechts: 2993g, 5g, 21g, 21g, 29g, 29g
+2450g: links: 259g, 5g, 21g, 287g; rechts: 2993g, 29g
+2460g: links: 5g, 21g, 21g, 29g, 29g, 29g, 399g; rechts: 2993g
+2470g: links: 21g, 21g, 29g, 29g, 29g, 399g; rechts: 2993g, 5g
+2480g: links: 259g, 5g, 399g; rechts: 2993g, 21g, 21g, 21g, 29g, 29g, 29g
+2490g: links: 259g, 399g; rechts: 2993g, 5g, 21g, 21g, 21g, 29g, 29g, 29g
+2500g: links: 259g, 5g, 287g; rechts: 2993g, 29g, 29g
+2510g: links: 5g, 21g, 29g, 29g, 399g; rechts: 2993g
+2520g: links: 21g, 29g, 29g, 399g; rechts: 2993g, 5g
+2530g: links: 259g, 5g, 29g, 29g, 29g, 399g; rechts: 2993g, 287g
+2540g: links: 5g, 21g, 287g, 399g; rechts: 2993g, 259g
+2550g: links: 259g, 5g, 287g; rechts: 2993g, 21g, 29g, 29g, 29g
+2560g: links: 5g, 29g, 399g; rechts: 2993g
+2570g: links: 29g, 399g; rechts: 2993g, 5g
+2580g: links: 5g, 21g, 21g, 21g, 29g, 29g, 287g; rechts: 2993g
+2590g: links: 21g, 21g, 21g, 29g, 29g, 287g; rechts: 2993g, 5g
+2600g: links: 259g, 5g, 21g, 21g, 29g, 29g, 29g; rechts: 2993g
+2610g: links: 259g, 21g, 21g, 29g, 29g, 29g; rechts: 2993g, 5g
+2620g: links: 399g; rechts: 2993g, 5g, 21g
+2630g: links: 5g, 21g, 21g, 29g, 287g; rechts: 2993g
+2640g: links: 21g, 21g, 29g, 287g; rechts: 2993g, 5g
+2650g: links: 259g, 5g, 21g, 29g, 29g; rechts: 2993g
+2660g: links: 259g, 21g, 29g, 29g; rechts: 2993g, 5g
+2670g: links: 399g; rechts: 2993g, 5g, 21g, 21g, 29g
+2680g: links: 5g, 21g, 287g; rechts: 2993g
+2690g: links: 21g, 287g; rechts: 2993g, 5g
+2700g: links: 259g, 5g, 29g; rechts: 2993g
+2710g: links: 259g, 29g; rechts: 2993g, 5g
+2720g: links: 399g; rechts: 2993g, 5g, 21g, 21g, 21g, 29g, 29g
+2730g: links: 5g, 287g; rechts: 2993g, 29g
+2740g: links: 287g; rechts: 2993g, 5g, 29g
+2750g: links: 259g, 5g; rechts: 2993g, 21g
+2760g: links: 259g; rechts: 2993g, 5g, 21g
+2770g: links: 259g, 5g, 21g, 21g, 29g, 287g; rechts: 2993g, 399g
+2780g: links: 5g, 287g; rechts: 2993g, 21g, 29g, 29g
+2790g: links: 287g; rechts: 2993g, 5g, 21g, 29g, 29g
+2800g: links: 259g, 5g; rechts: 2993g, 21g, 21g, 29g
+2810g: links: 259g; rechts: 2993g, 5g, 21g, 21g, 29g
+2820g: links: 21g, 21g, 21g, 29g, 29g, 29g, 287g; rechts: 2993g, 259g, 5g
+2830g: links: 5g, 287g; rechts: 2993g, 21g, 21g, 29g, 29g, 29g
+2840g: links: 287g; rechts: 2993g, 5g, 21g, 21g, 29g, 29g, 29g
+2850g: links: 259g, 5g; rechts: 2993g, 21g, 21g, 21g, 29g, 29g
+2860g: links: 259g; rechts: 2993g, 5g, 21g, 21g, 21g, 29g, 29g
+2870g: links: 21g, 21g, 29g, 29g, 287g; rechts: 2993g, 259g, 5g
+2880g: links: 5g, 21g, 29g, 29g, 29g; rechts: 2993g
+2890g: links: 21g, 29g, 29g, 29g; rechts: 2993g, 5g
+2900g: links: 259g, 21g, 21g, 21g, 29g, 29g; rechts: 2993g, 287g
+2910g: links: 5g, 21g, 29g, 287g; rechts: 2993g, 259g
+2920g: links: 21g, 29g, 287g; rechts: 2993g, 259g, 5g
+2930g: links: 5g, 29g, 29g; rechts: 2993g
+2940g: links: 29g, 29g; rechts: 2993g, 5g
+2950g: links: 259g, 21g, 21g, 29g; rechts: 2993g, 287g
+2960g: links: 5g, 287g; rechts: 2993g, 259g
+2970g: links: 287g; rechts: 2993g, 259g, 5g
+2980g: links: 5g, 29g; rechts: 2993g, 21g
+2990g: links: 29g; rechts: 2993g, 5g, 21g
+3000g: links: 259g, 21g; rechts: 2993g, 287g
+3010g: links: 5g, 287g; rechts: 2993g, 259g, 21g, 29g
+3020g: links: 287g; rechts: 2993g, 259g, 5g, 21g, 29g
+3030g: links: 5g; rechts: 2993g, 21g, 21g
+3040g: links: /; rechts: 2993g, 5g, 21g, 21g
+3050g: links: 259g; rechts: 2993g, 29g, 287g
+3060g: links: 259g, 29g; rechts: 2993g, 5g, 21g, 21g, 21g, 287g
+3070g: links: 287g; rechts: 2993g, 259g, 5g, 21g, 21g, 29g, 29g
+3080g: links: /; rechts: 2993g, 29g, 29g, 29g
+3090g: links: /; rechts: 2993g, 5g, 21g, 21g, 21g, 29g
+3100g: links: 259g; rechts: 2993g, 21g, 29g, 29g, 287g
+3110g: links: 287g; rechts: 2993g, 5g, 399g
+3120g: links: 287g; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g
+3130g: links: 21g, 21g, 21g, 29g, 29g, 29g; rechts: 2993g, 287g
+3140g: links: 399g; rechts: 2993g, 259g, 287g
+3150g: links: 259g; rechts: 2993g, 21g, 21g, 29g, 29g, 29g, 287g
+3160g: links: 5g, 29g, 29g, 29g; rechts: 2993g, 259g
+3170g: links: 29g, 29g, 29g; rechts: 2993g, 259g, 5g
+3180g: links: 21g, 21g, 29g, 29g; rechts: 2993g, 287g
+3190g: links: 399g; rechts: 2993g, 259g, 21g, 29g, 287g
+3200g: links: 5g, 287g; rechts: 2993g, 21g, 21g, 29g, 29g, 399g
+3210g: links: 21g, 21g; rechts: 2993g, 259g
+3220g: links: 29g, 29g; rechts: 2993g, 259g, 5g, 21g
+3230g: links: 21g, 29g; rechts: 2993g, 287g
+3240g: links: 29g, 29g, 29g; rechts: 2993g, 5g, 21g, 21g, 287g
+3250g: links: 5g, 287g; rechts: 2993g, 21g, 21g, 21g, 29g, 29g, 29g, 399g
+3260g: links: 21g; rechts: 2993g, 259g, 29g
+3270g: links: 29g; rechts: 2993g, 259g, 5g, 21g, 21g
+3280g: links: /; rechts: 2993g, 287g
+3290g: links: 29g, 29g; rechts: 2993g, 5g, 21g, 21g, 21g, 287g
+3300g: links: 5g, 29g, 29g, 29g; rechts: 2993g, 399g
+3310g: links: /; rechts: 2993g, 259g, 29g, 29g
+3320g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g
+3330g: links: /; rechts: 2993g, 21g, 29g, 287g
+3340g: links: 29g, 287g; rechts: 2993g, 259g, 5g, 399g
+3350g: links: 21g, 21g; rechts: 2993g, 399g
+3360g: links: /; rechts: 2993g, 259g, 21g, 29g, 29g, 29g
+3370g: links: 259g, 21g, 29g; rechts: 2993g, 287g, 399g
+3380g: links: /; rechts: 2993g, 21g, 21g, 29g, 29g, 287g
+3390g: links: 287g; rechts: 2993g, 259g, 5g, 21g, 399g
+3400g: links: 21g; rechts: 2993g, 29g, 399g
+3410g: links: 29g; rechts: 2993g, 5g, 21g, 21g, 399g
+3420g: links: 259g; rechts: 2993g, 287g, 399g
+3430g: links: /; rechts: 2993g, 21g, 21g, 21g, 29g, 29g, 29g, 287g
+3440g: links: 287g; rechts: 2993g, 259g, 5g, 21g, 21g, 29g, 399g
+3450g: links: /; rechts: 2993g, 29g, 29g, 399g
+3460g: links: /; rechts: 2993g, 5g, 21g, 21g, 21g, 399g
+3470g: links: 259g; rechts: 2993g, 21g, 29g, 287g, 399g
+3480g: links: 5g, 287g; rechts: 2993g, 259g, 21g, 21g, 21g, 29g, 29g, 399g
+3490g: links: 287g; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 399g
+3500g: links: /; rechts: 2993g, 21g, 29g, 29g, 29g, 399g
+3510g: links: 29g; rechts: 2993g, 259g, 287g
+3520g: links: 29g, 29g, 29g; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 287g
+3530g: links: 21g, 21g, 21g, 29g, 29g; rechts: 2993g, 259g, 399g
+3540g: naechtes Ergebnis: 3539g: links: /; rechts: 2993g, 259g, 287g
+3550g: links: 5g, 21g, 21g; rechts: 2993g, 259g, 29g, 29g, 287g
+3560g: links: /; rechts: 2993g, 259g, 21g, 287g
+3570g: links: 259g; rechts: 2993g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+3580g: links: 21g, 21g, 29g; rechts: 2993g, 259g, 399g
+3590g: links: 29g, 29g, 29g; rechts: 2993g, 259g, 5g, 21g, 399g
+3600g: links: 5g, 21g; rechts: 2993g, 259g, 29g, 29g, 29g, 287g
+3610g: links: /; rechts: 2993g, 259g, 21g, 21g, 29g, 287g
+3620g: naechtes Ergebnis: 3619g: links: 29g, 29g; rechts: 2993g, 259g, 5g, 21g, 399g
+3630g: links: 21g; rechts: 2993g, 259g, 399g
+3640g: links: 29g, 29g; rechts: 2993g, 259g, 5g, 21g, 21g, 399g
+3650g: links: 29g; rechts: 2993g, 287g, 399g
+3660g: links: /; rechts: 2993g, 259g, 21g, 21g, 21g, 29g, 29g, 287g
+3670g: links: 5g, 21g, 21g, 21g; rechts: 2993g, 259g, 29g, 29g, 29g, 399g
+3680g: links: /; rechts: 2993g, 259g, 29g, 399g
+3690g: links: 29g; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 399g
+3700g: links: /; rechts: 2993g, 21g, 287g, 399g
+3710g: naechtes Ergebnis: 3709g: links: /; rechts: 2993g, 259g, 29g, 29g, 399g
+3720g: naechtes Ergebnis: 3719g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 399g
+3730g: links: /; rechts: 2993g, 259g, 21g, 29g, 29g, 399g
+3740g: links: 5g, 21g; rechts: 2993g, 29g, 29g, 29g, 287g, 399g
+3750g: links: /; rechts: 2993g, 21g, 21g, 29g, 287g, 399g
+3760g: naechtes Ergebnis: 3759g: links: /; rechts: 2993g, 259g, 21g, 29g, 29g, 29g, 399g
+3770g: naechtes Ergebnis: 3771g: links: /; rechts: 2993g, 5g, 29g, 29g, 29g, 287g, 399g
+3780g: links: /; rechts: 2993g, 259g, 21g, 21g, 29g, 29g, 29g, 399g
+3790g: naechtes Ergebnis: 3788g: links: 21g, 21g, 21g, 29g, 29g, 29g; rechts: 2993g, 259g, 287g, 399g
+3800g: links: /; rechts: 2993g, 21g, 21g, 21g, 29g, 29g, 287g, 399g
+3810g: naechtes Ergebnis: 3809g: links: 21g, 21g, 29g, 29g, 29g; rechts: 2993g, 259g, 287g, 399g
+3820g: naechtes Ergebnis: 3822g: links: 21g, 21g, 21g, 29g, 29g; rechts: 2993g, 259g, 5g, 287g, 399g
+3830g: links: 21g, 29g, 29g, 29g; rechts: 2993g, 259g, 287g, 399g
+3840g: naechtes Ergebnis: 3841g: links: 5g, 21g, 21g, 21g, 29g; rechts: 2993g, 259g, 287g, 399g
+3850g: naechtes Ergebnis: 3851g: links: 29g, 29g, 29g; rechts: 2993g, 259g, 287g, 399g
+3860g: naechtes Ergebnis: 3859g: links: 21g, 29g, 29g; rechts: 2993g, 259g, 287g, 399g
+3870g: links: 5g, 21g, 21g, 21g; rechts: 2993g, 259g, 287g, 399g
+3880g: links: 29g, 29g; rechts: 2993g, 259g, 287g, 399g
+3890g: naechtes Ergebnis: 3891g: links: 5g, 21g, 21g; rechts: 2993g, 259g, 287g, 399g
+3900g: naechtes Ergebnis: 3899g: links: 5g, 21g, 21g, 21g; rechts: 2993g, 259g, 29g, 287g, 399g
+3910g: naechtes Ergebnis: 3909g: links: 29g; rechts: 2993g, 259g, 287g, 399g
+3920g: links: 5g, 21g, 21g; rechts: 2993g, 259g, 29g, 287g, 399g
+3930g: links: 29g; rechts: 2993g, 259g, 21g, 287g, 399g
+3940g: naechtes Ergebnis: 3941g: links: 5g, 21g; rechts: 2993g, 259g, 29g, 287g, 399g
+3950g: naechtes Ergebnis: 3949g: links: 5g, 21g, 21g; rechts: 2993g, 259g, 29g, 29g, 287g, 399g
+3960g: naechtes Ergebnis: 3959g: links: /; rechts: 2993g, 259g, 21g, 287g, 399g
+3970g: links: 5g, 21g; rechts: 2993g, 259g, 29g, 29g, 287g, 399g
+3980g: links: /; rechts: 2993g, 259g, 21g, 21g, 287g, 399g
+3990g: naechtes Ergebnis: 3991g: links: 5g; rechts: 2993g, 259g, 29g, 29g, 287g, 399g
+4000g: naechtes Ergebnis: 3999g: links: 5g, 21g; rechts: 2993g, 259g, 29g, 29g, 29g, 287g, 399g
+4010g: naechtes Ergebnis: 4009g: links: /; rechts: 2993g, 259g, 21g, 21g, 29g, 287g, 399g
+4020g: links: 5g; rechts: 2993g, 259g, 29g, 29g, 29g, 287g, 399g
+4030g: links: /; rechts: 2993g, 259g, 5g, 29g, 29g, 29g, 287g, 399g
+4040g: naechtes Ergebnis: 4041g: links: 5g; rechts: 2993g, 259g, 21g, 29g, 29g, 29g, 287g, 399g
+4050g: naechtes Ergebnis: 4051g: links: /; rechts: 2993g, 259g, 5g, 21g, 29g, 29g, 29g, 287g, 399g
+4060g: naechtes Ergebnis: 4059g: links: /; rechts: 2993g, 259g, 21g, 21g, 21g, 29g, 29g, 287g, 399g
+4070g: naechtes Ergebnis: 4072g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4080g: naechtes Ergebnis: 4083g: links: 5g; rechts: 2993g, 259g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4090g: naechtes Ergebnis: 4088g: links: /; rechts: 2993g, 259g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4100g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4110g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4120g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4130g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4140g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4150g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4160g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4170g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4180g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4190g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4200g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4210g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4220g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4230g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4240g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4250g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4260g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4270g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4280g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4290g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4300g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4310g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4320g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4330g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4340g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4350g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4360g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4370g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4380g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4390g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4400g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4410g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4420g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4430g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4440g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4450g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4460g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4470g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4480g: naechtes Ergebnis: 4093g: links: /; rechts: 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+4490g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4500g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4510g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4520g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4530g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4540g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4550g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4560g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4570g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4580g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4590g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4600g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4610g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4620g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4630g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4640g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4650g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4660g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4670g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4680g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4690g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4700g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4710g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4720g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4730g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4740g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4750g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4760g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4770g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4780g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4790g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4800g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4810g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4820g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4830g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4840g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4850g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4860g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4870g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4880g: naechtes Ergebnis: 4886g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4890g: naechtes Ergebnis: 4891g: links: 259g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4900g: naechtes Ergebnis: 4896g: links: 259g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 5g
+4910g: naechtes Ergebnis: 4912g: links: 259g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4920g: links: 259g, 21g, 21g, 21g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4930g: naechtes Ergebnis: 4928g: links: 259g, 5g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4940g: naechtes Ergebnis: 4941g: links: 259g, 21g, 21g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4950g: naechtes Ergebnis: 4949g: links: 259g, 5g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4960g: naechtes Ergebnis: 4959g: links: 259g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 5g
+4970g: links: 259g, 21g, 21g, 29g, 287g, 399g; rechts: 2993g, 2993g
+4980g: links: 259g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 5g, 21g
+4990g: naechtes Ergebnis: 4991g: links: 259g, 21g, 29g, 287g, 399g; rechts: 2993g, 2993g
+5000g: naechtes Ergebnis: 4999g: links: 259g, 21g, 21g, 287g, 399g; rechts: 2993g, 2993g
+5010g: naechtes Ergebnis: 5009g: links: 259g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 5g, 21g
+5020g: links: 259g, 21g, 287g, 399g; rechts: 2993g, 2993g
+5030g: links: 259g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 5g, 21g, 21g
+5040g: naechtes Ergebnis: 5041g: links: 259g, 287g, 399g; rechts: 2993g, 2993g
+5050g: naechtes Ergebnis: 5049g: links: 259g, 21g, 287g, 399g; rechts: 2993g, 2993g, 29g
+5060g: links: 259g, 5g, 21g, 21g, 21g, 287g, 399g; rechts: 2993g, 2993g, 29g, 29g, 29g
+5070g: links: 259g, 287g, 399g; rechts: 2993g, 2993g, 29g
+5080g: links: 259g, 29g, 287g, 399g; rechts: 2993g, 2993g, 5g, 21g, 21g, 21g
+5090g: naechtes Ergebnis: 5091g: links: 259g, 287g, 399g; rechts: 2993g, 2993g, 21g, 29g
+5100g: naechtes Ergebnis: 5099g: links: 259g, 287g, 399g; rechts: 2993g, 2993g, 29g, 29g
+5110g: naechtes Ergebnis: 5109g: links: 259g, 287g, 399g; rechts: 2993g, 2993g, 5g, 21g, 21g, 21g
+5120g: links: 259g, 287g, 399g; rechts: 2993g, 2993g, 21g, 29g, 29g
+5130g: naechtes Ergebnis: 5128g: links: 259g, 287g, 399g; rechts: 2993g, 2993g, 29g, 29g, 29g
+5140g: naechtes Ergebnis: 5141g: links: 259g, 287g, 399g; rechts: 2993g, 2993g, 21g, 21g, 29g, 29g
+5150g: links: 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+5160g: naechtes Ergebnis: 5162g: links: 259g, 287g, 399g; rechts: 2993g, 2993g, 21g, 21g, 21g, 29g, 29g
+5170g: links: 259g, 287g, 399g; rechts: 2993g, 2993g, 21g, 21g, 29g, 29g, 29g
+5180g: naechtes Ergebnis: 5179g: links: 21g, 21g, 21g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+5190g: naechtes Ergebnis: 5191g: links: 259g, 287g, 399g; rechts: 2993g, 2993g, 21g, 21g, 21g, 29g, 29g, 29g
+5200g: links: 21g, 21g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+5210g: naechtes Ergebnis: 5208g: links: 5g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g
+5220g: links: 259g, 21g, 29g, 29g, 29g, 399g; rechts: 2993g, 2993g
+5230g: naechtes Ergebnis: 5229g: links: 21g, 21g, 29g, 287g, 399g; rechts: 2993g, 2993g
+5240g: naechtes Ergebnis: 5239g: links: 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 5g, 21g
+5250g: links: 21g, 29g, 287g, 399g; rechts: 2993g, 2993g
+5260g: links: 259g, 5g, 21g, 21g, 21g, 399g; rechts: 2993g, 2993g
+5270g: links: 259g, 29g, 29g, 399g; rechts: 2993g, 2993g
+5280g: naechtes Ergebnis: 5279g: links: 21g, 287g, 399g; rechts: 2993g, 2993g
+5290g: links: 259g, 21g, 21g, 21g, 29g, 29g, 29g, 287g; rechts: 2993g, 2993g
+5300g: links: 287g, 399g; rechts: 2993g, 2993g
+5310g: links: 259g, 5g, 21g, 21g, 399g; rechts: 2993g, 2993g, 29g
+5320g: links: 259g, 29g, 399g; rechts: 2993g, 2993g, 21g
+5330g: naechtes Ergebnis: 5329g: links: 287g, 399g; rechts: 2993g, 2993g, 29g
+5340g: links: 259g, 21g, 21g, 29g, 29g, 287g; rechts: 2993g, 2993g
+5350g: links: 287g, 399g; rechts: 2993g, 2993g, 21g, 29g
+5360g: links: 259g, 5g, 21g, 399g; rechts: 2993g, 2993g, 29g, 29g
+5370g: links: 259g, 399g; rechts: 2993g, 2993g, 21g, 21g
+5380g: naechtes Ergebnis: 5379g: links: 259g, 29g, 29g, 29g, 287g; rechts: 2993g, 2993g, 5g, 21g
+5390g: links: 259g, 21g, 29g, 287g; rechts: 2993g, 2993g
+5400g: links: 259g, 29g, 29g, 29g, 287g; rechts: 2993g, 2993g, 5g, 21g, 21g
+5410g: links: 259g, 5g, 399g; rechts: 2993g, 2993g, 29g, 29g, 29g
+5420g: links: 259g, 399g; rechts: 2993g, 2993g, 5g, 29g, 29g, 29g
+5430g: links: 259g, 5g, 21g, 21g, 21g, 287g; rechts: 2993g, 2993g, 29g, 29g
+5440g: links: 259g, 287g; rechts: 2993g, 2993g
+5450g: links: 259g, 29g, 29g, 287g; rechts: 2993g, 2993g, 5g, 21g, 21g, 21g
+5460g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 399g; rechts: 2993g, 2993g, 287g
+5470g: links: 259g, 21g, 21g, 21g, 29g, 29g, 29g, 399g; rechts: 2993g, 2993g, 5g, 287g
+5480g: links: 259g, 5g, 21g, 21g, 287g; rechts: 2993g, 2993g, 29g, 29g, 29g
+5490g: links: 5g, 21g, 21g, 21g, 29g, 399g; rechts: 2993g, 2993g
+5500g: links: 29g, 29g, 29g, 399g; rechts: 2993g, 2993g
+5510g: links: 259g, 5g, 21g, 21g, 29g, 29g, 399g; rechts: 2993g, 2993g, 287g
+5520g: links: 5g, 21g, 21g, 21g, 287g, 399g; rechts: 2993g, 2993g, 259g, 29g
+5530g: links: 29g, 287g, 399g; rechts: 2993g, 2993g, 259g
+5540g: links: 5g, 21g, 21g, 399g; rechts: 2993g, 2993g
+5550g: links: 21g, 21g, 399g; rechts: 2993g, 2993g, 5g
+5560g: links: 259g, 5g, 21g, 29g, 399g; rechts: 2993g, 2993g, 287g
+5570g: links: 21g, 21g, 29g, 29g, 29g, 287g; rechts: 2993g, 2993g
+5580g: links: 287g, 399g; rechts: 2993g, 2993g, 259g, 21g
+5590g: links: 5g, 21g, 399g; rechts: 2993g, 2993g, 29g
+5600g: links: 21g, 399g; rechts: 2993g, 2993g, 5g, 29g
+5610g: links: 259g, 5g, 399g; rechts: 2993g, 2993g, 287g
+5620g: links: 21g, 29g, 29g, 287g; rechts: 2993g, 2993g
+5630g: links: 259g, 5g, 21g, 21g, 21g, 29g; rechts: 2993g, 2993g
+5640g: links: 259g, 29g, 29g, 29g; rechts: 2993g, 2993g
+5650g: links: 399g; rechts: 2993g, 2993g, 5g, 29g, 29g
+5660g: links: 5g, 21g, 21g, 21g, 287g; rechts: 2993g, 2993g, 29g
+5670g: links: 29g, 287g; rechts: 2993g, 2993g
+5680g: links: 259g, 5g, 21g, 21g; rechts: 2993g, 2993g
+5690g: links: 259g, 21g, 21g; rechts: 2993g, 2993g, 5g
+5700g: links: 399g; rechts: 2993g, 2993g, 5g, 21g, 29g, 29g, 29g
+5710g: links: 5g, 21g, 21g, 287g; rechts: 2993g, 2993g, 29g, 29g
+5720g: links: 287g; rechts: 2993g, 2993g, 21g
+5730g: links: 259g, 5g, 21g; rechts: 2993g, 2993g, 29g
+5740g: links: 259g, 21g; rechts: 2993g, 2993g, 5g, 29g
+5750g: links: 21g, 21g, 29g, 29g, 29g, 399g; rechts: 2993g, 2993g, 5g, 287g
+5760g: links: 5g, 21g, 287g; rechts: 2993g, 2993g, 29g, 29g, 29g
+5770g: links: 287g; rechts: 2993g, 2993g, 21g, 21g, 29g
+5780g: links: 259g, 5g; rechts: 2993g, 2993g, 29g, 29g
+5790g: links: 259g; rechts: 2993g, 2993g, 5g, 29g, 29g
+5800g: links: 21g, 29g, 29g, 399g; rechts: 2993g, 2993g, 5g, 287g
+5810g: links: 259g, 29g, 287g; rechts: 2993g, 2993g, 399g
+5820g: links: 287g; rechts: 2993g, 2993g, 21g, 21g, 21g, 29g, 29g
+5830g: links: 259g, 5g; rechts: 2993g, 2993g, 21g, 29g, 29g, 29g
+5840g: links: 259g; rechts: 2993g, 2993g, 5g, 21g, 29g, 29g, 29g
+5850g: links: 21g, 29g, 29g, 29g, 287g; rechts: 2993g, 2993g, 259g
+5860g: links: 5g, 21g, 21g, 21g, 29g, 29g; rechts: 2993g, 2993g
+5870g: links: 21g, 21g, 21g, 29g, 29g; rechts: 2993g, 2993g, 5g
+5880g: links: 259g, 5g, 21g, 21g, 29g, 29g, 29g; rechts: 2993g, 2993g, 287g
+5890g: links: 5g, 21g, 21g, 21g, 287g; rechts: 2993g, 2993g, 259g
+5900g: links: 29g, 29g, 287g; rechts: 2993g, 2993g, 259g
+5910g: links: 5g, 21g, 21g, 29g; rechts: 2993g, 2993g
+5920g: links: 21g, 21g, 29g; rechts: 2993g, 2993g, 5g
+5930g: links: 259g, 5g, 21g, 29g, 29g; rechts: 2993g, 2993g, 287g
+5940g: links: 5g, 21g, 21g, 287g; rechts: 2993g, 2993g, 259g, 29g
+5950g: links: 29g, 287g; rechts: 2993g, 2993g, 259g, 21g
+5960g: links: 5g, 21g; rechts: 2993g, 2993g
+5970g: links: 21g; rechts: 2993g, 2993g, 5g
+5980g: links: 259g, 5g, 29g; rechts: 2993g, 2993g, 287g
+5990g: links: 259g, 29g; rechts: 2993g, 2993g, 5g, 287g
+6000g: links: 287g; rechts: 2993g, 2993g, 259g, 21g, 21g
+6010g: links: 5g; rechts: 2993g, 2993g, 29g
+6020g: links: /; rechts: 2993g, 2993g, 5g, 29g
+6030g: links: 259g, 5g; rechts: 2993g, 2993g, 21g, 287g
+6040g: links: 259g; rechts: 2993g, 2993g, 5g, 21g, 287g
+6050g: links: 287g; rechts: 2993g, 2993g, 259g, 5g, 29g, 29g, 29g
+6060g: links: 5g; rechts: 2993g, 2993g, 21g, 29g, 29g
+6070g: links: /; rechts: 2993g, 2993g, 5g, 21g, 29g, 29g
+6080g: links: 259g, 5g; rechts: 2993g, 2993g, 21g, 21g, 29g, 287g
+6090g: links: 5g, 21g, 21g, 21g, 29g, 29g, 29g; rechts: 2993g, 2993g, 259g
+6100g: links: 21g, 21g, 21g, 29g, 29g, 29g; rechts: 2993g, 2993g, 259g, 5g
+6110g: links: 5g; rechts: 2993g, 2993g, 21g, 21g, 29g, 29g, 29g
+6120g: links: /; rechts: 2993g, 2993g, 5g, 21g, 21g, 29g, 29g, 29g
+6130g: links: 259g, 5g; rechts: 2993g, 2993g, 21g, 21g, 21g, 29g, 29g, 287g
+6140g: links: 5g, 21g, 21g, 29g, 29g; rechts: 2993g, 2993g, 259g
+6150g: links: 21g, 21g, 29g, 29g; rechts: 2993g, 2993g, 259g, 5g
+6160g: links: 5g, 21g, 29g, 29g, 29g; rechts: 2993g, 2993g, 287g
+6170g: links: 21g, 29g, 29g, 29g; rechts: 2993g, 2993g, 5g, 287g
+6180g: links: 5g, 287g; rechts: 2993g, 2993g, 29g, 29g, 29g, 399g
+6190g: links: 5g, 21g, 29g; rechts: 2993g, 2993g, 259g
+6200g: links: 21g, 29g; rechts: 2993g, 2993g, 259g, 5g
+6210g: links: 5g, 29g, 29g; rechts: 2993g, 2993g, 287g
+6220g: links: 29g, 29g; rechts: 2993g, 2993g, 5g, 287g
+6230g: links: 5g, 21g, 21g, 21g, 29g, 29g, 29g; rechts: 2993g, 2993g, 399g
+6240g: links: 5g; rechts: 2993g, 2993g, 259g
+6250g: links: /; rechts: 2993g, 2993g, 259g, 5g
+6260g: links: 5g, 29g; rechts: 2993g, 2993g, 21g, 287g
+6270g: links: 29g; rechts: 2993g, 2993g, 5g, 21g, 287g
+6280g: links: 5g, 21g, 21g, 29g, 29g; rechts: 2993g, 2993g, 399g
+6290g: links: 5g; rechts: 2993g, 2993g, 259g, 21g, 29g
+6300g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 29g
+6310g: links: 5g; rechts: 2993g, 2993g, 21g, 21g, 287g
+6320g: links: /; rechts: 2993g, 2993g, 5g, 21g, 21g, 287g
+6330g: links: 5g, 21g, 29g; rechts: 2993g, 2993g, 399g
+6340g: links: 5g; rechts: 2993g, 2993g, 259g, 21g, 21g, 29g, 29g
+6350g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 29g, 29g
+6360g: links: /; rechts: 2993g, 2993g, 29g, 29g, 29g, 287g
+6370g: links: /; rechts: 2993g, 2993g, 5g, 21g, 21g, 21g, 29g, 287g
+6380g: links: 5g; rechts: 2993g, 2993g, 399g
+6390g: links: /; rechts: 2993g, 2993g, 5g, 399g
+6400g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g
+6410g: links: 259g, 29g; rechts: 2993g, 2993g, 5g, 21g, 287g, 399g
+6420g: links: 287g; rechts: 2993g, 2993g, 259g, 5g, 29g, 29g, 399g
+6430g: links: 5g; rechts: 2993g, 2993g, 21g, 29g, 399g
+6440g: links: /; rechts: 2993g, 2993g, 5g, 21g, 29g, 399g
+6450g: links: 29g, 29g, 29g; rechts: 2993g, 2993g, 259g, 5g, 287g
+6460g: links: 259g; rechts: 2993g, 2993g, 5g, 21g, 21g, 287g, 399g
+6470g: links: 287g; rechts: 2993g, 2993g, 259g, 5g, 21g, 29g, 29g, 29g, 399g
+6480g: links: 5g; rechts: 2993g, 2993g, 21g, 21g, 29g, 29g, 399g
+6490g: links: /; rechts: 2993g, 2993g, 5g, 21g, 21g, 29g, 29g, 399g
+6500g: links: 29g, 29g; rechts: 2993g, 2993g, 259g, 5g, 21g, 287g
+6510g: links: 5g, 21g, 21g, 29g, 29g, 29g; rechts: 2993g, 2993g, 259g, 399g
+6520g: links: 21g, 21g, 29g, 29g, 29g; rechts: 2993g, 2993g, 259g, 5g, 399g
+6530g: links: 5g; rechts: 2993g, 2993g, 21g, 21g, 21g, 29g, 29g, 29g, 399g
+6540g: links: /; rechts: 2993g, 2993g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 399g
+6550g: links: 29g; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 287g
+6560g: links: 5g, 21g, 29g, 29g; rechts: 2993g, 2993g, 259g, 399g
+6570g: links: 21g, 29g, 29g; rechts: 2993g, 2993g, 259g, 5g, 399g
+6580g: links: 5g, 29g, 29g, 29g; rechts: 2993g, 2993g, 287g, 399g
+6590g: links: /; rechts: 2993g, 2993g, 259g, 29g, 29g, 287g
+6600g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 287g
+6610g: links: 5g, 29g; rechts: 2993g, 2993g, 259g, 399g
+6620g: links: 29g; rechts: 2993g, 2993g, 259g, 5g, 399g
+6630g: links: 21g, 21g; rechts: 2993g, 2993g, 287g, 399g
+6640g: links: /; rechts: 2993g, 2993g, 259g, 21g, 29g, 29g, 29g, 287g
+6650g: naechtes Ergebnis: 6649g: links: /; rechts: 2993g, 2993g, 259g, 5g, 399g
+6660g: links: 5g; rechts: 2993g, 2993g, 259g, 21g, 399g
+6670g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 399g
+6680g: links: 21g; rechts: 2993g, 2993g, 29g, 287g, 399g
+6690g: links: 29g; rechts: 2993g, 2993g, 5g, 21g, 21g, 287g, 399g
+6700g: naechtes Ergebnis: 6699g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 29g, 399g
+6710g: links: 5g; rechts: 2993g, 2993g, 259g, 21g, 21g, 29g, 399g
+6720g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 29g, 399g
+6730g: links: /; rechts: 2993g, 2993g, 29g, 29g, 287g, 399g
+6740g: links: /; rechts: 2993g, 2993g, 5g, 21g, 21g, 21g, 287g, 399g
+6750g: naechtes Ergebnis: 6749g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 29g, 29g, 399g
+6760g: links: 5g; rechts: 2993g, 2993g, 259g, 21g, 21g, 21g, 29g, 29g, 399g
+6770g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 399g
+6780g: links: /; rechts: 2993g, 2993g, 21g, 29g, 29g, 29g, 287g, 399g
+6790g: naechtes Ergebnis: 6789g: links: 5g; rechts: 2993g, 2993g, 259g, 21g, 21g, 21g, 29g, 29g, 29g, 399g
+6800g: naechtes Ergebnis: 6799g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 399g
+6810g: links: 21g, 21g, 21g, 29g, 29g; rechts: 2993g, 2993g, 259g, 287g, 399g
+6820g: naechtes Ergebnis: 6818g: links: 5g, 21g, 29g, 29g, 29g; rechts: 2993g, 2993g, 259g, 287g, 399g
+6830g: naechtes Ergebnis: 6831g: links: 21g, 21g, 29g, 29g; rechts: 2993g, 2993g, 259g, 287g, 399g
+6840g: naechtes Ergebnis: 6839g: links: 5g, 29g, 29g, 29g; rechts: 2993g, 2993g, 259g, 287g, 399g
+6850g: naechtes Ergebnis: 6849g: links: 29g, 29g, 29g; rechts: 2993g, 2993g, 259g, 5g, 287g, 399g
+6860g: links: 21g, 21g, 29g; rechts: 2993g, 2993g, 259g, 287g, 399g
+6870g: links: 29g, 29g, 29g; rechts: 2993g, 2993g, 259g, 5g, 21g, 287g, 399g
+6880g: naechtes Ergebnis: 6881g: links: 21g, 29g; rechts: 2993g, 2993g, 259g, 287g, 399g
+6890g: naechtes Ergebnis: 6889g: links: 21g, 21g; rechts: 2993g, 2993g, 259g, 287g, 399g
+6900g: naechtes Ergebnis: 6899g: links: 29g, 29g; rechts: 2993g, 2993g, 259g, 5g, 21g, 287g, 399g
+6910g: links: 21g; rechts: 2993g, 2993g, 259g, 287g, 399g
+6920g: links: 29g, 29g; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 287g, 399g
+6930g: naechtes Ergebnis: 6931g: links: /; rechts: 2993g, 2993g, 259g, 287g, 399g
+6940g: naechtes Ergebnis: 6939g: links: 21g; rechts: 2993g, 2993g, 259g, 29g, 287g, 399g
+6950g: links: 5g, 21g, 21g, 21g; rechts: 2993g, 2993g, 259g, 29g, 29g, 29g, 287g, 399g
+6960g: links: /; rechts: 2993g, 2993g, 259g, 29g, 287g, 399g
+6970g: links: 29g; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 287g, 399g
+6980g: naechtes Ergebnis: 6981g: links: /; rechts: 2993g, 2993g, 259g, 21g, 29g, 287g, 399g
+6990g: naechtes Ergebnis: 6989g: links: /; rechts: 2993g, 2993g, 259g, 29g, 29g, 287g, 399g
+7000g: naechtes Ergebnis: 6999g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 287g, 399g
+7010g: links: /; rechts: 2993g, 2993g, 259g, 21g, 29g, 29g, 287g, 399g
+7020g: naechtes Ergebnis: 7018g: links: /; rechts: 2993g, 2993g, 259g, 29g, 29g, 29g, 287g, 399g
+7030g: naechtes Ergebnis: 7031g: links: /; rechts: 2993g, 2993g, 259g, 21g, 21g, 29g, 29g, 287g, 399g
+7040g: naechtes Ergebnis: 7039g: links: /; rechts: 2993g, 2993g, 259g, 21g, 29g, 29g, 29g, 287g, 399g
+7050g: naechtes Ergebnis: 7052g: links: /; rechts: 2993g, 2993g, 259g, 21g, 21g, 21g, 29g, 29g, 287g, 399g
+7060g: links: /; rechts: 2993g, 2993g, 259g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7070g: naechtes Ergebnis: 7065g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7080g: naechtes Ergebnis: 7081g: links: /; rechts: 2993g, 2993g, 259g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7090g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7100g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7110g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7120g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7130g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7140g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7150g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7160g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7170g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7180g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7190g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7200g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7210g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7220g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7230g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7240g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7250g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7260g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7270g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7280g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7290g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7300g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7310g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7320g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7330g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7340g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7350g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7360g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7370g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7380g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7390g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7400g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7410g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7420g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7430g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7440g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7450g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7460g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7470g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7480g: naechtes Ergebnis: 7086g: links: /; rechts: 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+7490g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7500g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7510g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7520g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7530g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7540g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7550g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7560g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7570g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7580g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7590g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7600g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7610g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7620g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7630g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7640g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7650g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7660g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7670g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7680g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7690g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7700g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7710g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7720g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7730g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7740g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7750g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7760g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7770g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7780g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7790g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7800g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7810g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7820g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7830g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7840g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7850g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7860g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7870g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7880g: naechtes Ergebnis: 7879g: links: 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7890g: naechtes Ergebnis: 7889g: links: 259g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 5g
+7900g: links: 259g, 5g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7910g: links: 259g, 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 5g
+7920g: naechtes Ergebnis: 7921g: links: 259g, 5g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7930g: naechtes Ergebnis: 7929g: links: 259g, 5g, 21g, 21g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7940g: naechtes Ergebnis: 7939g: links: 259g, 21g, 21g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 5g
+7950g: links: 259g, 5g, 21g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7960g: links: 259g, 21g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 5g
+7970g: naechtes Ergebnis: 7971g: links: 259g, 5g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7980g: naechtes Ergebnis: 7979g: links: 259g, 5g, 21g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+7990g: naechtes Ergebnis: 7989g: links: 259g, 21g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 5g
+8000g: links: 259g, 5g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+8010g: links: 259g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 5g
+8020g: naechtes Ergebnis: 8021g: links: 259g, 5g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 21g
+8030g: naechtes Ergebnis: 8029g: links: 259g, 5g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+8040g: naechtes Ergebnis: 8039g: links: 259g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 5g
+8050g: links: 259g, 5g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 21g
+8060g: links: 259g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 5g, 21g
+8070g: naechtes Ergebnis: 8071g: links: 259g, 5g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 21g, 21g
+8080g: naechtes Ergebnis: 8079g: links: 259g, 5g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 21g, 29g
+8090g: naechtes Ergebnis: 8089g: links: 259g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 5g, 21g, 29g
+8100g: links: 259g, 5g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 21g, 21g, 29g
+8110g: links: 259g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 5g, 21g, 21g, 29g
+8120g: naechtes Ergebnis: 8121g: links: 259g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 29g, 29g, 29g
+8130g: naechtes Ergebnis: 8129g: links: 259g, 5g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 21g, 21g, 29g, 29g
+8140g: naechtes Ergebnis: 8139g: links: 259g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 5g, 21g, 21g, 29g, 29g
+8150g: links: 259g, 5g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 21g, 21g, 21g, 29g, 29g
+8160g: links: 259g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 5g, 21g, 21g, 21g, 29g, 29g
+8170g: naechtes Ergebnis: 8169g: links: 21g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 5g
+8180g: links: 5g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+8190g: links: 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 5g
+8200g: links: 259g, 21g, 21g, 21g, 29g, 29g, 399g; rechts: 2993g, 2993g, 2993g
+8210g: naechtes Ergebnis: 8209g: links: 5g, 21g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+8220g: naechtes Ergebnis: 8219g: links: 21g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 5g
+8230g: links: 5g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g
+8240g: links: 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 5g
+8250g: links: 259g, 21g, 21g, 29g, 399g; rechts: 2993g, 2993g, 2993g
+8260g: links: 259g, 29g, 29g, 29g, 399g; rechts: 2993g, 2993g, 2993g, 5g, 21g
+8270g: naechtes Ergebnis: 8269g: links: 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 5g
+8280g: links: 5g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 21g
+8290g: links: 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 5g, 21g
+8300g: links: 259g, 21g, 399g; rechts: 2993g, 2993g, 2993g
+8310g: links: 259g, 29g, 29g, 399g; rechts: 2993g, 2993g, 2993g, 5g, 21g, 21g
+8320g: links: 259g, 5g, 21g, 29g, 29g, 29g, 287g; rechts: 2993g, 2993g, 2993g
+8330g: links: 259g, 21g, 29g, 29g, 29g, 287g; rechts: 2993g, 2993g, 2993g, 5g
+8340g: links: 287g, 399g; rechts: 2993g, 2993g, 2993g, 5g, 21g, 21g
+8350g: links: 259g, 399g; rechts: 2993g, 2993g, 2993g, 29g
+8360g: links: 259g, 29g, 399g; rechts: 2993g, 2993g, 2993g, 5g, 21g, 21g, 21g
+8370g: links: 259g, 5g, 29g, 29g, 287g; rechts: 2993g, 2993g, 2993g
+8380g: links: 259g, 29g, 29g, 287g; rechts: 2993g, 2993g, 2993g, 5g
+8390g: links: 287g, 399g; rechts: 2993g, 2993g, 2993g, 5g, 21g, 21g, 21g, 29g
+8400g: links: 259g, 399g; rechts: 2993g, 2993g, 2993g, 21g, 29g, 29g
+8410g: naechtes Ergebnis: 8409g: links: 259g, 29g, 287g; rechts: 2993g, 2993g, 2993g, 5g
+8420g: links: 259g, 5g, 29g, 287g; rechts: 2993g, 2993g, 2993g, 21g
+8430g: links: 21g, 21g, 21g, 29g, 29g, 29g, 399g; rechts: 2993g, 2993g, 2993g
+8440g: naechtes Ergebnis: 8439g: links: 5g, 21g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 259g
+8450g: links: 259g, 399g; rechts: 2993g, 2993g, 2993g, 21g, 21g, 29g, 29g, 29g
+8460g: links: 5g, 29g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 259g
+8470g: links: 259g, 5g, 287g; rechts: 2993g, 2993g, 2993g, 21g, 21g
+8480g: links: 21g, 21g, 29g, 29g, 399g; rechts: 2993g, 2993g, 2993g
+8490g: naechtes Ergebnis: 8489g: links: 5g, 29g, 29g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 259g
+8500g: links: 259g, 21g, 29g, 29g, 29g, 399g; rechts: 2993g, 2993g, 2993g, 287g
+8510g: links: 21g, 21g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 259g
+8520g: links: 259g, 287g; rechts: 2993g, 2993g, 2993g, 29g, 29g, 29g
+8530g: links: 21g, 29g, 399g; rechts: 2993g, 2993g, 2993g
+8540g: links: 29g, 29g, 29g, 399g; rechts: 2993g, 2993g, 2993g, 5g, 21g, 21g
+8550g: links: 259g, 29g, 29g, 399g; rechts: 2993g, 2993g, 2993g, 287g
+8560g: links: 21g, 287g, 399g; rechts: 2993g, 2993g, 2993g, 259g, 29g
+8570g: links: 259g, 21g, 21g, 21g, 29g, 29g, 29g; rechts: 2993g, 2993g, 2993g
+8580g: links: 399g; rechts: 2993g, 2993g, 2993g
+8590g: links: 29g, 29g, 399g; rechts: 2993g, 2993g, 2993g, 5g, 21g, 21g, 21g
+8600g: links: 5g, 29g, 29g, 29g, 287g; rechts: 2993g, 2993g, 2993g
+8610g: links: 29g, 29g, 29g, 287g; rechts: 2993g, 2993g, 2993g, 5g
+8620g: links: 259g, 21g, 21g, 29g, 29g; rechts: 2993g, 2993g, 2993g
+8630g: links: 399g; rechts: 2993g, 2993g, 2993g, 21g, 29g
+8640g: links: 259g, 5g, 21g, 399g; rechts: 2993g, 2993g, 2993g, 29g, 29g, 287g
+8650g: links: 21g, 21g, 287g; rechts: 2993g, 2993g, 2993g
+8660g: links: 29g, 29g, 287g; rechts: 2993g, 2993g, 2993g, 5g, 21g
+8670g: links: 259g, 21g, 29g; rechts: 2993g, 2993g, 2993g
+8680g: links: 259g, 29g, 29g, 29g; rechts: 2993g, 2993g, 2993g, 5g, 21g, 21g
+8690g: links: 259g, 5g, 399g; rechts: 2993g, 2993g, 2993g, 29g, 29g, 29g, 287g
+8700g: links: 21g, 287g; rechts: 2993g, 2993g, 2993g, 29g
+8710g: links: 29g, 287g; rechts: 2993g, 2993g, 2993g, 5g, 21g, 21g
+8720g: links: 259g; rechts: 2993g, 2993g, 2993g
+8730g: links: 259g, 29g, 29g; rechts: 2993g, 2993g, 2993g, 5g, 21g, 21g, 21g
+8740g: links: 259g, 5g, 29g, 29g, 29g, 287g; rechts: 2993g, 2993g, 2993g, 399g
+8750g: links: 287g; rechts: 2993g, 2993g, 2993g, 29g, 29g
+8760g: links: 287g; rechts: 2993g, 2993g, 2993g, 5g, 21g, 21g, 21g
+8770g: links: 259g; rechts: 2993g, 2993g, 2993g, 21g, 29g
+8780g: links: 29g, 29g, 29g, 399g; rechts: 2993g, 2993g, 2993g, 287g
+8790g: links: 259g, 21g, 21g, 287g; rechts: 2993g, 2993g, 2993g, 399g
+8800g: links: 287g; rechts: 2993g, 2993g, 2993g, 21g, 29g, 29g, 29g
+8810g: links: 29g, 399g; rechts: 2993g, 2993g, 2993g, 259g
+8820g: links: 259g; rechts: 2993g, 2993g, 2993g, 21g, 21g, 29g, 29g
+8830g: links: 21g, 21g, 21g, 29g, 29g, 287g; rechts: 2993g, 2993g, 2993g, 259g
+8840g: links: 259g, 21g, 287g; rechts: 2993g, 2993g, 2993g, 29g, 399g
+8850g: links: 21g, 21g, 29g, 29g, 29g; rechts: 2993g, 2993g, 2993g
+8860g: links: 399g; rechts: 2993g, 2993g, 2993g, 259g, 21g
+8870g: links: 259g; rechts: 2993g, 2993g, 2993g, 21g, 21g, 21g, 29g, 29g, 29g
+8880g: links: 21g, 21g, 29g, 287g; rechts: 2993g, 2993g, 2993g, 259g
+8890g: links: 29g, 29g, 29g, 287g; rechts: 2993g, 2993g, 2993g, 259g, 5g, 21g
+8900g: links: 21g, 29g, 29g; rechts: 2993g, 2993g, 2993g
+8910g: links: 259g, 5g, 21g, 21g, 21g, 29g; rechts: 2993g, 2993g, 2993g, 287g
+8920g: links: 259g, 29g, 29g, 29g; rechts: 2993g, 2993g, 2993g, 287g
+8930g: links: 21g, 287g; rechts: 2993g, 2993g, 2993g, 259g
+8940g: links: 5g, 21g, 21g, 21g; rechts: 2993g, 2993g, 2993g, 29g
+8950g: links: 29g; rechts: 2993g, 2993g, 2993g
+8960g: links: 29g, 29g, 29g; rechts: 2993g, 2993g, 2993g, 5g, 21g, 21g, 21g
+8970g: links: 259g, 21g, 21g; rechts: 2993g, 2993g, 2993g, 5g, 287g
+8980g: links: 287g; rechts: 2993g, 2993g, 2993g, 259g, 29g
+8990g: links: 5g, 21g, 21g; rechts: 2993g, 2993g, 2993g, 29g, 29g
+9000g: links: /; rechts: 2993g, 2993g, 2993g, 21g
+9010g: links: 259g, 5g, 21g; rechts: 2993g, 2993g, 2993g, 29g, 287g
+9020g: links: 259g, 21g; rechts: 2993g, 2993g, 2993g, 5g, 29g, 287g
+9030g: links: 287g; rechts: 2993g, 2993g, 2993g, 259g, 21g, 29g, 29g
+9040g: links: 5g, 21g; rechts: 2993g, 2993g, 2993g, 29g, 29g, 29g
+9050g: links: /; rechts: 2993g, 2993g, 2993g, 21g, 21g, 29g
+9060g: links: 259g, 5g; rechts: 2993g, 2993g, 2993g, 29g, 29g, 287g
+9070g: links: 259g; rechts: 2993g, 2993g, 2993g, 5g, 29g, 29g, 287g
+9080g: links: 287g; rechts: 2993g, 2993g, 2993g, 259g, 21g, 21g, 29g, 29g, 29g
+9090g: links: 259g, 29g; rechts: 2993g, 2993g, 2993g, 399g
+9100g: links: /; rechts: 2993g, 2993g, 2993g, 21g, 21g, 21g, 29g, 29g
+9110g: links: 259g, 5g; rechts: 2993g, 2993g, 2993g, 21g, 29g, 29g, 29g, 287g
+9120g: links: 259g; rechts: 2993g, 2993g, 2993g, 5g, 21g, 29g, 29g, 29g, 287g
+9130g: links: 21g, 29g, 29g, 29g; rechts: 2993g, 2993g, 2993g, 259g
+9140g: links: 5g, 21g, 21g, 21g, 29g, 29g; rechts: 2993g, 2993g, 2993g, 287g
+9150g: links: 21g, 21g, 21g, 29g, 29g; rechts: 2993g, 2993g, 2993g, 5g, 287g
+9160g: links: 399g; rechts: 2993g, 2993g, 2993g, 259g, 5g, 29g, 287g
+9170g: links: 5g, 21g, 21g, 21g; rechts: 2993g, 2993g, 2993g, 259g
+9180g: links: 29g, 29g; rechts: 2993g, 2993g, 2993g, 259g
+9190g: links: 5g, 21g, 21g, 29g; rechts: 2993g, 2993g, 2993g, 287g
+9200g: links: 21g, 21g, 29g; rechts: 2993g, 2993g, 2993g, 5g, 287g
+9210g: links: 399g; rechts: 2993g, 2993g, 2993g, 259g, 5g, 21g, 29g, 29g, 287g
+9220g: links: 5g, 21g, 21g; rechts: 2993g, 2993g, 2993g, 259g, 29g
+9230g: links: 29g; rechts: 2993g, 2993g, 2993g, 259g, 21g
+9240g: links: 5g, 21g; rechts: 2993g, 2993g, 2993g, 287g
+9250g: links: 21g; rechts: 2993g, 2993g, 2993g, 5g, 287g
+9260g: links: 399g; rechts: 2993g, 2993g, 2993g, 259g, 5g, 21g, 21g, 29g, 29g, 29g, 287g
+9270g: links: 5g, 21g; rechts: 2993g, 2993g, 2993g, 259g, 29g, 29g
+9280g: links: /; rechts: 2993g, 2993g, 2993g, 259g, 21g, 21g
+9290g: links: 5g; rechts: 2993g, 2993g, 2993g, 29g, 287g
+9300g: links: /; rechts: 2993g, 2993g, 2993g, 5g, 29g, 287g
+9310g: links: 5g, 21g, 21g, 21g; rechts: 2993g, 2993g, 2993g, 399g
+9320g: links: 5g; rechts: 2993g, 2993g, 2993g, 259g, 29g, 29g, 29g
+9330g: links: /; rechts: 2993g, 2993g, 2993g, 259g, 5g, 29g, 29g, 29g
+9340g: links: 5g; rechts: 2993g, 2993g, 2993g, 21g, 29g, 29g, 287g
+9350g: links: /; rechts: 2993g, 2993g, 2993g, 5g, 21g, 29g, 29g, 287g
+9360g: links: 5g, 21g, 21g; rechts: 2993g, 2993g, 2993g, 29g, 399g
+9370g: links: 29g; rechts: 2993g, 2993g, 2993g, 21g, 399g
+9380g: links: 21g, 21g, 21g, 29g, 29g, 29g; rechts: 2993g, 2993g, 2993g, 259g, 5g, 287g
+9390g: links: 5g; rechts: 2993g, 2993g, 2993g, 21g, 21g, 29g, 29g, 29g, 287g
+9400g: links: /; rechts: 2993g, 2993g, 2993g, 5g, 21g, 21g, 29g, 29g, 29g, 287g
+9410g: links: 5g, 21g; rechts: 2993g, 2993g, 2993g, 29g, 29g, 399g
+9420g: links: /; rechts: 2993g, 2993g, 2993g, 21g, 21g, 399g
+9430g: links: 21g, 21g, 29g, 29g; rechts: 2993g, 2993g, 2993g, 259g, 5g, 287g
+9440g: links: 259g; rechts: 2993g, 2993g, 2993g, 5g, 29g, 287g, 399g
+9450g: links: 287g; rechts: 2993g, 2993g, 2993g, 259g, 21g, 21g, 29g, 29g, 399g
+9460g: links: 5g; rechts: 2993g, 2993g, 2993g, 29g, 29g, 29g, 399g
+9470g: links: /; rechts: 2993g, 2993g, 2993g, 5g, 29g, 29g, 29g, 399g
+9480g: links: 21g, 29g; rechts: 2993g, 2993g, 2993g, 259g, 5g, 287g
+9490g: links: 259g; rechts: 2993g, 2993g, 2993g, 5g, 21g, 29g, 29g, 287g, 399g
+9500g: links: 287g; rechts: 2993g, 2993g, 2993g, 259g, 21g, 21g, 21g, 29g, 29g, 29g, 399g
+9510g: links: 5g, 21g, 21g, 21g, 29g, 29g, 29g; rechts: 2993g, 2993g, 2993g, 287g, 399g
+9520g: links: 5g; rechts: 2993g, 2993g, 2993g, 259g, 287g
+9530g: links: /; rechts: 2993g, 2993g, 2993g, 259g, 5g, 287g
+9540g: links: 5g, 21g, 21g, 21g, 29g; rechts: 2993g, 2993g, 2993g, 259g, 399g
+9550g: links: 29g, 29g, 29g; rechts: 2993g, 2993g, 2993g, 259g, 399g
+9560g: links: 5g, 21g, 21g, 29g, 29g; rechts: 2993g, 2993g, 2993g, 287g, 399g
+9570g: links: 5g; rechts: 2993g, 2993g, 2993g, 259g, 21g, 29g, 287g
+9580g: links: /; rechts: 2993g, 2993g, 2993g, 259g, 5g, 21g, 29g, 287g
+9590g: links: 5g, 21g, 21g; rechts: 2993g, 2993g, 2993g, 259g, 399g
+9600g: links: 21g, 21g; rechts: 2993g, 2993g, 2993g, 259g, 5g, 399g
+9610g: links: 5g, 21g, 29g; rechts: 2993g, 2993g, 2993g, 287g, 399g
+9620g: links: 5g; rechts: 2993g, 2993g, 2993g, 259g, 21g, 21g, 29g, 29g, 287g
+9630g: links: /; rechts: 2993g, 2993g, 2993g, 259g, 5g, 21g, 21g, 29g, 29g, 287g
+9640g: links: 5g, 21g; rechts: 2993g, 2993g, 2993g, 259g, 29g, 399g
+9650g: links: 21g; rechts: 2993g, 2993g, 2993g, 259g, 5g, 29g, 399g
+9660g: links: 5g; rechts: 2993g, 2993g, 2993g, 287g, 399g
+9670g: links: /; rechts: 2993g, 2993g, 2993g, 5g, 287g, 399g
+9680g: links: /; rechts: 2993g, 2993g, 2993g, 259g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g
+9690g: links: 5g; rechts: 2993g, 2993g, 2993g, 259g, 29g, 29g, 399g
+9700g: links: /; rechts: 2993g, 2993g, 2993g, 259g, 5g, 29g, 29g, 399g
+9710g: links: 5g; rechts: 2993g, 2993g, 2993g, 21g, 29g, 287g, 399g
+9720g: links: /; rechts: 2993g, 2993g, 2993g, 5g, 21g, 29g, 287g, 399g
+9730g: naechtes Ergebnis: 9729g: links: /; rechts: 2993g, 2993g, 2993g, 259g, 5g, 29g, 29g, 29g, 399g
+9740g: links: 5g; rechts: 2993g, 2993g, 2993g, 259g, 21g, 29g, 29g, 29g, 399g
+9750g: links: /; rechts: 2993g, 2993g, 2993g, 259g, 5g, 21g, 29g, 29g, 29g, 399g
+9760g: links: 5g; rechts: 2993g, 2993g, 2993g, 21g, 21g, 29g, 29g, 287g, 399g
+9770g: links: /; rechts: 2993g, 2993g, 2993g, 5g, 21g, 21g, 29g, 29g, 287g, 399g
+9780g: naechtes Ergebnis: 9779g: links: 21g, 21g, 21g, 29g, 29g, 29g; rechts: 2993g, 2993g, 2993g, 259g, 5g, 287g, 399g
+9790g: links: 5g, 21g, 21g, 29g, 29g, 29g; rechts: 2993g, 2993g, 2993g, 259g, 287g, 399g
+9800g: links: 21g, 21g, 29g, 29g, 29g; rechts: 2993g, 2993g, 2993g, 259g, 5g, 287g, 399g
+9810g: links: 5g; rechts: 2993g, 2993g, 2993g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+9820g: links: /; rechts: 2993g, 2993g, 2993g, 5g, 21g, 21g, 21g, 29g, 29g, 29g, 287g, 399g
+9830g: naechtes Ergebnis: 9829g: links: 21g, 21g, 29g, 29g; rechts: 2993g, 2993g, 2993g, 259g, 5g, 287g, 399g
+9840g: links: 5g, 21g, 29g, 29g; rechts: 2993g, 2993g, 2993g, 259g, 287g, 399g
+9850g: links: 21g, 29g, 29g; rechts: 2993g, 2993g, 2993g, 259g, 5g, 287g, 399g
+9860g: naechtes Ergebnis: 9861g: links: 5g, 29g, 29g; rechts: 2993g, 2993g, 2993g, 259g, 287g, 399g
+9870g: naechtes Ergebnis: 9869g: links: 5g, 21g, 29g; rechts: 2993g, 2993g, 2993g, 259g, 287g, 399g
+9880g: naechtes Ergebnis: 9879g: links: 21g, 29g; rechts: 2993g, 2993g, 2993g, 259g, 5g, 287g, 399g
+9890g: links: 5g, 29g; rechts: 2993g, 2993g, 2993g, 259g, 287g, 399g
+9900g: links: 29g; rechts: 2993g, 2993g, 2993g, 259g, 5g, 287g, 399g
+9910g: naechtes Ergebnis: 9911g: links: 5g, 29g; rechts: 2993g, 2993g, 2993g, 259g, 21g, 287g, 399g
+9920g: naechtes Ergebnis: 9919g: links: 5g; rechts: 2993g, 2993g, 2993g, 259g, 287g, 399g
+9930g: naechtes Ergebnis: 9929g: links: /; rechts: 2993g, 2993g, 2993g, 259g, 5g, 287g, 399g
+9940g: links: 5g; rechts: 2993g, 2993g, 2993g, 259g, 21g, 287g, 399g
+9950g: links: /; rechts: 2993g, 2993g, 2993g, 259g, 5g, 21g, 287g, 399g
+9960g: naechtes Ergebnis: 9961g: links: 5g; rechts: 2993g, 2993g, 2993g, 259g, 21g, 21g, 287g, 399g
+9970g: naechtes Ergebnis: 9969g: links: 5g; rechts: 2993g, 2993g, 2993g, 259g, 21g, 29g, 287g, 399g
+9980g: naechtes Ergebnis: 9979g: links: /; rechts: 2993g, 2993g, 2993g, 259g, 5g, 21g, 29g, 287g, 399g
+9990g: links: 5g; rechts: 2993g, 2993g, 2993g, 259g, 21g, 21g, 29g, 287g, 399g
+10000g: links: /; rechts: 2993g, 2993g, 2993g, 259g, 5g, 21g, 21g, 29g, 287g, 399g
