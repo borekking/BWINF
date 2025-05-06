@@ -1,0 +1,14 @@
+Possible!
+Amount of moves: 8
+Moves:
+D D R U U R D D 
+0 0 0 0
+1 0 1 0
+2 0 1 0
+2 1 1 1
+1 1 0 1
+0 1 0 1
+0 2 0 2
+1 2 1 2
+2 2 2 2
+Program ran for 0.000152 seconds.
