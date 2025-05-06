@@ -1,0 +1,1 @@
+Am optimalsten ist es, den Garten in 36960 viele Kleingärten zu unterteilen, mit 308 pro Zeile und 120 pro Spalte.

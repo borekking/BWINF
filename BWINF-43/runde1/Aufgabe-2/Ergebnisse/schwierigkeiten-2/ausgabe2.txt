@@ -1,0 +1,4 @@
+-> A B C D E 
+-> F G H 
+Resulting order for the given k exams:
+A B D E F G 

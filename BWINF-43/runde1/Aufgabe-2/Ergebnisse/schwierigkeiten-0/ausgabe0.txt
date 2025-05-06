@@ -1,0 +1,8 @@
+-> B 
+-> A 
+-> E 
+-> D 
+-> F G 
+-> C 
+Resulting order for the given k exams:
+B E D F C 

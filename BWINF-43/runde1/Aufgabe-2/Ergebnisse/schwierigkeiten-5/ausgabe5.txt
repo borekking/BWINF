@@ -1,0 +1,20 @@
+-> H 
+-> R 
+-> Z 
+-> C S 
+-> Q 
+-> E 
+-> K 
+-> N 
+-> M O 
+-> J 
+-> L 
+-> F 
+-> V 
+-> A D G P T U X 
+-> B 
+-> W 
+-> I 
+-> Y 
+Resulting order for the given k exams:
+H R Z C S Q E K N M O J L F V A D G P T U X B W I Y 

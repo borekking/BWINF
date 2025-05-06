@@ -1,0 +1,10 @@
+Max. amount of members: 6 out of 6
+Used lenghts: 10, 60, 90
+Members participating: 0, 1, 2, 3, 4, 5, 
+Members not participating: 
+Length l1 = 10: 4, 5, 
+(total of 2 for 10)
+Length l2 = 60: 0, 2, 3, 
+(total of 3 for 60)
+Length l3 = 90: 1, 
+(total of 1 for 90)

@@ -1,0 +1,10 @@
+-> A B C D 
+-> H I L 
+-> M N 
+-> E 
+-> J 
+-> F 
+-> K 
+-> G 
+Resulting order for the given k exams:
+A B C D H I L M N E J F K G 
